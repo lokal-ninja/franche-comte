@@ -1,6 +1,6 @@
 baseURL = "https://fr.shoogle.net/franche-comte"
 languageCode = "fr"
-title = "Franche-Comte"
+title = "Franche Comte"
 theme = "ln-base"
 
 disableKinds = ["RSS", "robotsTXT"]
