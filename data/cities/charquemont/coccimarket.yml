@@ -7,5 +7,5 @@ city: Charquemont
 street: "Rue des Armaillis"
 housenumber: 2
 phone: "+33 3 81 68 25 13"
-opening_hours: "Lundi 07:00 – 12:30, 14:00 – 19:00 | Mardi 07:00 – 12:30, 14:00 – 19:00 | Mercredi 07:00 – 12:30, 14:00 – 19:00 | Jeudi 07:00 – 12:30, 14:00 – 19:00 | Vendredi 07:00 – 12:30, 14:00 – 19:00 | Samedi 07:00 – 12:30, 14:00 – 19:00 | Dimanche 07:00 – 12:30"
+opening_hours: "Mo-Sa 07:00-12:30,14:00-19:00; Su 07:00-12:30"
 website: "http://coccimarket.fr"
