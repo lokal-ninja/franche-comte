@@ -1,5 +1,5 @@
 ---
 title: "Jacoulot Primeur"
 url: /morteau/jacoulot-primeur/
-shop: ferme
+shop: légumes
 ---

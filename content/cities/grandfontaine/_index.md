@@ -1,6 +1,6 @@
 ---
 title: Grandfontaine
 url: /grandfontaine/
-latitude: 47.1967
-longitude: 5.89871
+latitude: 47.126799600000005
+longitude: 6.556254200000001
 ---
