@@ -1,5 +1,5 @@
 ---
 title: "ShopForGeek"
 url: /pontarlier/shopforgeek/
-shop: jeux vidéo
+shop: collecteur
 ---

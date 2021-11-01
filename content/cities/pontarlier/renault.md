@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /pontarlier/renault/
-shop: voiture
+shop: réparation de voitures
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint-Aubin
 url: /saint-aubin/
-latitude: 47.032571000000004
-longitude: 5.3296958000000005
+latitude: 47.03256510000001
+longitude: 5.3296334000000005
 ---

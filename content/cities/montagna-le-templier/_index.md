@@ -1,6 +1,6 @@
 ---
-title: Montagna le Templier
+title: Montagna-le-Templier
 url: /montagna-le-templier/
-latitude: 
-longitude: 
+latitude: 46.3538222
+longitude: 5.4541566
 ---

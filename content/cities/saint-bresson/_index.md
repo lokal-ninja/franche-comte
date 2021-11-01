@@ -1,6 +1,6 @@
 ---
 title: Saint-Bresson
 url: /saint-bresson/
-latitude: 47.869800000000005
-longitude: 6.50647
+latitude: 47.870036000000006
+longitude: 6.5070582
 ---
