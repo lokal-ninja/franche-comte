@@ -1,5 +1,5 @@
 ---
-title: "L'Atelier"
+title: "L'atelier"
 url: /pontarlier/latelier/
 shop: vêtements
 ---
