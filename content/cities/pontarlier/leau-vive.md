@@ -1,5 +1,5 @@
 ---
-title: "L'eau Vive"
+title: "L'Eau Vive"
 url: /pontarlier/leau-vive/
 shop: supermarché
 ---

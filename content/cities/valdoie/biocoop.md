@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /valdoie/biocoop/
-shop: supermarché
+shop: alimentation saine
 ---
