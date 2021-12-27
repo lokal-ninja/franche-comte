@@ -1,6 +1,6 @@
 ---
 title: La Cluse-et-Mijoux
 url: /la-cluse-et-mijoux/
-latitude: 46.872261300000005
-longitude: 6.3819317
+latitude: 46.887
+longitude: 6.366
 ---

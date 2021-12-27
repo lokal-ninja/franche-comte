@@ -1,6 +1,6 @@
 ---
 title: Baume-les-Dames
 url: /baume-les-dames/
-latitude: 
-longitude: 
+latitude: 47.352
+longitude: 6.36
 ---

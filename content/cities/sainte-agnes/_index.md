@@ -1,6 +1,6 @@
 ---
 title: Sainte-Agnès
 url: /sainte-agnes/
-latitude: 46.6082696
-longitude: 5.473917500000001
+latitude: 46.612
+longitude: 5.469
 ---

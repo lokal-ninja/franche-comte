@@ -1,6 +1,6 @@
 ---
 title: Ornans
 url: /ornans/
-latitude: 47.1067818
-longitude: 6.1454937
+latitude: 47.107
+longitude: 6.145
 ---

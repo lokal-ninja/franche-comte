@@ -1,6 +1,6 @@
 ---
 title: Val-Sonnette
 url: /val-sonnette/
-latitude: 
-longitude: 
+latitude: 46.599
+longitude: 5.48
 ---

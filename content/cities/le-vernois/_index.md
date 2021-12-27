@@ -1,6 +1,6 @@
 ---
 title: Le Vernois
 url: /le-vernois/
-latitude: 47.0866285
-longitude: 6.4638321
+latitude: 46.73
+longitude: 5.593
 ---

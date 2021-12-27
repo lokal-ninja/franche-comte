@@ -1,6 +1,6 @@
 ---
 title: Villersexel
 url: /villersexel/
-latitude: 47.5506435
-longitude: 6.433631
+latitude: 47.552
+longitude: 6.435
 ---

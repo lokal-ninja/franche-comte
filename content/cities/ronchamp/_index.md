@@ -1,6 +1,6 @@
 ---
 title: Ronchamp
 url: /ronchamp/
-latitude: 47.7002959
-longitude: 6.632869
+latitude: 47.698
+longitude: 6.644
 ---

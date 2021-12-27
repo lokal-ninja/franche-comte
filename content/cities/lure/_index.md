@@ -1,6 +1,6 @@
 ---
 title: Lure
 url: /lure/
-latitude: 47.6863376
-longitude: 6.494680600000001
+latitude: 47.686
+longitude: 6.494
 ---

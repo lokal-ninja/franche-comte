@@ -1,6 +1,6 @@
 ---
 title: Orchamps
 url: /orchamps/
-latitude: 47.147550200000005
-longitude: 5.658185700000001
+latitude: 47.149
+longitude: 5.659
 ---

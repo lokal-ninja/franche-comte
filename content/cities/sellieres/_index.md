@@ -1,6 +1,6 @@
 ---
 title: Sellières
 url: /sellieres/
-latitude: 46.8266726
-longitude: 5.5632034
+latitude: 46.832
+longitude: 5.566
 ---

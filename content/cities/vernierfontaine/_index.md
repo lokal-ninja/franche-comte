@@ -1,6 +1,6 @@
 ---
 title: Vernierfontaine
 url: /vernierfontaine/
-latitude: 47.109500000000004
-longitude: 6.29917
+latitude: 47.112
+longitude: 6.302
 ---

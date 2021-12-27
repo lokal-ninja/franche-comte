@@ -1,6 +1,6 @@
 ---
 title: Bouverans
 url: /bouverans/
-latitude: 46.853202800000005
-longitude: 6.2085407
+latitude: 46.854
+longitude: 6.21
 ---

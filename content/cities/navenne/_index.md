@@ -1,6 +1,6 @@
 ---
 title: Navenne
 url: /navenne/
-latitude: 47.6085222
-longitude: 6.1604362
+latitude: 47.614
+longitude: 6.163
 ---

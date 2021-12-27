@@ -1,6 +1,6 @@
 ---
 title: Jougne
 url: /jougne/
-latitude: 46.763023000000004
-longitude: 6.3883634
+latitude: 46.768
+longitude: 6.383
 ---

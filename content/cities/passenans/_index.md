@@ -1,6 +1,6 @@
 ---
 title: Passenans
 url: /passenans/
-latitude: 46.797200000000004
-longitude: 5.618720000000001
+latitude: 46.795
+longitude: 5.618
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bavans
 url: /bavans/
-latitude: 47.4831287
-longitude: 6.7297465
+latitude: 47.48
+longitude: 6.732
 ---

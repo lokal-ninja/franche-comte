@@ -1,6 +1,6 @@
 ---
 title: Arlay
 url: /arlay/
-latitude: 46.760600000000004
-longitude: 5.53022
+latitude: 46.75
+longitude: 5.522
 ---

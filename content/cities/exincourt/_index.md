@@ -1,6 +1,6 @@
 ---
 title: Exincourt
 url: /exincourt/
-latitude: 47.5009
-longitude: 6.83595
+latitude: 47.498
+longitude: 6.837
 ---

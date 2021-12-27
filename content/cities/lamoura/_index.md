@@ -1,6 +1,6 @@
 ---
 title: Lamoura
 url: /lamoura/
-latitude: 46.3951
-longitude: 5.96694
+latitude: 46.413
+longitude: 5.997
 ---

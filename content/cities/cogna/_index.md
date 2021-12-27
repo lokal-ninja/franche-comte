@@ -1,6 +1,6 @@
 ---
 title: COGNA
 url: /cogna/
-latitude: 
-longitude: 
+latitude: 46.58
+longitude: 5.754
 ---

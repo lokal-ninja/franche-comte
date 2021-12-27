@@ -1,6 +1,6 @@
 ---
 title: Domblans
 url: /domblans/
-latitude: 46.7624
-longitude: 5.6006800000000005
+latitude: 46.763
+longitude: 5.599
 ---

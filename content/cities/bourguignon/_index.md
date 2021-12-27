@@ -1,6 +1,6 @@
 ---
 title: Bourguignon
 url: /bourguignon/
-latitude: 47.4139865
-longitude: 6.779670100000001
+latitude: 47.415
+longitude: 6.778
 ---

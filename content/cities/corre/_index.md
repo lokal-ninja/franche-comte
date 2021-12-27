@@ -1,6 +1,6 @@
 ---
 title: Corre
 url: /corre/
-latitude: 47.9174437
-longitude: 5.992937
+latitude: 47.917
+longitude: 5.984
 ---

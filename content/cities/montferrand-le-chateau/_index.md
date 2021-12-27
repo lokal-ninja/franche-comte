@@ -1,6 +1,6 @@
 ---
 title: Montferrand-le-Château
 url: /montferrand-le-chateau/
-latitude: 47.18391990000001
-longitude: 5.9077906
+latitude: 47.193
+longitude: 5.917
 ---

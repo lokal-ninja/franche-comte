@@ -1,6 +1,6 @@
 ---
 title: Balanod
 url: /balanod/
-latitude: 46.455666
-longitude: 5.3568493
+latitude: 46.449
+longitude: 5.344
 ---

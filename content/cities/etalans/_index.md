@@ -1,6 +1,6 @@
 ---
 title: Étalans
 url: /etalans/
-latitude: 47.1497
-longitude: 6.2697
+latitude: 47.149
+longitude: 6.27
 ---

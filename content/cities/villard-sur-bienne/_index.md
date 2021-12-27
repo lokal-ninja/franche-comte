@@ -1,6 +1,6 @@
 ---
 title: Villard-sur-Bienne
 url: /villard-sur-bienne/
-latitude: 46.474990500000004
-longitude: 5.898639200000001
+latitude: 46.475
+longitude: 5.897
 ---

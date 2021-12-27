@@ -1,6 +1,6 @@
 ---
 title: Lavancia-Epercy
 url: /lavancia-epercy/
-latitude: 46.3303227
-longitude: 5.6794625000000005
+latitude: 46.326
+longitude: 5.672
 ---

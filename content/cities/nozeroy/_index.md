@@ -1,6 +1,6 @@
 ---
 title: Nozeroy
 url: /nozeroy/
-latitude: 46.7742329
-longitude: 6.0358513
+latitude: 46.775
+longitude: 6.037
 ---

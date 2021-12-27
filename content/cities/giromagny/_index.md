@@ -1,6 +1,6 @@
 ---
 title: Giromagny
 url: /giromagny/
-latitude: 47.741855300000005
-longitude: 6.8251787
+latitude: 47.744
+longitude: 6.823
 ---

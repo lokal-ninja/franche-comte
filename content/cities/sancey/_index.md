@@ -1,6 +1,6 @@
 ---
 title: Sancey
 url: /sancey/
-latitude: 
-longitude: 
+latitude: 47.294
+longitude: 6.579
 ---

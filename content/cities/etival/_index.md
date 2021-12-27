@@ -1,6 +1,6 @@
 ---
 title: Étival
 url: /etival/
-latitude: 46.505
-longitude: 5.7933900000000005
+latitude: 46.508
+longitude: 5.794
 ---

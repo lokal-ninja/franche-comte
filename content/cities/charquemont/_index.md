@@ -1,6 +1,6 @@
 ---
 title: Charquemont
 url: /charquemont/
-latitude: 47.2141791
-longitude: 6.8237024
+latitude: 47.214
+longitude: 6.822
 ---

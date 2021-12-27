@@ -1,6 +1,6 @@
 ---
 title: Dommartin
 url: /dommartin/
-latitude: 46.9230809
-longitude: 6.3072046
+latitude: 46.92
+longitude: 6.305
 ---

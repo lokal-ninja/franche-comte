@@ -1,6 +1,6 @@
 ---
 title: Gray
 url: /gray/
-latitude: 47.4455642
-longitude: 5.5919867000000005
+latitude: 47.435
+longitude: 5.601
 ---

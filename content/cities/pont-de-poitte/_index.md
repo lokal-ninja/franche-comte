@@ -1,6 +1,6 @@
 ---
 title: Pont-de-Poitte
 url: /pont-de-poitte/
-latitude: 
-longitude: 
+latitude: 46.585
+longitude: 5.698
 ---

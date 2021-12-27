@@ -1,6 +1,6 @@
 ---
 title: Orgelet
 url: /orgelet/
-latitude: 46.5205835
-longitude: 5.6109831
+latitude: 46.522
+longitude: 5.612
 ---

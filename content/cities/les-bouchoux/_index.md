@@ -1,6 +1,6 @@
 ---
 title: Les Bouchoux
 url: /les-bouchoux/
-latitude: 46.297062100000005
-longitude: 5.8175929
+latitude: 46.286
+longitude: 5.789
 ---

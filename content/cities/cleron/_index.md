@@ -1,6 +1,6 @@
 ---
 title: Cléron
 url: /cleron/
-latitude: 47.087161
-longitude: 6.0587457
+latitude: 47.081
+longitude: 6.054
 ---

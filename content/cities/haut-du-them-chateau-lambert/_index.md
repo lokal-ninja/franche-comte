@@ -1,6 +1,6 @@
 ---
 title: Haut-du-Them-Château-Lambert
 url: /haut-du-them-chateau-lambert/
-latitude: 
-longitude: 
+latitude: 47.843
+longitude: 6.723
 ---

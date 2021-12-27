@@ -1,6 +1,6 @@
 ---
 title: Labergement-Sainte-Marie
 url: /labergement-sainte-marie/
-latitude: 46.774532400000005
-longitude: 6.282178
+latitude: 46.788
+longitude: 6.274
 ---

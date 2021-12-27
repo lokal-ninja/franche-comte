@@ -1,6 +1,6 @@
 ---
 title: Toulouse-le-Château
 url: /toulouse-le-chateau/
-latitude: 46.8232142
-longitude: 5.587384
+latitude: 46.827
+longitude: 5.573
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chalezeule
 url: /chalezeule/
-latitude: 47.2601607
-longitude: 6.0748939
+latitude: 47.265
+longitude: 6.06
 ---

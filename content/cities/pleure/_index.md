@@ -1,6 +1,6 @@
 ---
 title: Pleure
 url: /pleure/
-latitude: 46.916821000000006
-longitude: 5.4547375
+latitude: 46.916
+longitude: 5.449
 ---

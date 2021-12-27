@@ -1,6 +1,6 @@
 ---
 title: Trésilley
 url: /tresilley/
-latitude: 47.451109300000006
-longitude: 6.0310877000000005
+latitude: 47.45
+longitude: 6.03
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint-Claude
 url: /saint-claude/
-latitude: 
-longitude: 
+latitude: 46.38
+longitude: 5.839
 ---

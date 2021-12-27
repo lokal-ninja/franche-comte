@@ -1,6 +1,6 @@
 ---
 title: Saint-Gorgon-Main
 url: /saint-gorgon-main/
-latitude: 47.022902300000005
-longitude: 6.3226456
+latitude: 47.016
+longitude: 6.319
 ---

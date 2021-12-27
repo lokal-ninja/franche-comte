@@ -1,6 +1,6 @@
 ---
 title: Guyans-Vennes
 url: /guyans-vennes/
-latitude: 47.1561128
-longitude: 6.5714834
+latitude: 47.154
+longitude: 6.573
 ---

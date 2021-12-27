@@ -1,6 +1,6 @@
 ---
 title: Le Deschaux
 url: /le-deschaux/
-latitude: 46.954814400000004
-longitude: 5.501918300000001
+latitude: 46.946
+longitude: 5.509
 ---

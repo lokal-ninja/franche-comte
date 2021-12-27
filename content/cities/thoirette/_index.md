@@ -1,6 +1,6 @@
 ---
 title: Thoirette
 url: /thoirette/
-latitude: 46.2696818
-longitude: 5.5288656000000005
+latitude: 46.27
+longitude: 5.53
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bletterans
 url: /bletterans/
-latitude: 46.746187400000004
-longitude: 5.4537082
+latitude: 46.746
+longitude: 5.451
 ---

@@ -1,6 +1,6 @@
 ---
 title: Valdoie
 url: /valdoie/
-latitude: 47.6651582
-longitude: 6.8413823
+latitude: 47.665
+longitude: 6.845
 ---

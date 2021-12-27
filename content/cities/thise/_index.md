@@ -1,6 +1,6 @@
 ---
 title: Thise
 url: /thise/
-latitude: 47.2836567
-longitude: 6.0790996
+latitude: 47.27
+longitude: 6.062
 ---

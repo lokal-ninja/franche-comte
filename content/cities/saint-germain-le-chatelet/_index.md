@@ -1,6 +1,6 @@
 ---
 title: Saint-Germain-le-Châtelet
 url: /saint-germain-le-chatelet/
-latitude: 47.6977581
-longitude: 6.9586119
+latitude: 47.7
+longitude: 6.959
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rioz
 url: /rioz/
-latitude: 47.4214355
-longitude: 6.0730901
+latitude: 47.422
+longitude: 6.071
 ---

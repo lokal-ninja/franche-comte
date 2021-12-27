@@ -1,6 +1,6 @@
 ---
 title: Plainoiseau
 url: /plainoiseau/
-latitude: 46.727700000000006
-longitude: 5.55515
+latitude: 46.718
+longitude: 5.562
 ---

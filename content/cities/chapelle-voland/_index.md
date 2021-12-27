@@ -1,6 +1,6 @@
 ---
 title: Chapelle-Voland
 url: /chapelle-voland/
-latitude: 46.803000000000004
-longitude: 5.37781
+latitude: 46.828
+longitude: 5.408
 ---

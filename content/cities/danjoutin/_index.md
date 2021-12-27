@@ -1,6 +1,6 @@
 ---
 title: DANJOUTIN
 url: /danjoutin/
-latitude: 
-longitude: 
+latitude: 47.612
+longitude: 6.863
 ---

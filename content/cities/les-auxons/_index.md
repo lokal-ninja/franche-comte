@@ -1,6 +1,6 @@
 ---
 title: Les Auxons
 url: /les-auxons/
-latitude: 47.3011685
-longitude: 5.9571585
+latitude: 47.295
+longitude: 5.949
 ---

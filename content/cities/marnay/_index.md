@@ -1,6 +1,6 @@
 ---
 title: Marnay
 url: /marnay/
-latitude: 47.289737
-longitude: 5.771349600000001
+latitude: 47.29
+longitude: 5.772
 ---

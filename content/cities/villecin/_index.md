@@ -1,6 +1,6 @@
 ---
 title: Villecin
 url: /villecin/
-latitude: 
-longitude: 
+latitude: 46.93
+longitude: 6.333
 ---

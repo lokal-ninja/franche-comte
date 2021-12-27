@@ -1,6 +1,6 @@
 ---
 title: Rigny
 url: /rigny/
-latitude: 47.471000000000004
-longitude: 5.62929
+latitude: 47.474
+longitude: 5.627
 ---

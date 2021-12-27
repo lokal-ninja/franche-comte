@@ -1,6 +1,6 @@
 ---
 title: Nods
 url: /nods/
-latitude: 
-longitude: 
+latitude: 47.094
+longitude: 6.341
 ---

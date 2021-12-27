@@ -1,6 +1,6 @@
 ---
 title: Trépot
 url: /trepot/
-latitude: 47.166864700000005
-longitude: 6.149270700000001
+latitude: 47.163
+longitude: 6.15
 ---

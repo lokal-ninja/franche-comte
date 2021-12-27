@@ -1,6 +1,6 @@
 ---
 title: Héricourt
 url: /hericourt/
-latitude: 47.5751429
-longitude: 6.762531200000001
+latitude: 47.575
+longitude: 6.758
 ---

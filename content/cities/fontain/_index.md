@@ -1,6 +1,6 @@
 ---
 title: Fontain
 url: /fontain/
-latitude: 47.198
-longitude: 6.02587
+latitude: 47.199
+longitude: 6.026
 ---

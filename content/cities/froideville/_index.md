@@ -1,6 +1,6 @@
 ---
 title: Froideville
 url: /froideville/
-latitude: 46.6125094
-longitude: 5.468941
+latitude: 46.808
+longitude: 5.487
 ---

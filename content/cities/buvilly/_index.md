@@ -1,6 +1,6 @@
 ---
 title: Buvilly
 url: /buvilly/
-latitude: 46.867704800000006
-longitude: 5.7190412
+latitude: 46.872
+longitude: 5.718
 ---

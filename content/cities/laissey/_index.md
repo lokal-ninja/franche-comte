@@ -1,6 +1,6 @@
 ---
 title: Laissey
 url: /laissey/
-latitude: 
-longitude: 
+latitude: 47.298
+longitude: 6.234
 ---

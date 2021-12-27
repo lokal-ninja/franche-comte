@@ -1,6 +1,6 @@
 ---
 title: Dampierre-sur-Salon
 url: /dampierre-sur-salon/
-latitude: 47.5562368
-longitude: 5.6790576
+latitude: 47.547
+longitude: 5.651
 ---

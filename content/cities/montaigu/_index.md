@@ -1,6 +1,6 @@
 ---
 title: Montaigu
 url: /montaigu/
-latitude: 46.6593541
-longitude: 5.566620100000001
+latitude: 46.66
+longitude: 5.565
 ---

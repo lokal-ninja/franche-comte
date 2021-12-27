@@ -1,6 +1,6 @@
 ---
 title: Chevigny
 url: /chevigny/
-latitude: 47.177
-longitude: 5.47559
+latitude: 47.178
+longitude: 5.476
 ---
