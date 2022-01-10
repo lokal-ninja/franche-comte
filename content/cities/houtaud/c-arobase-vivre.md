@@ -1,5 +1,5 @@
 ---
 title: "C @ Vivre"
-url: /houtaud/c-at-vivre/
+url: /houtaud/c-arobase-vivre/
 shop: meubles
 ---

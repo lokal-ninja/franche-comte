@@ -1,5 +1,5 @@
 ---
 title: "Jules & Julie"
-url: /ornans/jules-and-julie/
+url: /ornans/jules-et-julie/
 shop: vêtements
 ---

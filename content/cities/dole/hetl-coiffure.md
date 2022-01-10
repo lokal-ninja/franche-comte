@@ -1,5 +1,5 @@
 ---
 title: "H&L Coiffure"
-url: /dole/handl-coiffure/
+url: /dole/hetl-coiffure/
 shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karité & Cie"
-url: /buvilly/karite-and-cie/
+url: /buvilly/karite-et-cie/
 shop: chimiste
 ---

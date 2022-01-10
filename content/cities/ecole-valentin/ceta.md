@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /ecole-valentin/canda/
+url: /ecole-valentin/ceta/
 shop: vêtements
 ---

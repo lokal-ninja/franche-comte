@@ -1,5 +1,5 @@
 ---
 title: "Ménager Assistance – PRO&Cie"
-url: /pontarlier/menager-assistance-proandcie/
+url: /pontarlier/menager-assistance-proetcie/
 shop: électronique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault & Dacia"
-url: /besancon/renault-and-dacia/
+url: /besancon/renault-et-dacia/
 shop: voiture
 ---

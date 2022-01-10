@@ -1,5 +1,5 @@
 ---
 title: "Presse & Tabac"
-url: /valdahon/presse-and-tabac/
+url: /valdahon/presse-et-tabac/
 shop: marchand de journaux
 ---

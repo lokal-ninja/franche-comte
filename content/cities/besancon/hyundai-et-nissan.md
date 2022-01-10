@@ -1,5 +1,5 @@
 ---
 title: "Hyundai & Nissan"
-url: /besancon/hyundai-and-nissan/
+url: /besancon/hyundai-et-nissan/
 shop: voiture
 ---

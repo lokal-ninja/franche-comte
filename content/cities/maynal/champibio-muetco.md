@@ -1,5 +1,5 @@
 ---
 title: "ChampiBio Mu&Co"
-url: /maynal/champibio-muandco/
+url: /maynal/champibio-muetco/
 shop: ferme
 ---

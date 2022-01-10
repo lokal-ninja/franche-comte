@@ -1,5 +1,5 @@
 ---
 title: "Fast & Fournil"
-url: /jougne/fast-and-fournil/
+url: /jougne/fast-et-fournil/
 shop: boulangerie
 ---

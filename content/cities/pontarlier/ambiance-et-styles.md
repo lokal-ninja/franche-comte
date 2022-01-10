@@ -1,5 +1,5 @@
 ---
 title: "Ambiance & Styles"
-url: /pontarlier/ambiance-and-styles/
+url: /pontarlier/ambiance-et-styles/
 shop: cadeau
 ---

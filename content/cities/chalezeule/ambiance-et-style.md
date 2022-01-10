@@ -1,5 +1,5 @@
 ---
 title: "Ambiance & Style"
-url: /chalezeule/ambiance-and-style/
+url: /chalezeule/ambiance-et-style/
 shop: décoration intérieure
 ---
