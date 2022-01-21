@@ -1,6 +1,6 @@
 ---
 title: Malbuisson
 url: /malbuisson/
-latitude: 46.801
-longitude: 6.307
+latitude: 46.799
+longitude: 6.304
 ---
