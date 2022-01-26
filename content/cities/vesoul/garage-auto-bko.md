@@ -1,5 +1,5 @@
 ---
-title: "GARAGE AUTO BKO"
+title: "Garage AUTO BKO"
 url: /vesoul/garage-auto-bko/
 shop: voiture
 ---
