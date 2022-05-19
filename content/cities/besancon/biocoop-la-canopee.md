@@ -1,5 +1,5 @@
 ---
 title: "Biocoop La Canopée"
 url: /besancon/biocoop-la-canopee/
-shop: supermarché
+shop: alimentation saine
 ---
