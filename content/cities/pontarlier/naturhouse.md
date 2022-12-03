@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse"
 url: /pontarlier/naturhouse/
-shop: beauté
+shop: les compléments alimentaires
 ---
