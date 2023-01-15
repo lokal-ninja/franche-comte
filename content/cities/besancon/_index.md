@@ -1,6 +1,6 @@
 ---
 title: Besançon
 url: /besancon/
-latitude: 47.218
-longitude: 6.02
+latitude: 47.243
+longitude: 6.033
 ---
