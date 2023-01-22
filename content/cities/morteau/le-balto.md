@@ -1,5 +1,5 @@
 ---
 title: "Le Balto"
 url: /morteau/le-balto/
-shop: tabac
+shop: marchand de journaux
 ---
