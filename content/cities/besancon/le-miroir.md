@@ -1,5 +1,5 @@
 ---
-title: "LE MIROIR"
+title: "Le Miroir"
 url: /besancon/le-miroir/
 shop: coiffeur
 ---
