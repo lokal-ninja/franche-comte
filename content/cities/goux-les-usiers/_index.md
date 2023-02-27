@@ -1,6 +1,6 @@
 ---
 title: Goux-les-Usiers
 url: /goux-les-usiers/
-latitude: 46.97
-longitude: 6.276
+latitude: 46.979
+longitude: 6.338
 ---
