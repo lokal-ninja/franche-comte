@@ -1,6 +1,6 @@
 ---
 title: Morteau
 url: /morteau/
-latitude: 47.055
-longitude: 6.609
+latitude: 47.056
+longitude: 6.605
 ---
