@@ -1,6 +1,6 @@
 ---
 title: Frontenay
 url: /frontenay/
-latitude: 46.786
-longitude: 5.612
+latitude: 46.788
+longitude: 5.616
 ---
