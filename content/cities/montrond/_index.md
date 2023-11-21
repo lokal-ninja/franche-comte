@@ -1,6 +1,6 @@
 ---
 title: Montrond
 url: /montrond/
-latitude: 46.794
-longitude: 5.837
+latitude: 46.796
+longitude: 5.833
 ---
