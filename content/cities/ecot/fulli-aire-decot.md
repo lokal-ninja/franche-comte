@@ -1,5 +1,5 @@
 ---
-title: "Fulli - aire d'écot"
+title: "Fulli - Aire d'Ecot"
 url: /ecot/fulli-aire-decot/
 shop: commodité
 ---
