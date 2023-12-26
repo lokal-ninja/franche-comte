@@ -1,6 +1,6 @@
 ---
 title: Champagnole
 url: /champagnole/
-latitude: 46.745
-longitude: 5.909
+latitude: 46.748
+longitude: 5.903
 ---
