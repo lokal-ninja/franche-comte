@@ -1,6 +1,6 @@
 ---
 title: Montmorot
 url: /montmorot/
-latitude: 46.677
-longitude: 5.522
+latitude: 46.675
+longitude: 5.537
 ---
