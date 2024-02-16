@@ -1,6 +1,6 @@
 ---
 title: Houtaud
 url: /houtaud/
-latitude: 46.919
-longitude: 6.307
+latitude: 46.917
+longitude: 6.306
 ---
