@@ -1,6 +1,6 @@
 ---
 title: Longchaumois
 url: /longchaumois/
-latitude: 46.464
-longitude: 5.945
+latitude: 46.461
+longitude: 5.931
 ---
