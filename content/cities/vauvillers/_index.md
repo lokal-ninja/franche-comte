@@ -1,6 +1,6 @@
 ---
 title: Vauvillers
 url: /vauvillers/
-latitude: 47.922
-longitude: 6.097
+latitude: 47.923
+longitude: 6.098
 ---
