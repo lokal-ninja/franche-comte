@@ -1,5 +1,5 @@
 ---
-title: "DISCOUNT AUTOS"
+title: "Discount Autos"
 url: /bavilliers/discount-autos/
 shop: voiture
 ---
