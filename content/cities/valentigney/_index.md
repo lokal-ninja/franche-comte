@@ -1,6 +1,6 @@
 ---
 title: Valentigney
 url: /valentigney/
-latitude: 47.461
-longitude: 6.837
+latitude: 47.483
+longitude: 6.829
 ---
