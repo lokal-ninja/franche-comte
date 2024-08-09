@@ -1,6 +1,6 @@
 ---
-title: Étupes
+title: Etupes
 url: /etupes/
-latitude: 47.506
-longitude: 6.862
+latitude: 47.516
+longitude: 6.874
 ---
