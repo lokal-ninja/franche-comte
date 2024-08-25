@@ -1,5 +1,5 @@
 ---
-title: "La petite percée"
+title: "La Petite Percée"
 url: /sirod/la-petite-percee/
 shop: commodité
 ---
