@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /besancon/cuisinella/
-shop: cuisine
+shop: Küchen
 ---

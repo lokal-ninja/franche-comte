@@ -1,5 +1,5 @@
 ---
 title: "Ikks"
 url: /besancon/ikks/
-shop: vêtements
+shop: Kleidung
 ---

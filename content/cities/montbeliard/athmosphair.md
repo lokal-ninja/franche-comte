@@ -1,5 +1,5 @@
 ---
 title: "Athmosphair"
 url: /montbeliard/athmosphair/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /pusey/jysk/
-shop: meubles
+shop: Möbel
 ---

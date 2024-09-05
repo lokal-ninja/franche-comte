@@ -1,5 +1,5 @@
 ---
 title: "Vitton Clop"
 url: /besancon/vitton-clop/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

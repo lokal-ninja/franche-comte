@@ -1,5 +1,5 @@
 ---
 title: "Philicot"
 url: /morteau/philicot/
-shop: centre de jardinage
+shop: Garten-Center
 ---

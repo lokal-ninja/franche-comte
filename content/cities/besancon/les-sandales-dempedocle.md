@@ -1,5 +1,5 @@
 ---
 title: "Les Sandales d'Empédocle"
 url: /besancon/les-sandales-dempedocle/
-shop: livres
+shop: Bücher
 ---

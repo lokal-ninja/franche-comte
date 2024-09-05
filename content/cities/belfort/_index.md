@@ -1,6 +1,6 @@
 ---
 title: Belfort
 url: /belfort/
-latitude: 47.646
-longitude: 6.844
+latitude: 47.643
+longitude: 6.885
 ---

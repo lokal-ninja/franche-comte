@@ -1,5 +1,5 @@
 ---
 title: "Vélosphère"
 url: /besancon/velosphere/
-shop: vélo
+shop: Fahrrad
 ---

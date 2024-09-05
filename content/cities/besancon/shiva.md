@@ -1,5 +1,5 @@
 ---
 title: "Shiva"
 url: /besancon/shiva/
-shop: blanchisserie
+shop: Wäscherei
 ---

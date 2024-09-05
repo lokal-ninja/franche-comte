@@ -1,5 +1,5 @@
 ---
 title: "Cotélac"
 url: /besancon/cotelac/
-shop: vêtements
+shop: Kleidung
 ---

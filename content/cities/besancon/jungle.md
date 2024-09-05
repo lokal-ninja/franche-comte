@@ -1,5 +1,5 @@
 ---
 title: "Jungle"
 url: /besancon/jungle/
-shop: vêtements
+shop: Kleidung
 ---

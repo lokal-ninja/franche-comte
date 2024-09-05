@@ -1,5 +1,5 @@
 ---
 title: "Labonal"
 url: /besancon/labonal/
-shop: vêtements
+shop: Kleidung
 ---

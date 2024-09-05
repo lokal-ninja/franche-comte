@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /mignovillard/coccimarket/
-shop: commodité
+shop: Lebensmittel
 ---

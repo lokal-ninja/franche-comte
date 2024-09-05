@@ -1,5 +1,5 @@
 ---
 title: "Trottinou"
 url: /morteau/trottinou/
-shop: vêtements
+shop: Kleidung
 ---

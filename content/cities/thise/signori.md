@@ -1,5 +1,5 @@
 ---
 title: "Signori"
 url: /thise/signori/
-shop: cheminée
+shop: Kamine & Öfen
 ---

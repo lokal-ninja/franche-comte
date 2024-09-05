@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /ecole-valentin/optical-center/
-shop: opticien
+shop: Optiker
 ---

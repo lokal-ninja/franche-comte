@@ -1,5 +1,5 @@
 ---
 title: "Barbier"
 url: /saulx/barbier/
-shop: coiffeur
+shop: Friseur
 ---

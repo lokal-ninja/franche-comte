@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /saone/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

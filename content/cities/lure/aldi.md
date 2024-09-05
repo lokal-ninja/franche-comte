@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lure/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

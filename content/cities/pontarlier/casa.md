@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /pontarlier/casa/
-shop: meubles
+shop: Möbel
 ---

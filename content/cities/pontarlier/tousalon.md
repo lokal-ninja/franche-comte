@@ -1,5 +1,5 @@
 ---
 title: "Tousalon"
 url: /pontarlier/tousalon/
-shop: meubles
+shop: Möbel
 ---

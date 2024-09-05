@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /vauvillers/proxi/
-shop: commodité
+shop: Lebensmittel
 ---

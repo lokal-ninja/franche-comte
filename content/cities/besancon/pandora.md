@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /besancon/pandora/
-shop: bijoux
+shop: Schmuck
 ---

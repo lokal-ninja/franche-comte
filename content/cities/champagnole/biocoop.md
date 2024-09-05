@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /champagnole/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

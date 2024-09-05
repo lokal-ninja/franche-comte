@@ -1,5 +1,5 @@
 ---
 title: "La Ferme Mamet"
 url: /les-fins/la-ferme-mamet/
-shop: fromage
+shop: Käse
 ---

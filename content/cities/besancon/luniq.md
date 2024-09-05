@@ -1,5 +1,5 @@
 ---
 title: "Luniq"
 url: /besancon/luniq/
-shop: vêtements
+shop: Kleidung
 ---

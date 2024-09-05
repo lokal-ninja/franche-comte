@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /montmorot/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

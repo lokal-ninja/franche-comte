@@ -1,5 +1,5 @@
 ---
 title: "Alimentation"
 url: /marchaux/alimentation/
-shop: commodité
+shop: Lebensmittel
 ---

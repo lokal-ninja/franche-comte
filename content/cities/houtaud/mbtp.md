@@ -1,5 +1,5 @@
 ---
 title: "MBTP"
 url: /houtaud/mbtp/
-shop: agraire
+shop: Landwirtschaftlich
 ---

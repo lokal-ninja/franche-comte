@@ -1,5 +1,5 @@
 ---
 title: "Colruyt"
 url: /champagney/colruyt/
-shop: supermarché
+shop: Supermarkt
 ---

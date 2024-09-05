@@ -1,5 +1,5 @@
 ---
 title: "Nubia"
 url: /besancon/nubia/
-shop: bijoux
+shop: Schmuck
 ---

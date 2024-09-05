@@ -1,5 +1,5 @@
 ---
 title: "Mephisto"
 url: /besancon/mephisto/
-shop: chaussures
+shop: Schuhe
 ---

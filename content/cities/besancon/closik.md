@@ -1,5 +1,5 @@
 ---
 title: "Closik"
 url: /besancon/closik/
-shop: vêtements
+shop: Kleidung
 ---

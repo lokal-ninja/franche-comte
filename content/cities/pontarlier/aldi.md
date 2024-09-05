@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pontarlier/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

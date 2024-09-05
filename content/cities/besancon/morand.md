@@ -1,5 +1,5 @@
 ---
 title: "Morand"
 url: /besancon/morand/
-shop: charcuterie
+shop: Feinkost
 ---

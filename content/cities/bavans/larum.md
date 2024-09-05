@@ -1,5 +1,5 @@
 ---
 title: "L'Arum"
 url: /bavans/larum/
-shop: fleuriste
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Marjolaine"
 url: /saint-claude/la-marjolaine/
-shop: commodité
+shop: Lebensmittel
 ---

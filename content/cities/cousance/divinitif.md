@@ -1,5 +1,5 @@
 ---
 title: "Divini'tif"
 url: /cousance/divinitif/
-shop: coiffeur
+shop: Friseur
 ---

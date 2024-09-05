@@ -1,5 +1,5 @@
 ---
 title: "Utinam"
 url: /besancon/utinam/
-shop: montres
+shop: Uhren
 ---

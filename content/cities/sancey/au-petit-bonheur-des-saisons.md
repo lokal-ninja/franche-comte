@@ -1,5 +1,5 @@
 ---
 title: "Au petit bonheur des saisons"
 url: /sancey/au-petit-bonheur-des-saisons/
-shop: légumes
+shop: Gemüse & Obst
 ---

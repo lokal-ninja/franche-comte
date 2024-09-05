@@ -1,5 +1,5 @@
 ---
 title: "Lazeo"
 url: /besancon/lazeo/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabac"
 url: /miserey-salines/tabac/
-shop: tabac
+shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Écomarché"
 url: /gy/ecomarche/
-shop: gaz
+shop: Gasflaschen
 ---

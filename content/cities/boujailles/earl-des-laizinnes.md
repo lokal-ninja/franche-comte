@@ -1,5 +1,5 @@
 ---
 title: "EARL des Laizinnes"
 url: /boujailles/earl-des-laizinnes/
-shop: ferme
+shop: Hofladen
 ---

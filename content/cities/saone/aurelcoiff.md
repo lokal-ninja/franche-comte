@@ -1,5 +1,5 @@
 ---
 title: "Aurel'coiff"
 url: /saone/aurelcoiff/
-shop: coiffeur
+shop: Friseur
 ---

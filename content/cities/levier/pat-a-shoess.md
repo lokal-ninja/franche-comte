@@ -1,5 +1,5 @@
 ---
 title: "Pat A Shoes’S"
 url: /levier/pat-a-shoess/
-shop: vêtements
+shop: Kleidung
 ---

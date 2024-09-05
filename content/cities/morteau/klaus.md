@@ -1,5 +1,5 @@
 ---
 title: "Klaus"
 url: /morteau/klaus/
-shop: chocolat
+shop: Schokolade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mathey Motoculture"
 url: /cleron/mathey-motoculture/
-shop: centre de jardinage
+shop: Garten-Center
 ---

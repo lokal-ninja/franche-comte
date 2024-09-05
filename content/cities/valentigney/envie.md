@@ -1,5 +1,5 @@
 ---
 title: "ENVIE"
 url: /valentigney/envie/
-shop: shop
+shop: Gebrauchtwaren
 ---

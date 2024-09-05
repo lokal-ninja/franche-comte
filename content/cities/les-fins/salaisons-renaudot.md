@@ -1,5 +1,5 @@
 ---
 title: "Salaisons Renaudot"
 url: /les-fins/salaisons-renaudot/
-shop: boucherie
+shop: Metzgerei
 ---

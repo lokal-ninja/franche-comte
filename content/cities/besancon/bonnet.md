@@ -1,5 +1,5 @@
 ---
 title: "Bonnet"
 url: /besancon/bonnet/
-shop: boucherie
+shop: Metzgerei
 ---

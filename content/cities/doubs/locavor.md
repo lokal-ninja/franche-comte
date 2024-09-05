@@ -1,5 +1,5 @@
 ---
 title: "Locavor"
 url: /doubs/locavor/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Natur'et Bio"
 url: /poligny/naturet-bio/
-shop: commodité
+shop: Lebensmittel
 ---

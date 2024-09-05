@@ -1,5 +1,5 @@
 ---
 title: "Casino Shop"
 url: /besancon/casino-shop-rue-des-granges/
-shop: commodité
+shop: Lebensmittel
 ---

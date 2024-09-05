@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /besancon/decathlon/
-shop: sports
+shop: Sport
 ---

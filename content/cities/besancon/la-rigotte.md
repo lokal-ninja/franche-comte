@@ -1,5 +1,5 @@
 ---
 title: "La Rigotte"
 url: /besancon/la-rigotte/
-shop: produits laitiers
+shop: Milch
 ---

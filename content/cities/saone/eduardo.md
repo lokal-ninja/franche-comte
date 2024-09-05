@@ -1,5 +1,5 @@
 ---
 title: "Eduardo"
 url: /saone/eduardo/
-shop: boucherie
+shop: Metzgerei
 ---

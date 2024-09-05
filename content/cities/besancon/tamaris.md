@@ -1,5 +1,5 @@
 ---
 title: "Tamaris"
 url: /besancon/tamaris/
-shop: chaussures
+shop: Schuhe
 ---

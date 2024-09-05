@@ -1,5 +1,5 @@
 ---
 title: "Délicassie"
 url: /loray/delicassie/
-shop: pâtisserie
+shop: Konditorei
 ---

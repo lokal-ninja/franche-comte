@@ -1,5 +1,5 @@
 ---
 title: "Jardival"
 url: /bletterans/jardival/
-shop: centre de jardinage
+shop: Garten-Center
 ---

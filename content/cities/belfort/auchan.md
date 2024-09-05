@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /belfort/auchan/
-shop: commodité
+shop: Lebensmittel
 ---
