@@ -1,5 +1,5 @@
 ---
 title: "Est Auto"
 url: /besancon/est-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

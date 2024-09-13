@@ -1,5 +1,5 @@
 ---
 title: "Legend"
 url: /besancon/legend/
-shop: Kleidung
+shop: vêtements
 ---

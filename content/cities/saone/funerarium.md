@@ -1,5 +1,5 @@
 ---
 title: "Funérarium"
 url: /saone/funerarium/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

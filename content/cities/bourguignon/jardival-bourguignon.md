@@ -1,5 +1,5 @@
 ---
 title: "Jardival Bourguignon"
 url: /bourguignon/jardival-bourguignon/
-shop: Garten-Center
+shop: centre de jardinage
 ---

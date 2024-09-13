@@ -1,5 +1,5 @@
 ---
 title: "Curiosa"
 url: /besancon/curiosa/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

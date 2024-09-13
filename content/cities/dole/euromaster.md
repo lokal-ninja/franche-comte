@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /dole/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

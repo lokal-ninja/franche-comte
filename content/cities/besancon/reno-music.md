@@ -1,5 +1,5 @@
 ---
 title: "Reno Music"
 url: /besancon/reno-music/
-shop: Instrumente
+shop: instrument de musique
 ---

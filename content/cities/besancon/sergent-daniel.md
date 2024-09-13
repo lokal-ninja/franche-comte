@@ -1,5 +1,5 @@
 ---
 title: "Sergent Daniel"
 url: /besancon/sergent-daniel/
-shop: Zeitungen
+shop: marchand de journaux
 ---

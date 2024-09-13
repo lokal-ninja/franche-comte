@@ -1,5 +1,5 @@
 ---
 title: "Sinéoka"
 url: /besancon/sineoka/
-shop: Lebensmittel
+shop: commodité
 ---

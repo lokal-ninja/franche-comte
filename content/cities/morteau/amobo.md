@@ -1,5 +1,5 @@
 ---
 title: "Amôbo"
 url: /morteau/amobo/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

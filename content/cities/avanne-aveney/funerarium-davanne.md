@@ -1,5 +1,5 @@
 ---
 title: "Funérarium d'Avanne"
 url: /avanne-aveney/funerarium-davanne/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Footfiner"
 url: /besancon/footfiner/
-shop: Schuhe
+shop: chaussures
 ---

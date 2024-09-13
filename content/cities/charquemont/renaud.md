@@ -1,5 +1,5 @@
 ---
 title: "Renaud"
 url: /charquemont/renaud/
-shop: Eisenwaren
+shop: matériel informatique
 ---

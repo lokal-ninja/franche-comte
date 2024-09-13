@@ -1,5 +1,5 @@
 ---
 title: "Antonelle"
 url: /besancon/antonelle/
-shop: Kleidung
+shop: vêtements
 ---

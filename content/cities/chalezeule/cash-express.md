@@ -1,5 +1,5 @@
 ---
 title: "Cash Express"
 url: /chalezeule/cash-express/
-shop: Gebrauchtwaren
+shop: charité
 ---

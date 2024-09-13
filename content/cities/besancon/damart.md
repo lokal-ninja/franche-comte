@@ -1,5 +1,5 @@
 ---
 title: "Damart"
 url: /besancon/damart/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diesel Électric"
 url: /thise/diesel-electric/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

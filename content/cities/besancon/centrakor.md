@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /besancon/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Javaux Automobiles – Garage Citroën"
 url: /levier/javaux-automobiles-garage-citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

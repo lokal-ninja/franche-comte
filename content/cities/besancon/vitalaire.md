@@ -1,5 +1,5 @@
 ---
 title: "Vitalaire"
 url: /besancon/vitalaire/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saône Optique"
 url: /saone/saone-optique/
-shop: Optiker
+shop: opticien
 ---

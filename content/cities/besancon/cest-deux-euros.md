@@ -1,5 +1,5 @@
 ---
 title: "C'est deux euros"
 url: /besancon/cest-deux-euros/
-shop: Kramladen
+shop: magasin de variétés
 ---

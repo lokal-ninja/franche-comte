@@ -1,5 +1,5 @@
 ---
 title: "Espace Emeraude"
 url: /poligny/espace-emeraude/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FC Pneu"
 url: /valdahon/fc-pneu/
-shop: Reifen
+shop: pneus
 ---

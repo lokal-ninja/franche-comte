@@ -1,5 +1,5 @@
 ---
 title: "La Boutique des créateurs"
 url: /besancon/la-boutique-des-createurs/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

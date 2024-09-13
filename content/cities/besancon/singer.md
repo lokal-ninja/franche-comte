@@ -1,5 +1,5 @@
 ---
 title: "Singer"
 url: /besancon/singer/
-shop: Nähzubehör
+shop: couture
 ---

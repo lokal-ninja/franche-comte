@@ -1,5 +1,5 @@
 ---
 title: "Passion Laine"
 url: /saint-amour/passion-laine/
-shop: Nähzubehör
+shop: couture
 ---

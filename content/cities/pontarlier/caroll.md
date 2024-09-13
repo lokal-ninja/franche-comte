@@ -1,5 +1,5 @@
 ---
 title: "Caroll"
 url: /pontarlier/caroll/
-shop: Kleidung
+shop: vêtements
 ---

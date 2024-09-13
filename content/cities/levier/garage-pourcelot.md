@@ -1,5 +1,5 @@
 ---
 title: "Garage Pourcelot"
 url: /levier/garage-pourcelot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

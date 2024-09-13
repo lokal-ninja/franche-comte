@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /saone/netto/
-shop: Supermarkt
+shop: supermarché
 ---

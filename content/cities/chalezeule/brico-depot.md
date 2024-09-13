@@ -1,5 +1,5 @@
 ---
 title: "Brico Dépôt"
 url: /chalezeule/brico-depot/
-shop: Baumarkt
+shop: à faire soi-même
 ---

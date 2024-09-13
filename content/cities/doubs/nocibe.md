@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /doubs/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

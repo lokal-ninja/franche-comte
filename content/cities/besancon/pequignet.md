@@ -1,5 +1,5 @@
 ---
 title: "Pequignet"
 url: /besancon/pequignet/
-shop: Uhren
+shop: montres
 ---

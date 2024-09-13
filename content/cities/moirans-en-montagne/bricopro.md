@@ -1,5 +1,5 @@
 ---
 title: "Bricopro"
 url: /moirans-en-montagne/bricopro/
-shop: Baumarkt
+shop: à faire soi-même
 ---

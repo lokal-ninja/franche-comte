@@ -1,5 +1,5 @@
 ---
 title: "Bora-Bora"
 url: /besancon/bora-bora/
-shop: Friseur
+shop: coiffeur
 ---

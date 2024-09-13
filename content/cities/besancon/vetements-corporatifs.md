@@ -1,5 +1,5 @@
 ---
 title: "Vêtements Corporatifs"
 url: /besancon/vetements-corporatifs/
-shop: Kleidung
+shop: vêtements
 ---

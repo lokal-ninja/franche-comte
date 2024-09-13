@@ -1,5 +1,5 @@
 ---
 title: "KLO"
 url: /choisey/klo/
-shop: Kramladen
+shop: magasin de variétés
 ---

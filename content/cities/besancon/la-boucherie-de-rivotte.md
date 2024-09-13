@@ -1,5 +1,5 @@
 ---
 title: "La Boucherie de Rivotte"
 url: /besancon/la-boucherie-de-rivotte/
-shop: Metzgerei
+shop: boucherie
 ---

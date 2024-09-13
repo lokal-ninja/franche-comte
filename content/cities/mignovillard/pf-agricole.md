@@ -1,5 +1,5 @@
 ---
 title: "PF Agricole"
 url: /mignovillard/pf-agricole/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

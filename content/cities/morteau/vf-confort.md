@@ -1,5 +1,5 @@
 ---
 title: "VF Confort"
 url: /morteau/vf-confort/
-shop: Badezimmer
+shop: salle de bains
 ---

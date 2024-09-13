@@ -1,5 +1,5 @@
 ---
 title: "Épicerie de Montagney"
 url: /montagney/epicerie-de-montagney/
-shop: Lebensmittel
+shop: commodité
 ---

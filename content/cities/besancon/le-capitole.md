@@ -1,5 +1,5 @@
 ---
 title: "Le Capitole"
 url: /besancon/le-capitole/
-shop: Zeitungen
+shop: marchand de journaux
 ---

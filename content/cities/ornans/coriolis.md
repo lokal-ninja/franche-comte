@@ -1,5 +1,5 @@
 ---
 title: "Coriolis"
 url: /ornans/coriolis/
-shop: Handy
+shop: téléphone portable
 ---

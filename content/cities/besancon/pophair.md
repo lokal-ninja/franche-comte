@@ -1,5 +1,5 @@
 ---
 title: "Pophair"
 url: /besancon/pophair/
-shop: Friseur
+shop: coiffeur
 ---

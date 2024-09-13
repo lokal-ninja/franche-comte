@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /besancon/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

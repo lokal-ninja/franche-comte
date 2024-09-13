@@ -1,5 +1,5 @@
 ---
 title: "Culinarion"
 url: /besancon/culinarion/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

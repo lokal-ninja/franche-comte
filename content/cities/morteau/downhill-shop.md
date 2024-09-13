@@ -1,5 +1,5 @@
 ---
 title: "Downhill Shop"
 url: /morteau/downhill-shop/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les Jardins Comtois"
 url: /les-fins/les-jardins-comtois/
-shop: Garten-Center
+shop: centre de jardinage
 ---

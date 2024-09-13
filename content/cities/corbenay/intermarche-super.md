@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /corbenay/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

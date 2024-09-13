@@ -1,5 +1,5 @@
 ---
 title: "Aubade"
 url: /belfort/aubade/
-shop: Badezimmer
+shop: salle de bains
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miss Coquines"
 url: /besancon/miss-coquines/
-shop: Kleidung
+shop: vêtements
 ---

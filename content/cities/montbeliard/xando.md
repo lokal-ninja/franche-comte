@@ -1,5 +1,5 @@
 ---
 title: "XandO"
 url: /montbeliard/xando/
-shop: Kleidung
+shop: vêtements
 ---

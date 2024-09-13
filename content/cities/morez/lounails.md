@@ -1,5 +1,5 @@
 ---
 title: "Lou'N'ails"
 url: /morez/lounails/
-shop: Kosmetik
+shop: beauté
 ---

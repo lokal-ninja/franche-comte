@@ -1,5 +1,5 @@
 ---
 title: "Pink Plaisir"
 url: /besancon/pink-plaisir/
-shop: Erotik
+shop: érotique
 ---

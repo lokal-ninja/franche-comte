@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /valdahon/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

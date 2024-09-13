@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse"
 url: /le-russey/tabac-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

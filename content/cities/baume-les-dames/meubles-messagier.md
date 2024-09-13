@@ -1,5 +1,5 @@
 ---
 title: "Meubles Messagier"
 url: /baume-les-dames/meubles-messagier/
-shop: Möbel
+shop: meubles
 ---

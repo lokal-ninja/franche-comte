@@ -1,5 +1,5 @@
 ---
 title: "Garage Citroën"
 url: /valdahon/garage-citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

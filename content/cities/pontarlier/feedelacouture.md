@@ -1,5 +1,5 @@
 ---
 title: "Féedelacouture"
 url: /pontarlier/feedelacouture/
-shop: Allgemein
+shop: shop
 ---

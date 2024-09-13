@@ -1,5 +1,5 @@
 ---
 title: "Maison de la Presse"
 url: /mouchard/maison-de-la-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

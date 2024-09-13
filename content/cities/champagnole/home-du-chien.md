@@ -1,5 +1,5 @@
 ---
 title: "Home du Chien"
 url: /champagnole/home-du-chien/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Conry"
 url: /mouchard/garage-conry/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /besancon/krys/
-shop: Optiker
+shop: opticien
 ---

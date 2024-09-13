@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /foussemagne/boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

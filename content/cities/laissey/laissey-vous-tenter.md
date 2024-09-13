@@ -1,5 +1,5 @@
 ---
 title: "Laissey Vous Tenter"
 url: /laissey/laissey-vous-tenter/
-shop: Lebensmittel
+shop: commodité
 ---

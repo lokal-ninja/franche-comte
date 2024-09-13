@@ -1,5 +1,5 @@
 ---
 title: "France Flore"
 url: /arbois/france-flore/
-shop: Blumen
+shop: fleuriste
 ---

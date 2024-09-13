@@ -1,5 +1,5 @@
 ---
 title: "Vertbaudet"
 url: /chalezeule/vertbaudet/
-shop: Kleidung
+shop: vêtements
 ---

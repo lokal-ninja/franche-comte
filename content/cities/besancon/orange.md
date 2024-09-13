@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /besancon/orange/
-shop: Handy
+shop: téléphone portable
 ---

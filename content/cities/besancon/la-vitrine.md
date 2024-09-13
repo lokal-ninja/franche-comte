@@ -1,5 +1,5 @@
 ---
 title: "La Vitrine"
 url: /besancon/la-vitrine/
-shop: Dorfladen
+shop: magasin de campagne
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Totem"
 url: /besancon/le-totem/
-shop: Zeitungen
+shop: marchand de journaux
 ---

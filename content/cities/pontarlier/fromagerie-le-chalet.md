@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Le Châlet"
 url: /pontarlier/fromagerie-le-chalet/
-shop: Käse
+shop: fromage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /bessoncourt/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

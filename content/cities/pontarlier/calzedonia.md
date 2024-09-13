@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /pontarlier/calzedonia/
-shop: Kleidung
+shop: vêtements
 ---

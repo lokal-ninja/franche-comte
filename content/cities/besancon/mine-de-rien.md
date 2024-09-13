@@ -1,5 +1,5 @@
 ---
 title: "Mine de rien"
 url: /besancon/mine-de-rien/
-shop: Bücher
+shop: livres
 ---

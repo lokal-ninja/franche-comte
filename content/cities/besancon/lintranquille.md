@@ -1,5 +1,5 @@
 ---
 title: "L'Intranquille"
 url: /besancon/lintranquille/
-shop: Bücher
+shop: livres
 ---

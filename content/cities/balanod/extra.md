@@ -1,5 +1,5 @@
 ---
 title: "Extra"
 url: /balanod/extra/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

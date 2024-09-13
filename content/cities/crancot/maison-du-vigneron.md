@@ -1,5 +1,5 @@
 ---
 title: "Maison du Vigneron"
 url: /crancot/maison-du-vigneron/
-shop: Wein
+shop: vin
 ---

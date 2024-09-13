@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ronchamp/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

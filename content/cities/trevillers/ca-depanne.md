@@ -1,5 +1,5 @@
 ---
 title: "Ça Dép'Anne"
 url: /trevillers/ca-depanne/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /pontarlier/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

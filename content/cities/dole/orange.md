@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /dole/orange/
-shop: Handy
+shop: téléphone portable
 ---

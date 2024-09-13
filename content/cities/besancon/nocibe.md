@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /besancon/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

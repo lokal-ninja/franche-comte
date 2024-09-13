@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /valdahon/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

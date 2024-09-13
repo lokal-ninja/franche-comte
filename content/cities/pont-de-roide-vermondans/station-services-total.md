@@ -1,5 +1,5 @@
 ---
 title: "Station Services Total"
 url: /pont-de-roide-vermondans/station-services-total/
-shop: Gasflaschen
+shop: gaz
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ronde des Pains"
 url: /moirans-en-montagne/ronde-des-pains/
-shop: Bäckerei
+shop: boulangerie
 ---

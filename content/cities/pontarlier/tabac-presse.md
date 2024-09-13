@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse"
 url: /pontarlier/tabac-presse/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bungalow"
 url: /besancon/bungalow/
-shop: Kleidung
+shop: vêtements
 ---

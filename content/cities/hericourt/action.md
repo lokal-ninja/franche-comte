@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /hericourt/action/
-shop: Dorfladen
+shop: magasin de campagne
 ---

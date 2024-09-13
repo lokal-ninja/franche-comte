@@ -1,5 +1,5 @@
 ---
 title: "Propulsion"
 url: /poligny/propulsion/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

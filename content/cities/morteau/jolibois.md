@@ -1,5 +1,5 @@
 ---
 title: "Jolibois"
 url: /morteau/jolibois/
-shop: Schuhe
+shop: chaussures
 ---

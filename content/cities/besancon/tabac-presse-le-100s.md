@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Le 100'S"
 url: /besancon/tabac-presse-le-100s/
-shop: Zeitungen
+shop: marchand de journaux
 ---

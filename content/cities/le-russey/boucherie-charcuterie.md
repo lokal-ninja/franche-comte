@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie"
 url: /le-russey/boucherie-charcuterie/
-shop: Metzgerei
+shop: boucherie
 ---

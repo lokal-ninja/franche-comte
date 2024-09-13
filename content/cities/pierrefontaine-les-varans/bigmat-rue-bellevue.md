@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /pierrefontaine-les-varans/bigmat-rue-bellevue/
-shop: Baumarkt
+shop: à faire soi-même
 ---

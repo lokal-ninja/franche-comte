@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /valdahon/netto-route-de-vernierfontaine/
-shop: Lebensmittel
+shop: commodité
 ---

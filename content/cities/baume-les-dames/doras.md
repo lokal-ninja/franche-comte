@@ -1,5 +1,5 @@
 ---
 title: "DORAS"
 url: /baume-les-dames/doras/
-shop: Baumarkt
+shop: à faire soi-même
 ---

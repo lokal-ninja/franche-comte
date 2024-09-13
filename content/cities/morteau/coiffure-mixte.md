@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Mixte"
 url: /morteau/coiffure-mixte/
-shop: Friseur
+shop: coiffeur
 ---

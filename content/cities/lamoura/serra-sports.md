@@ -1,5 +1,5 @@
 ---
 title: "Serra Sports"
 url: /lamoura/serra-sports/
-shop: Sport
+shop: sports
 ---

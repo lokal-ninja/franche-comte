@@ -1,5 +1,5 @@
 ---
 title: "La Serviette à Pois"
 url: /besancon/la-serviette-a-pois/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

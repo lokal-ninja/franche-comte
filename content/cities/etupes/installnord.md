@@ -1,5 +1,5 @@
 ---
 title: "Install'Nord"
 url: /etupes/installnord/
-shop: Baustoffe
+shop: commerce
 ---

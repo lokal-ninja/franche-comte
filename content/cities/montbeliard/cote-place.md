@@ -1,5 +1,5 @@
 ---
 title: "Côté Place"
 url: /montbeliard/cote-place/
-shop: Kleidung
+shop: vêtements
 ---

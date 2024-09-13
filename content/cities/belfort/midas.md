@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /belfort/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

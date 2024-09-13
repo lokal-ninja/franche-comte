@@ -1,5 +1,5 @@
 ---
 title: "La Fée Maraboutée"
 url: /besancon/la-fee-maraboutee/
-shop: Kleidung
+shop: vêtements
 ---

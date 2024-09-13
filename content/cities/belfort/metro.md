@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /belfort/metro/
-shop: Großhandel
+shop: vente en gros
 ---

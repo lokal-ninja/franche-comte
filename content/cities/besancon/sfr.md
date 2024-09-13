@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /besancon/sfr/
-shop: Handy
+shop: téléphone portable
 ---

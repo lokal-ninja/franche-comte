@@ -1,5 +1,5 @@
 ---
 title: "Tabac des Arènes"
 url: /dole/tabac-des-arenes/
-shop: Tabak
+shop: tabac
 ---

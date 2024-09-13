@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /saone/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

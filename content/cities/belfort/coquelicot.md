@@ -1,5 +1,5 @@
 ---
 title: "Coquelicot"
 url: /belfort/coquelicot/
-shop: Blumen
+shop: fleuriste
 ---

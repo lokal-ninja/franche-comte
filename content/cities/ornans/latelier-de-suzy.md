@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier de Suzy"
 url: /ornans/latelier-de-suzy/
-shop: Kunst
+shop: art
 ---

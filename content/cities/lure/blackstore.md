@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /lure/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

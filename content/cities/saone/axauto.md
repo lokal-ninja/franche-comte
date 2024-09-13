@@ -1,5 +1,5 @@
 ---
 title: "Axauto"
 url: /saone/axauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

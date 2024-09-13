@@ -1,5 +1,5 @@
 ---
 title: "La Vervotte"
 url: /pesmes/la-vervotte/
-shop: Zeitungen
+shop: marchand de journaux
 ---

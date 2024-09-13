@@ -1,5 +1,5 @@
 ---
 title: "Garage Scania"
 url: /loray/garage-scania/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /besancon/courir/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Festival des pains"
 url: /besancon/festival-des-pains/
-shop: Bäckerei
+shop: boulangerie
 ---

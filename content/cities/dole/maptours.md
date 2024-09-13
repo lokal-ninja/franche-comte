@@ -1,5 +1,5 @@
 ---
 title: "Map'Tours"
 url: /dole/maptours/
-shop: Reisebüro
+shop: agence de voyage
 ---

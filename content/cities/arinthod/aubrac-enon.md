@@ -1,5 +1,5 @@
 ---
 title: "Aubrac Enon"
 url: /arinthod/aubrac-enon/
-shop: Hofladen
+shop: ferme
 ---

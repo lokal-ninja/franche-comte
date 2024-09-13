@@ -1,5 +1,5 @@
 ---
 title: "Trott'Menu"
 url: /besancon/trottmenu/
-shop: Schuhe
+shop: chaussures
 ---

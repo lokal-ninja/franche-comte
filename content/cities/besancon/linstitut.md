@@ -1,5 +1,5 @@
 ---
 title: "L'Institut"
 url: /besancon/linstitut/
-shop: Kosmetik
+shop: beauté
 ---

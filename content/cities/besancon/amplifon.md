@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /besancon/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

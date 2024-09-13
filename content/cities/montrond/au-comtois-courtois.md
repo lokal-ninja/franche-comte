@@ -1,5 +1,5 @@
 ---
 title: "Au Comtois Courtois"
 url: /montrond/au-comtois-courtois/
-shop: Feinkost
+shop: charcuterie
 ---

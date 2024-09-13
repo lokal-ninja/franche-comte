@@ -1,5 +1,5 @@
 ---
 title: "JLD Tabac Presse"
 url: /damprichard/jld-tabac-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

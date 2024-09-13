@@ -1,5 +1,5 @@
 ---
 title: "Destination Bien-être"
 url: /gy/destination-bien-etre/
-shop: Kosmetik
+shop: beauté
 ---

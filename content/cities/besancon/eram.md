@@ -1,5 +1,5 @@
 ---
 title: "Éram"
 url: /besancon/eram/
-shop: Schuhe
+shop: chaussures
 ---

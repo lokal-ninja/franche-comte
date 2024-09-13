@@ -1,5 +1,5 @@
 ---
 title: "Bulles d'Hair"
 url: /pontarlier/bulles-dhair/
-shop: Friseur
+shop: coiffeur
 ---

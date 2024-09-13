@@ -1,5 +1,5 @@
 ---
 title: "Corde Orientale"
 url: /besancon/corde-orientale/
-shop: Instrumente
+shop: instrument de musique
 ---

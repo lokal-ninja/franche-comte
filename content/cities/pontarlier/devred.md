@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /pontarlier/devred/
-shop: Kleidung
+shop: vêtements
 ---

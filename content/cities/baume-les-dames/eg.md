@@ -1,5 +1,5 @@
 ---
 title: "EG"
 url: /baume-les-dames/eg/
-shop: Friseur
+shop: coiffeur
 ---

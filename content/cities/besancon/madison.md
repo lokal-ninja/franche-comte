@@ -1,5 +1,5 @@
 ---
 title: "Madison"
 url: /besancon/madison/
-shop: Schuhe
+shop: chaussures
 ---

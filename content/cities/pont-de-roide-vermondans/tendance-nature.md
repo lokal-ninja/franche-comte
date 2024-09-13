@@ -1,5 +1,5 @@
 ---
 title: "Tendance Nature"
 url: /pont-de-roide-vermondans/tendance-nature/
-shop: Friseur
+shop: coiffeur
 ---

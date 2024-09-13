@@ -1,5 +1,5 @@
 ---
 title: "Lons Pieces Auto"
 url: /messia-sur-sorne/lons-pieces-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

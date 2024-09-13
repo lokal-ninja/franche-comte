@@ -1,5 +1,5 @@
 ---
 title: "Gobin"
 url: /besancon/gobin/
-shop: Fisch
+shop: fruits de mer
 ---

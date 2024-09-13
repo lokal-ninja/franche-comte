@@ -1,5 +1,5 @@
 ---
 title: "Publicite Lepeut"
 url: /chevigny/publicite-lepeut/
-shop: Zeitungen
+shop: marchand de journaux
 ---

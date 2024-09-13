@@ -1,5 +1,5 @@
 ---
 title: "Elixia Limonade Artisanale"
 url: /champagnole/elixia-limonade-artisanale/
-shop: Getränke
+shop: boissons
 ---

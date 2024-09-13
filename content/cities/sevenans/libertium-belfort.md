@@ -1,5 +1,5 @@
 ---
 title: "Libertium Belfort"
 url: /sevenans/libertium-belfort/
-shop: Wohnwagen
+shop: caravane
 ---

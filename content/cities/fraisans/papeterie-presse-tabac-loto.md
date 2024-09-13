@@ -1,5 +1,5 @@
 ---
 title: "Papeterie - Presse - Tabac - Loto"
 url: /fraisans/papeterie-presse-tabac-loto/
-shop: Zeitungen
+shop: marchand de journaux
 ---

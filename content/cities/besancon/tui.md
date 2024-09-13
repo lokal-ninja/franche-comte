@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /besancon/tui/
-shop: Reisebüro
+shop: agence de voyage
 ---

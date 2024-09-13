@@ -1,5 +1,5 @@
 ---
 title: "O'Tacos"
 url: /montreux-chateau/otacos/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

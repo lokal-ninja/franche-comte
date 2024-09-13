@@ -1,5 +1,5 @@
 ---
 title: "Briconautes"
 url: /les-rousses/briconautes/
-shop: Baumarkt
+shop: à faire soi-même
 ---

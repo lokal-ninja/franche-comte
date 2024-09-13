@@ -1,5 +1,5 @@
 ---
 title: "Le Tempo"
 url: /besancon/le-tempo/
-shop: Zeitungen
+shop: marchand de journaux
 ---

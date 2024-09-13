@@ -1,5 +1,5 @@
 ---
 title: "Coup Epil Dog"
 url: /giromagny/coup-epil-dog/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

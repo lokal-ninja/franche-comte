@@ -1,5 +1,5 @@
 ---
 title: "Ets Pourcelot"
 url: /orchamps-vennes/ets-pourcelot/
-shop: Eisenwaren
+shop: matériel informatique
 ---

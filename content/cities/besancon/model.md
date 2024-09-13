@@ -1,5 +1,5 @@
 ---
 title: "Model"
 url: /besancon/model/
-shop: Kleidung
+shop: vêtements
 ---

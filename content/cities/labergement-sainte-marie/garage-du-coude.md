@@ -1,5 +1,5 @@
 ---
 title: "Garage du Coude"
 url: /labergement-sainte-marie/garage-du-coude/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

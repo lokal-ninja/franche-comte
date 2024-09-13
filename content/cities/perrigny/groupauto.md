@@ -1,5 +1,5 @@
 ---
 title: "Groupauto"
 url: /perrigny/groupauto/
-shop: Autoteile
+shop: pièces de voitures
 ---

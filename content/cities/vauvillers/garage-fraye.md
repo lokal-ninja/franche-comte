@@ -1,5 +1,5 @@
 ---
 title: "Garage Fraye"
 url: /vauvillers/garage-fraye/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

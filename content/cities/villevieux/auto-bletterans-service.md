@@ -1,5 +1,5 @@
 ---
 title: "Auto Bletterans Service"
 url: /villevieux/auto-bletterans-service/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

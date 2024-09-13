@@ -1,5 +1,5 @@
 ---
 title: "Salon Mozaïc"
 url: /saint-aubin/salon-mozaic/
-shop: Friseur
+shop: coiffeur
 ---

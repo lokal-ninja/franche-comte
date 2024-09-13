@@ -1,5 +1,5 @@
 ---
 title: "Agri Compost 70"
 url: /montigny-les-vesoul/agri-compost-70/
-shop: Kramladen
+shop: magasin de variétés
 ---

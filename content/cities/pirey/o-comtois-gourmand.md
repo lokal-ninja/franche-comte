@@ -1,5 +1,5 @@
 ---
 title: "O Comtois Gourmand"
 url: /pirey/o-comtois-gourmand/
-shop: Feinkost
+shop: charcuterie
 ---

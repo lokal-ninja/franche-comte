@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /voray-sur-lognon/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

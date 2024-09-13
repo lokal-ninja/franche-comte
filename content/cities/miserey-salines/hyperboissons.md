@@ -1,5 +1,5 @@
 ---
 title: "Hyperboissons"
 url: /miserey-salines/hyperboissons/
-shop: Getränke
+shop: boissons
 ---

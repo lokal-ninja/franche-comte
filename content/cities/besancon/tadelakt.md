@@ -1,5 +1,5 @@
 ---
 title: "Tadelakt"
 url: /besancon/tadelakt/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

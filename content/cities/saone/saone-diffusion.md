@@ -1,5 +1,5 @@
 ---
 title: "Saone Diffusion"
 url: /saone/saone-diffusion/
-shop: Autoteile
+shop: pièces de voitures
 ---

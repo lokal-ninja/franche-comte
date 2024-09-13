@@ -1,5 +1,5 @@
 ---
 title: "Pylones"
 url: /besancon/pylones/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

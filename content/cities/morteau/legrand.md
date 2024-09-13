@@ -1,5 +1,5 @@
 ---
 title: "Legrand"
 url: /morteau/legrand/
-shop: Bäckerei
+shop: boulangerie
 ---

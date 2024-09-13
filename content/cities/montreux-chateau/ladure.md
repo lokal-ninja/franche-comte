@@ -1,5 +1,5 @@
 ---
 title: "LaDure"
 url: /montreux-chateau/ladure/
-shop: Erotik
+shop: érotique
 ---

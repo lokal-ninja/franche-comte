@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /arbois/spar/
-shop: Lebensmittel
+shop: commodité
 ---

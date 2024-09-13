@@ -1,5 +1,5 @@
 ---
 title: "Eldora-Games"
 url: /montbeliard/eldora-games/
-shop: Videospiele
+shop: jeux vidéo
 ---

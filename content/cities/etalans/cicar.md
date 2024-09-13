@@ -1,5 +1,5 @@
 ---
 title: "Cicar"
 url: /etalans/cicar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

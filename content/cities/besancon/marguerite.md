@@ -1,5 +1,5 @@
 ---
 title: "Marguerite"
 url: /besancon/marguerite/
-shop: Kleidung
+shop: vêtements
 ---

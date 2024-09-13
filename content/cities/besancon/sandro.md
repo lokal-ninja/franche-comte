@@ -1,5 +1,5 @@
 ---
 title: "Sandro"
 url: /besancon/sandro/
-shop: Kleidung
+shop: vêtements
 ---

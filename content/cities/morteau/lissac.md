@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /morteau/lissac/
-shop: Optiker
+shop: opticien
 ---

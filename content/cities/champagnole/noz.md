@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /champagnole/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

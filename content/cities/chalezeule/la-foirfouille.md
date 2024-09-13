@@ -1,5 +1,5 @@
 ---
 title: "La Foir'Fouille"
 url: /chalezeule/la-foirfouille/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

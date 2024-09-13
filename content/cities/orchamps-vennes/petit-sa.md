@@ -1,5 +1,5 @@
 ---
 title: "PETIT SA"
 url: /orchamps-vennes/petit-sa/
-shop: Sport
+shop: sports
 ---

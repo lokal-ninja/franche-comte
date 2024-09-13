@@ -1,5 +1,5 @@
 ---
 title: "Doras"
 url: /pontarlier/doras/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Syl’Optic"
 url: /besancon/syloptic/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Terre Comtoise"
 url: /avoudrey/terre-comtoise-sur-le-jura/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

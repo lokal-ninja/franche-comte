@@ -1,5 +1,5 @@
 ---
 title: "Funérarium"
 url: /valdahon/funerarium/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

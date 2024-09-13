@@ -1,5 +1,5 @@
 ---
 title: "Comafranc"
 url: /valdahon/comafranc/
-shop: Baumarkt
+shop: à faire soi-même
 ---

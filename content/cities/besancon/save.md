@@ -1,5 +1,5 @@
 ---
 title: "Save"
 url: /besancon/save/
-shop: Handy
+shop: téléphone portable
 ---

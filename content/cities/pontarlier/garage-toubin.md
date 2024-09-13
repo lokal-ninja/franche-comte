@@ -1,5 +1,5 @@
 ---
 title: "Garage Toubin"
 url: /pontarlier/garage-toubin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

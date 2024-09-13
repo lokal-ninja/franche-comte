@@ -1,5 +1,5 @@
 ---
 title: "Domaine Grand"
 url: /passenans/domaine-grand/
-shop: Spirituosen
+shop: alcool
 ---

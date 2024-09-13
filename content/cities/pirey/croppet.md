@@ -1,5 +1,5 @@
 ---
 title: "Croppet"
 url: /pirey/croppet/
-shop: Metzgerei
+shop: boucherie
 ---

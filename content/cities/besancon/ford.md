@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /besancon/ford/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

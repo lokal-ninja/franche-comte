@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Ligier"
 url: /valdahon/carrosserie-ligier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

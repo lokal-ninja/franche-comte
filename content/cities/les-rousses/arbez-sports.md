@@ -1,5 +1,5 @@
 ---
 title: "arbez sports"
 url: /les-rousses/arbez-sports/
-shop: Sport
+shop: sports
 ---

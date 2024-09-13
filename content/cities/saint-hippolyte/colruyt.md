@@ -1,5 +1,5 @@
 ---
 title: "Colruyt"
 url: /saint-hippolyte/colruyt/
-shop: Supermarkt
+shop: supermarché
 ---

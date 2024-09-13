@@ -1,5 +1,5 @@
 ---
 title: "Jura Moto'Cycles"
 url: /orgelet/jura-motocycles/
-shop: Fahrrad
+shop: vélo
 ---

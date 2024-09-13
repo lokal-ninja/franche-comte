@@ -1,5 +1,5 @@
 ---
 title: "BackinGame"
 url: /besancon/backingame/
-shop: Videospiele
+shop: jeux vidéo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boutique d'Ailleurs"
 url: /belfort/boutique-dailleurs/
-shop: Tee
+shop: thé
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garnier"
 url: /levier/garnier/
-shop: Landwirtschaftlich
+shop: agraire
 ---

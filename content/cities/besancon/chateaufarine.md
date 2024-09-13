@@ -1,5 +1,5 @@
 ---
 title: "Châteaufarine"
 url: /besancon/chateaufarine/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

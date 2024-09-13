@@ -1,5 +1,5 @@
 ---
 title: "RS Automobiles"
 url: /ornans/rs-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

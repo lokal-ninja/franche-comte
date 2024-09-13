@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /besancon/free/
-shop: Handy
+shop: téléphone portable
 ---

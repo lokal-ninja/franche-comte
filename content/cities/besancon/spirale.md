@@ -1,5 +1,5 @@
 ---
 title: "Spirale"
 url: /besancon/spirale/
-shop: Schmuck
+shop: bijoux
 ---

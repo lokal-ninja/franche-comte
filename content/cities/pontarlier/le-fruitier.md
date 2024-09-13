@@ -1,5 +1,5 @@
 ---
 title: "Le Fruitier"
 url: /pontarlier/le-fruitier/
-shop: Feinkost
+shop: charcuterie
 ---

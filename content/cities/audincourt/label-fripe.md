@@ -1,5 +1,5 @@
 ---
 title: "Label Fripe"
 url: /audincourt/label-fripe/
-shop: Kleidung
+shop: vêtements
 ---

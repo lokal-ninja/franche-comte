@@ -1,5 +1,5 @@
 ---
 title: "SOS Oxygène Franche-Comté"
 url: /besancon/sos-oxygene-franche-comte/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

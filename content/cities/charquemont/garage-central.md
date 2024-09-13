@@ -1,5 +1,5 @@
 ---
 title: "Garage Central"
 url: /charquemont/garage-central/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

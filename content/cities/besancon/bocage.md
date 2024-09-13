@@ -1,5 +1,5 @@
 ---
 title: "Bocage"
 url: /besancon/bocage/
-shop: Schuhe
+shop: chaussures
 ---

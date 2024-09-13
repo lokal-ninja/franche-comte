@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /audincourt/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

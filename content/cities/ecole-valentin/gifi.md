@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /ecole-valentin/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

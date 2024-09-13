@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /doubs/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

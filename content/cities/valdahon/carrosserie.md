@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie"
 url: /valdahon/carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /saone/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

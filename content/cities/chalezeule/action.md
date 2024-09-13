@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /chalezeule/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

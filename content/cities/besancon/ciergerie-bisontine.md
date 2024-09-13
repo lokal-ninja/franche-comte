@@ -1,5 +1,5 @@
 ---
 title: "Ciergerie Bisontine"
 url: /besancon/ciergerie-bisontine/
-shop: Kerzen
+shop: bougies
 ---

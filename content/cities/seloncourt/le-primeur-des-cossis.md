@@ -1,5 +1,5 @@
 ---
 title: "Le primeur des Cossis"
 url: /seloncourt/le-primeur-des-cossis/
-shop: Gemüse & Obst
+shop: légumes
 ---
