@@ -1,11 +1,11 @@
 id: 243363459
-type: way
+type: node
 latitude: 46.66863
 longitude: 5.57614
 postcode: "39570"
 city: Perrigny
-street: "Route de Conliège"
-housenumber: 316
+street: Route de Conliège
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

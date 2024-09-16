@@ -4,8 +4,8 @@ latitude: 46.90861
 longitude: 6.34039
 postcode: "25300"
 city: Pontarlier
-street: "Rue de la Libération"
-housenumber: 33
-phone: "+33 9 77 40 19 37"
-opening_hours: "Tu-Fr 08:30-12:00,14:00-17:30; Sa 08:30-12:00,14:00-17:00"
-website: "https://www.carglass.fr/centre/25300-100000001009900/pontarlier-pp"
+street: Rue de la Libération
+housenumber: "33"
+phone: +33 9 77 40 19 37
+opening_hours: Tu-Fr 08:30-12:00,14:00-17:30; Sa 08:30-12:00,14:00-17:00
+website: https://www.carglass.fr/centre/25300-100000001009900/pontarlier-pp

@@ -4,8 +4,8 @@ latitude: 47.2386
 longitude: 6.02469
 postcode: "25000"
 city: Besançon
-street: "Rue de la République"
-housenumber: 5
+street: Rue de la République
+housenumber: "5"
 phone: "+33381635828"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00"
-website: "https://magasin.save.co/37-save-besancon"
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00
+website: https://magasin.save.co/37-save-besancon

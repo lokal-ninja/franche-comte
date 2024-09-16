@@ -1,11 +1,11 @@
 id: 236140418
-type: way
+type: node
 latitude: 46.68772
 longitude: 5.66858
 postcode: "39570"
 city: Crançot
-street: "Route de Champagnole"
-housenumber: 
-phone: "+33 3 84 87 66 73"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://fr.maisonduvigneron.com"
+street: Route de Champagnole
+housenumber: ""
+phone: +33 3 84 87 66 73
+opening_hours: Mo-Fr 09:00-18:00
+website: https://fr.maisonduvigneron.com

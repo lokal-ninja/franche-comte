@@ -1,11 +1,11 @@
 id: 625508122
-type: way
+type: node
 latitude: 46.66855
 longitude: 5.57618
 postcode: "39570"
 city: Perrigny
-street: "Route de Conliège"
-housenumber: 316
-phone: "+33 3 84 24 19 51"
-opening_hours: "24/7"
-website: "http://store.total.fr/fr_FR/NF005203"
+street: Route de Conliège
+housenumber: "316"
+phone: +33 3 84 24 19 51
+opening_hours: 24/7
+website: http://store.total.fr/fr_FR/NF005203

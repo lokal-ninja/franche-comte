@@ -4,8 +4,8 @@ latitude: 47.23779
 longitude: 6.02655
 postcode: "25000"
 city: Besançon
-street: "Rue des Granges"
-housenumber: 59
+street: Rue des Granges
+housenumber: "59"
 phone: "+33381834438"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-13:00,14:00-19:00"
-website: "https://entrevuesoptique.fr/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-13:00,14:00-19:00
+website: https://entrevuesoptique.fr/

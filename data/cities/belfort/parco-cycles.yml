@@ -4,8 +4,8 @@ latitude: 47.64575
 longitude: 6.8436
 postcode: "90000"
 city: Belfort
-street: "Rue Maurice et Louis de Broglie"
-housenumber: 10
+street: Rue Maurice et Louis de Broglie
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://parcocycles.com"
+website: https://parcocycles.com

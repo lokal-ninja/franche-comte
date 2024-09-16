@@ -4,8 +4,8 @@ latitude: 46.90507
 longitude: 6.35194
 postcode: "25300"
 city: Pontarlier
-street: "Place Saint-Pierre"
-housenumber: 8
-phone: "+33 3 81 39 60 04"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://boutique.sfr.fr/bourgogne-franche-comte/doubs/pontarlier/8-place-saint-pierre"
+street: Place Saint-Pierre
+housenumber: "8"
+phone: +33 3 81 39 60 04
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://boutique.sfr.fr/bourgogne-franche-comte/doubs/pontarlier/8-place-saint-pierre

@@ -1,11 +1,11 @@
 id: 90413354
-type: way
+type: node
 latitude: 47.14961
 longitude: 6.33502
 postcode: "25800"
 city: Valdahon
-street: "Rue du Maréchal de Lattre de Tassigny"
-housenumber: 
-phone: "+33 3 81 56 42 22"
-opening_hours: "Mo-Fr 08:30-19:15; Sa 08:30-19:00"
+street: Rue du Maréchal de Lattre de Tassigny
+housenumber: ""
+phone: +33 3 81 56 42 22
+opening_hours: Mo-Fr 08:30-19:15; Sa 08:30-19:00
 website: ""

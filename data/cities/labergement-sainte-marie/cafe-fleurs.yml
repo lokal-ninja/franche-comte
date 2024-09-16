@@ -4,8 +4,8 @@ latitude: 46.77472
 longitude: 6.28035
 postcode: "25160"
 city: Labergement-Sainte-Marie
-street: "Avenue de la Gare"
-housenumber: 8
-phone: "+33 3 81 39 70 26"
-opening_hours: "Tu-Fr 08:30-12:30,14:30-19:00; Sa 09:00-19:00; Su 09:00-12:00"
-website: "https://www.cafe-fleurs.fr/"
+street: Avenue de la Gare
+housenumber: "8"
+phone: +33 3 81 39 70 26
+opening_hours: Tu-Fr 08:30-12:30,14:30-19:00; Sa 09:00-19:00; Su 09:00-12:00
+website: https://www.cafe-fleurs.fr/

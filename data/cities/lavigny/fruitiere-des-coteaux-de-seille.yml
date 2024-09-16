@@ -1,11 +1,11 @@
 id: 252455833
-type: way
+type: node
 latitude: 46.7256
 longitude: 5.59169
 postcode: "39210"
 city: Lavigny
 street: ""
-housenumber: 
-phone: "+33 3 84 25 31 89"
-opening_hours: "Mo-Sa 08:45-12:15,16:30-19:00; Su 08:45-12:00"
-website: "https://www.comte-morbier.com"
+housenumber: ""
+phone: +33 3 84 25 31 89
+opening_hours: Mo-Sa 08:45-12:15,16:30-19:00; Su 08:45-12:00
+website: https://www.comte-morbier.com

@@ -1,11 +1,11 @@
 id: 252145292
-type: way
+type: node
 latitude: 46.67333
 longitude: 5.53591
 postcode: "39570"
 city: Montmorot
-street: "Rue Aristide Briand"
-housenumber: 52
-phone: "+33 3 84 47 09 63"
-opening_hours: "Mo-Sa 07:30-12:30,15:00-18:00"
+street: Rue Aristide Briand
+housenumber: "52"
+phone: +33 3 84 47 09 63
+opening_hours: Mo-Sa 07:30-12:30,15:00-18:00
 website: ""

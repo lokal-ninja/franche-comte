@@ -4,8 +4,8 @@ latitude: 47.2356
 longitude: 5.67444
 postcode: "39350"
 city: Ougney
-street: "Rue des Mines"
-housenumber: 1
-phone: "+33 3 63 66 23 69"
-opening_hours: "Mo-Fr 14:00-17:00"
-website: "https://www.photoclinic.info/"
+street: Rue des Mines
+housenumber: "1"
+phone: +33 3 63 66 23 69
+opening_hours: Mo-Fr 14:00-17:00
+website: https://www.photoclinic.info/

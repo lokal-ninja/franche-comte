@@ -1,11 +1,11 @@
 id: 121757504
-type: way
+type: node
 latitude: 46.90178
 longitude: 5.7729
 postcode: "39600"
 city: Arbois
-street: "Petite Place"
-housenumber: 5
-phone: "+33 3 84 66 25 76"
+street: Petite Place
+housenumber: "5"
+phone: +33 3 84 66 25 76
 opening_hours: ""
-website: "https://www.domainedelatournelle.com/"
+website: https://www.domainedelatournelle.com/

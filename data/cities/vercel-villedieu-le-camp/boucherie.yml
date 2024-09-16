@@ -1,11 +1,11 @@
 id: 127557517
-type: way
+type: node
 latitude: 47.18323
 longitude: 6.39789
 postcode: "25530"
 city: Vercel-Villedieu-le-Camp
-street: "Place de la Libération"
-housenumber: 10
+street: Place de la Libération
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

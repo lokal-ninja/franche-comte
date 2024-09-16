@@ -4,8 +4,8 @@ latitude: 47.23828
 longitude: 6.02589
 postcode: "25000"
 city: Besançon
-street: "Rue des Granges"
-housenumber: 47
+street: Rue des Granges
+housenumber: "47"
 phone: "+33980949220"
-opening_hours: "Tu-Sa 11:00-18:30"
-website: "http://www.pylones.com/"
+opening_hours: Tu-Sa 11:00-18:30
+website: http://www.pylones.com/

@@ -1,11 +1,12 @@
 id: 516561877
-type: way
+type: node
 latitude: 46.66452
 longitude: 5.5245
 postcode: "39570"
 city: Messia-sur-Sorne
-street: "Route de Lyon"
-housenumber: 175
-phone: "+33 9 74 56 06 80"
-opening_hours: "Mo 09:00-12:00,13:30-18:30; Tu-Th 08:00-12:00,13:30-18:30; Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00"
-website: "https://www.lonspiecesauto.fr"
+street: Route de Lyon
+housenumber: "175"
+phone: +33 9 74 56 06 80
+opening_hours: Mo 09:00-12:00,13:30-18:30; Tu-Th 08:00-12:00,13:30-18:30; Fr 08:00-12:00,13:30-18:00;
+    Sa 09:00-12:00
+website: https://www.lonspiecesauto.fr

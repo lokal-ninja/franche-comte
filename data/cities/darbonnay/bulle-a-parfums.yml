@@ -1,11 +1,11 @@
 id: 252547092
-type: way
+type: node
 latitude: 46.81527
 longitude: 5.60321
 postcode: "39230"
 city: Darbonnay
-street: "Chemin de la Brenne"
-housenumber: 
-phone: "+33 6 74 14 49 91"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.bulle-a-parfums.fr"
+street: Chemin de la Brenne
+housenumber: ""
+phone: +33 6 74 14 49 91
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.bulle-a-parfums.fr

@@ -1,11 +1,11 @@
 id: 166363360
-type: way
+type: node
 latitude: 46.95444
 longitude: 6.12867
 postcode: "25270"
 city: Levier
-street: "Rue de Septfontaine"
-housenumber: 
-phone: "+33 3 81 89 51 99"
+street: Rue de Septfontaine
+housenumber: ""
+phone: +33 3 81 89 51 99
 opening_hours: ""
 website: ""

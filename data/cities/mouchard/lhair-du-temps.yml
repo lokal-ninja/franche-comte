@@ -1,11 +1,12 @@
 id: 151920813
-type: way
+type: node
 latitude: 46.97799
 longitude: 5.80639
 postcode: "39330"
 city: Mouchard
-street: "place du bel air"
-housenumber: 7
+street: place du bel air
+housenumber: "7"
 phone: "+33384733259"
-opening_hours: "mo 09:00-18:00; tu 08:30-19:30; we 08:30-19:00; th 09:00-19:30; fr 08:00-19:30; sa 07:30-15:30"
+opening_hours: mo 09:00-18:00; tu 08:30-19:30; we 08:30-19:00; th 09:00-19:30; fr
+    08:00-19:30; sa 07:30-15:30
 website: ""

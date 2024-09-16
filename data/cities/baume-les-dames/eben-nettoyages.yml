@@ -1,11 +1,12 @@
 id: 66156180
-type: way
+type: node
 latitude: 47.34781
 longitude: 6.35713
 postcode: "25110"
 city: Baume-les-Dames
-street: "Rue des Glycines"
-housenumber: 11
-phone: "+33 3 81 84 05 22"
-opening_hours: "Tu 08:30-12:00,14:30-19:00; We 09:30-14:00; Th-Fr 08:30-12:00,14:30-19:00; Sa 08:30-12:00,13:30-17:00"
-website: "https://eben-nettoyage.fr/"
+street: Rue des Glycines
+housenumber: "11"
+phone: +33 3 81 84 05 22
+opening_hours: Tu 08:30-12:00,14:30-19:00; We 09:30-14:00; Th-Fr 08:30-12:00,14:30-19:00;
+    Sa 08:30-12:00,13:30-17:00
+website: https://eben-nettoyage.fr/

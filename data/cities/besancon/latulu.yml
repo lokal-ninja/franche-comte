@@ -4,8 +4,8 @@ latitude: 47.24055
 longitude: 6.0188
 postcode: "25000"
 city: Besançon
-street: "Rue de la Madeleine"
-housenumber: 13
+street: Rue de la Madeleine
+housenumber: "13"
 phone: "+33381812366"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00"
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00
 website: ""

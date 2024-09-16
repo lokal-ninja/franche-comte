@@ -1,11 +1,11 @@
 id: 127556855
-type: way
+type: node
 latitude: 47.18134
 longitude: 6.39957
 postcode: "25530"
 city: Vercel-Villedieu-le-Camp
-street: "Rue Lanchy"
-housenumber: 4
+street: Rue Lanchy
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

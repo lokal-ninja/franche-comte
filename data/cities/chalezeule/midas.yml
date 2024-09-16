@@ -1,11 +1,11 @@
 id: 72672293
-type: way
+type: node
 latitude: 47.26386
 longitude: 6.06532
 postcode: "25220"
 city: Chalezeule
-street: "Rue des Agasses"
-housenumber: 3
-phone: "+33 3 39 27 06 01"
+street: Rue des Agasses
+housenumber: "3"
+phone: +33 3 39 27 06 01
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

@@ -1,11 +1,11 @@
 id: 121757130
-type: way
+type: node
 latitude: 46.89183
 longitude: 5.74896
 postcode: "39600"
 city: Arbois
-street: "Route de Lyon"
-housenumber: 
-phone: "+33 3 84 66 06 47"
+street: Route de Lyon
+housenumber: ""
+phone: +33 3 84 66 06 47
 opening_hours: ""
-website: "https://www.lapinte.fr"
+website: https://www.lapinte.fr

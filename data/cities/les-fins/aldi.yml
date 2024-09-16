@@ -1,11 +1,11 @@
 id: 525218923
-type: way
+type: node
 latitude: 47.08211
 longitude: 6.63732
 postcode: "25500"
 city: Les Fins
-street: "Rue du Clair"
-housenumber: 
+street: Rue du Clair
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

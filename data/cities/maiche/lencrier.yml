@@ -4,8 +4,8 @@ latitude: 47.252
 longitude: 6.80127
 postcode: "25120"
 city: Maîche
-street: "Rue Montalembert"
-housenumber: 4
-phone: "+33 3 81 64 12 81"
-opening_hours: "tu-We 09:30-12:00,14:30-19:00; Sa 09:30-12:00,14:30-18:00"
+street: Rue Montalembert
+housenumber: "4"
+phone: +33 3 81 64 12 81
+opening_hours: tu-We 09:30-12:00,14:30-19:00; Sa 09:30-12:00,14:30-18:00
 website: ""

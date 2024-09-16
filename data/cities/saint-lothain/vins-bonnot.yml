@@ -1,11 +1,11 @@
 id: 252478096
-type: way
+type: node
 latitude: 46.82405
 longitude: 5.64291
 postcode: "39230"
 city: Saint-Lothain
-street: "Route du Revermont"
-housenumber: 75
-phone: "+33 3 84 37 10 89"
+street: Route du Revermont
+housenumber: "75"
+phone: +33 3 84 37 10 89
 opening_hours: ""
-website: "https://www.vinsbonnotjura.fr"
+website: https://www.vinsbonnotjura.fr

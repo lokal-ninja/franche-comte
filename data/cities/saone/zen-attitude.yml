@@ -1,11 +1,11 @@
 id: 584226424
-type: way
+type: node
 latitude: 47.20877
 longitude: 6.10148
 postcode: "25660"
 city: Saône
-street: "Rue du Petit Frêne"
-housenumber: 2
-phone: "+33 3 81 52 44 65"
+street: Rue du Petit Frêne
+housenumber: "2"
+phone: +33 3 81 52 44 65
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.24475
 longitude: 6.03231
 postcode: "25000"
 city: Besançon
-street: "Avenue Fontaine-Argent"
-housenumber: 20
+street: Avenue Fontaine-Argent
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00; Su 8:30-12:30"
-website: "https://www.intermarche.com/"
+opening_hours: Mo-Sa 8:00-20:00; Su 8:30-12:30
+website: https://www.intermarche.com/

@@ -4,8 +4,8 @@ latitude: 47.28211
 longitude: 6.86845
 postcode: "25470"
 city: Trévillers
-street: "Rue du Jura"
-housenumber: 2
-phone: "+33 3 81 67 58 24"
-opening_hours: "Mo,Tu,Fr,We 08:00-12:30, 15:30-18:30; Sa,Su 08:00-12:30"
+street: Rue du Jura
+housenumber: "2"
+phone: +33 3 81 67 58 24
+opening_hours: Mo,Tu,Fr,We 08:00-12:30, 15:30-18:30; Sa,Su 08:00-12:30
 website: ""

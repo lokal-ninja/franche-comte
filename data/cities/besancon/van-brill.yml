@@ -4,8 +4,8 @@ latitude: 47.23701
 longitude: 6.02532
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 83
+street: Grande Rue
+housenumber: "83"
 phone: "+33381833386"
-opening_hours: "Tu-Sa 10:00-11:45,14:00-18:45"
-website: "https://www.vanbrill.com/"
+opening_hours: Tu-Sa 10:00-11:45,14:00-18:45
+website: https://www.vanbrill.com/

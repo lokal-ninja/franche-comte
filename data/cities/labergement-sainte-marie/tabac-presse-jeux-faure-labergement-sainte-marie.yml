@@ -4,8 +4,8 @@ latitude: 46.77362
 longitude: 6.28095
 postcode: "25160"
 city: Labergement-Sainte-Marie
-street: "Grande Rue"
-housenumber: 1
-phone: "+33 3 81 49 56 22"
-opening_hours: "PH,Mo-Sa 05:00-19:30; Su 06:00-12:30"
-website: "http://www.tabac-presse-faure-labergement.com/"
+street: Grande Rue
+housenumber: "1"
+phone: +33 3 81 49 56 22
+opening_hours: PH,Mo-Sa 05:00-19:30; Su 06:00-12:30
+website: http://www.tabac-presse-faure-labergement.com/

@@ -1,11 +1,11 @@
 id: 167492457
-type: way
+type: node
 latitude: 46.77154
 longitude: 5.60314
 postcode: "39210"
 city: Domblans
-street: "Rue au Village"
-housenumber: 159
-phone: "+33 3 84 44 91 63"
+street: Rue au Village
+housenumber: "159"
+phone: +33 3 84 44 91 63
 opening_hours: ""
-website: "https://bilobilo.atelier-griffonnage.eu"
+website: https://bilobilo.atelier-griffonnage.eu

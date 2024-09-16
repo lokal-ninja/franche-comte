@@ -4,8 +4,8 @@ latitude: 47.23483
 longitude: 6.0322
 postcode: "25000"
 city: Besançon
-street: "Rue Rivotte"
-housenumber: 20
+street: Rue Rivotte
+housenumber: "20"
 phone: "+33381820881"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:30-17:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:30-17:00
 website: ""

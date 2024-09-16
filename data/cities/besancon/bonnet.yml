@@ -4,8 +4,8 @@ latitude: 47.24036
 longitude: 6.0195
 postcode: "25000"
 city: Besançon
-street: "Rue de la Madeleine"
-housenumber: 4
+street: Rue de la Madeleine
+housenumber: "4"
 phone: "0381814423"
-opening_hours: "Tu-Sa 07:00-12:45,15:00-19:00; Su 08:00-12:45"
-website: "https://www.bonnet-traiteur.fr/"
+opening_hours: Tu-Sa 07:00-12:45,15:00-19:00; Su 08:00-12:45
+website: https://www.bonnet-traiteur.fr/

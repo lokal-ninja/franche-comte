@@ -4,8 +4,8 @@ latitude: 46.83414
 longitude: 5.70851
 postcode: "39800"
 city: Poligny
-street: "Place des Déportés"
-housenumber: 19
-phone: "+33 3 84 37 10 85"
-opening_hours: "Mo,Tu 10:00-18:00; We,Th 09:00-19:00; Fr 09:00-20:30; Sa 09:00-16:00"
+street: Place des Déportés
+housenumber: "19"
+phone: +33 3 84 37 10 85
+opening_hours: Mo,Tu 10:00-18:00; We,Th 09:00-19:00; Fr 09:00-20:30; Sa 09:00-16:00
 website: ""

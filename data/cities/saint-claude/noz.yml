@@ -1,11 +1,11 @@
 id: 494617813
-type: way
+type: node
 latitude: 46.38441
 longitude: 5.83551
 postcode: "39200"
 city: Saint-Claude
-street: "rue de la Pierre qui Vire"
-housenumber: 50
+street: rue de la Pierre qui Vire
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/saint-claude/"
+website: https://www.nozarrivages.com/magasin/saint-claude/

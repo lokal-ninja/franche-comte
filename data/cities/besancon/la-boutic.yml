@@ -4,8 +4,8 @@ latitude: 47.23661
 longitude: 6.0287
 postcode: "25000"
 city: Besançon
-street: "Rue des Granges"
-housenumber: 103
+street: Rue des Granges
+housenumber: "103"
 phone: "+33381489841"
-opening_hours: "Tu-Sa 09:30-12:00,14:00-19:00"
-website: "https://www.saintvitinformatique.com/"
+opening_hours: Tu-Sa 09:30-12:00,14:00-19:00
+website: https://www.saintvitinformatique.com/

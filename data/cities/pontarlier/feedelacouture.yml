@@ -4,8 +4,8 @@ latitude: 46.90239
 longitude: 6.35826
 postcode: "25300"
 city: Pontarlier
-street: "Rue de la République"
-housenumber: 4
-phone: "+33 6 77 74 65 54"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Th 10:00-12:00,14:00-18:30; Sa 10:00-12:00,14:00-18:00"
-website: "https://www.feedelacouture.com/"
+street: Rue de la République
+housenumber: "4"
+phone: +33 6 77 74 65 54
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Th 10:00-12:00,14:00-18:30; Sa 10:00-12:00,14:00-18:00
+website: https://www.feedelacouture.com/

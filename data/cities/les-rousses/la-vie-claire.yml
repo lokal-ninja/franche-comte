@@ -1,11 +1,11 @@
 id: 102787497
-type: way
+type: node
 latitude: 46.48985
 longitude: 6.06671
 postcode: "39220"
 city: Les Rousses
-street: "Rue du Clos Capperony"
-housenumber: 29
-phone: "+33 3 84 41 21 76"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-12:30"
-website: "https://magasins.lavieclaire.com/lavieclaire/fr/store/france/bourgogne-franche-comte/jura/les-rousses/les-rousses/13910"
+street: Rue du Clos Capperony
+housenumber: "29"
+phone: +33 3 84 41 21 76
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-12:30
+website: https://magasins.lavieclaire.com/lavieclaire/fr/store/france/bourgogne-franche-comte/jura/les-rousses/les-rousses/13910

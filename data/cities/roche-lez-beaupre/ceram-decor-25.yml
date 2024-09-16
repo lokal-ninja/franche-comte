@@ -1,11 +1,11 @@
 id: 88197237
-type: way
+type: node
 latitude: 47.27443
 longitude: 6.09455
 postcode: "25220"
 city: Roche-lez-Beaupré
-street: "Impasse des As des Prés"
-housenumber: 8
-phone: "+33 3 81 55 57 79"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://www.ceram-decor.fr/fr/"
+street: Impasse des As des Prés
+housenumber: "8"
+phone: +33 3 81 55 57 79
+opening_hours: Mo-Fr 09:00-17:30
+website: https://www.ceram-decor.fr/fr/

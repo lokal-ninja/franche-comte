@@ -1,11 +1,11 @@
 id: 414574017
-type: way
+type: node
 latitude: 46.96723
 longitude: 5.41649
 postcode: "39120"
 city: Chaussin
-street: "Route de Deschaux"
-housenumber: 
+street: Route de Deschaux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; PH,Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; PH,Su 08:30-12:30
 website: ""

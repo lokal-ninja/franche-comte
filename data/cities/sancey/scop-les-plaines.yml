@@ -5,7 +5,7 @@ longitude: 6.53846
 postcode: "25430"
 city: Sancey
 street: ""
-housenumber: 1
-phone: "+33 381 61 70 89;+33 675 25 80 06"
+housenumber: "1"
+phone: +33 381 61 70 89;+33 675 25 80 06
 opening_hours: ""
-website: "https://www.lesplaines.ch/fr/"
+website: https://www.lesplaines.ch/fr/

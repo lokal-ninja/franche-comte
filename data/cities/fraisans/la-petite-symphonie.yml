@@ -4,8 +4,8 @@ latitude: 47.14934
 longitude: 5.762
 postcode: "39700"
 city: Fraisans
-street: "Place de la Liberté"
-housenumber: 1
-phone: "+33 3 63 43 06 11"
-opening_hours: "Mo-Sa 06:00-13:00; We off; Su 06:00-13:00"
+street: Place de la Liberté
+housenumber: "1"
+phone: +33 3 63 43 06 11
+opening_hours: Mo-Sa 06:00-13:00; We off; Su 06:00-13:00
 website: ""

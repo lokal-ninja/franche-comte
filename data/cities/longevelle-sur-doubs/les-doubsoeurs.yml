@@ -4,8 +4,8 @@ latitude: 47.45273
 longitude: 6.64803
 postcode: "25260"
 city: Longevelle-sur-Doubs
-street: "Grande Rue"
-housenumber: 40
-phone: "+6 65 07 01 98"
-opening_hours: "We, Fr 15:00-19:00"
-website: "https://auxdoubsoeurs.fr/"
+street: Grande Rue
+housenumber: "40"
+phone: +6 65 07 01 98
+opening_hours: We, Fr 15:00-19:00
+website: https://auxdoubsoeurs.fr/

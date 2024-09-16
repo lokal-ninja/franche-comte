@@ -1,11 +1,11 @@
 id: 159165018
-type: way
+type: node
 latitude: 46.8533
 longitude: 6.15241
 postcode: "25560"
 city: Frasne
-street: "Grande Rue"
-housenumber: 114
-phone: "+33 3 81 89 78 78"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:00"
-website: "https://www.magasins-u.com/magasin/superu-frasne"
+street: Grande Rue
+housenumber: "114"
+phone: +33 3 81 89 78 78
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:00
+website: https://www.magasins-u.com/magasin/superu-frasne

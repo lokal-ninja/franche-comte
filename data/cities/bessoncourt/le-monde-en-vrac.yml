@@ -4,8 +4,8 @@ latitude: 47.6469
 longitude: 6.93589
 postcode: "90160"
 city: Bessoncourt
-street: "Rue des Magnolias"
-housenumber: 7
+street: Rue des Magnolias
+housenumber: "7"
 phone: "+33384542331"
-opening_hours: "Tu-Th 09:30-12:30, 14:30-19:00; Fr 09:30-19:00; Sa 09:00-18:30"
-website: "https://lemonde-en-vrac.com/"
+opening_hours: Tu-Th 09:30-12:30, 14:30-19:00; Fr 09:30-19:00; Sa 09:00-18:30
+website: https://lemonde-en-vrac.com/

@@ -4,8 +4,8 @@ latitude: 47.23712
 longitude: 6.02555
 postcode: "25000"
 city: Besançon
-street: "Rue Moncey"
-housenumber: 4
+street: Rue Moncey
+housenumber: "4"
 phone: "+33363011757"
-opening_hours: "Mo-Sa 09:30-12:30,13:30-18:00"
-website: "https://www.gold.fr/comptoirs-achat-vente-or/besancon/"
+opening_hours: Mo-Sa 09:30-12:30,13:30-18:00
+website: https://www.gold.fr/comptoirs-achat-vente-or/besancon/

@@ -1,11 +1,11 @@
 id: 155028502
-type: way
+type: node
 latitude: 47.50047
 longitude: 6.81455
 postcode: "25200"
 city: Montbéliard
-street: "Rue Jacques Folliet"
-housenumber: 40
+street: Rue Jacques Folliet
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.meubles-celio.fr/magasins/montbeliard/la-meublerie.html"
+website: https://www.meubles-celio.fr/magasins/montbeliard/la-meublerie.html

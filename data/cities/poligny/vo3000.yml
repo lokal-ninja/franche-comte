@@ -1,11 +1,11 @@
 id: 80780526
-type: way
+type: node
 latitude: 46.84237
 longitude: 5.69303
 postcode: "39800"
 city: Poligny
-street: "Rue François Arago"
-housenumber: 
-phone: "+33 3 84 37 76 90"
+street: Rue François Arago
+housenumber: ""
+phone: +33 3 84 37 76 90
 opening_hours: ""
-website: "https://www.vo3000.com"
+website: https://www.vo3000.com

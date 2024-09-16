@@ -1,11 +1,11 @@
 id: 71852373
-type: way
+type: node
 latitude: 47.22878
 longitude: 6.11434
 postcode: "25660"
 city: Saône
-street: "Rue du Lac"
-housenumber: 4
-phone: "+33 3 81 55 48 00"
+street: Rue du Lac
+housenumber: "4"
+phone: +33 3 81 55 48 00
 opening_hours: ""
 website: ""

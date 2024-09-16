@@ -4,8 +4,8 @@ latitude: 46.90782
 longitude: 6.35
 postcode: "25300"
 city: Pontarlier
-street: "Rue Joseph Pillod"
-housenumber: 14
-phone: "+33 3 81 46 70 73"
-opening_hours: "Tu,We 09:00-12:00,14:00-19:00; Th,Fr 09:00-19:00; Sa 09:00-15:00"
+street: Rue Joseph Pillod
+housenumber: "14"
+phone: +33 3 81 46 70 73
+opening_hours: Tu,We 09:00-12:00,14:00-19:00; Th,Fr 09:00-19:00; Sa 09:00-15:00
 website: ""

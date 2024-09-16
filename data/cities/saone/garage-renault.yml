@@ -1,11 +1,11 @@
 id: 71854840
-type: way
+type: node
 latitude: 47.21148
 longitude: 6.09781
 postcode: "25660"
 city: Saône
-street: "Rue de l'Industrie"
-housenumber: 17
-phone: "+33 3 81 55 72 28"
+street: Rue de l'Industrie
+housenumber: "17"
+phone: +33 3 81 55 72 28
 opening_hours: ""
-website: "http://www.saone-auto.fr"
+website: http://www.saone-auto.fr

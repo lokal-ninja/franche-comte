@@ -4,8 +4,8 @@ latitude: 47.05665
 longitude: 6.60772
 postcode: "25500"
 city: Morteau
-street: "Rue Saint-Michel"
-housenumber: 10
-phone: "+33 3 81 68 26 01"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.boulanger.com/magasins/bourgogne-franche-comte/doubs/morteau/10-rue-st-michel"
+street: Rue Saint-Michel
+housenumber: "10"
+phone: +33 3 81 68 26 01
+opening_hours: Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00
+website: https://www.boulanger.com/magasins/bourgogne-franche-comte/doubs/morteau/10-rue-st-michel

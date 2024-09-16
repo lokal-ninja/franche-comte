@@ -1,11 +1,11 @@
 id: 223397540
-type: way
+type: node
 latitude: 47.25714
 longitude: 6.51734
 postcode: "25510"
 city: Laviron
-street: "Route d'Ormont"
-housenumber: 3
-phone: "+33 6 81 85 79 47"
+street: Route d'Ormont
+housenumber: "3"
+phone: +33 6 81 85 79 47
 opening_hours: ""
-website: "https://www.facebook.com/people/La-Ferme-dAlice/100089925997313/"
+website: https://www.facebook.com/people/La-Ferme-dAlice/100089925997313/

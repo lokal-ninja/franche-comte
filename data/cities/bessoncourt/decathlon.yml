@@ -1,11 +1,11 @@
 id: 231423074
-type: way
+type: node
 latitude: 47.64382
 longitude: 6.91541
 postcode: "90160"
 city: Bessoncourt
-street: "Centre Commercial Portes des Vosges"
-housenumber: 
+street: Centre Commercial Portes des Vosges
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_282"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_282

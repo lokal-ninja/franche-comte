@@ -1,11 +1,11 @@
 id: 397990032
-type: way
+type: node
 latitude: 47.31766
 longitude: 6.00024
 postcode: "25870"
 city: Châtillon-le-Duc
-street: "Route de Devecey"
-housenumber: 21
+street: Route de Devecey
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

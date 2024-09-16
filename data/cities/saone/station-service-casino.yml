@@ -1,11 +1,11 @@
 id: 583434562
-type: way
+type: node
 latitude: 47.22826
 longitude: 6.11387
 postcode: "25660"
 city: Saône
-street: "Rue du Lac"
-housenumber: 4
+street: Rue du Lac
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

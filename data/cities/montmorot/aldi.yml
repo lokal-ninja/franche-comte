@@ -1,11 +1,11 @@
 id: 664187585
-type: way
+type: node
 latitude: 46.67461
 longitude: 5.53056
 postcode: "39570"
 city: Montmorot
-street: "Rue Jean-Baptiste Billon"
-housenumber: 
+street: Rue Jean-Baptiste Billon
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.aldi.fr/magasins-et-horaires-d-ouverture/bourgogne-franche-comte/montmorot.html"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.aldi.fr/magasins-et-horaires-d-ouverture/bourgogne-franche-comte/montmorot.html

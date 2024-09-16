@@ -4,8 +4,8 @@ latitude: 47.25425
 longitude: 6.03518
 postcode: "25000"
 city: Besançon
-street: "Rue des Oiseaux"
-housenumber: 5
+street: Rue des Oiseaux
+housenumber: "5"
 phone: "+33381802243"
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "https://jm-informatique.com"
+opening_hours: Tu-Sa 09:00-18:00
+website: https://jm-informatique.com

@@ -1,11 +1,11 @@
 id: 121753973
-type: way
+type: node
 latitude: 46.90381
 longitude: 5.77717
 postcode: "39600"
 city: Arbois
-street: "Rue des Fossés"
-housenumber: 2
-phone: "+33 3 84 66 11 67"
+street: Rue des Fossés
+housenumber: "2"
+phone: +33 3 84 66 11 67
 opening_hours: ""
-website: "https://www.fruitiere-vinicole-arbois.fr/"
+website: https://www.fruitiere-vinicole-arbois.fr/

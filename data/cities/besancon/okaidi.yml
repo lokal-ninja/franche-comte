@@ -4,8 +4,8 @@ latitude: 47.23738
 longitude: 6.0246
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 62
+street: Grande Rue
+housenumber: "62"
 phone: "+33363219861"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://okaidi.commander1.com/c3/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://okaidi.commander1.com/c3/

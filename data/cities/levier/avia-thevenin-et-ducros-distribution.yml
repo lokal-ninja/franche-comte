@@ -1,11 +1,11 @@
 id: 284185035
-type: way
+type: node
 latitude: 46.95587
 longitude: 6.12768
 postcode: "25270"
 city: Levier
-street: "Rue de Septfontaine"
-housenumber: 
+street: Rue de Septfontaine
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

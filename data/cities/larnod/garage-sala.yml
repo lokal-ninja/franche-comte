@@ -1,11 +1,11 @@
 id: 87095028
-type: way
+type: node
 latitude: 47.18307
 longitude: 5.96409
 postcode: "25720"
 city: Larnod
-street: "Route Nationale"
-housenumber: 3
+street: Route Nationale
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 80779583
-type: way
+type: node
 latitude: 46.84197
 longitude: 5.69364
 postcode: "39800"
 city: Poligny
-street: "Rue Roger Thirode"
-housenumber: 
-phone: "+33 3 84 37 14 94"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00,13:30-17:30"
+street: Rue Roger Thirode
+housenumber: ""
+phone: +33 3 84 37 14 94
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00,13:30-17:30
 website: ""

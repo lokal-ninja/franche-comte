@@ -4,8 +4,8 @@ latitude: 47.69583
 longitude: 6.28029
 postcode: "70240"
 city: Saulx
-street: "Grande Rue"
-housenumber: 31
-phone: "+33 3 84958585"
-opening_hours: "Mo, We, Th 8:30-12:00, 13:30-18:30; Fr 8:30-18:30; Sa 8:00-16:00"
+street: Grande Rue
+housenumber: "31"
+phone: +33 3 84958585
+opening_hours: Mo, We, Th 8:30-12:00, 13:30-18:30; Fr 8:30-18:30; Sa 8:00-16:00
 website: ""

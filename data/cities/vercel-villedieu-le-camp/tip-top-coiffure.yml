@@ -1,11 +1,12 @@
 id: 127557755
-type: way
+type: node
 latitude: 47.182
 longitude: 6.39465
 postcode: "25530"
 city: Vercel-Villedieu-le-Camp
-street: "Rue de l'Étang"
-housenumber: 6
-phone: "+33 3 81 58 30 45"
-opening_hours: "Tu-We 08:30-12:00, 13:30-18:30; Th 08:30-12:00; Fr 08:30-19:00; Sa 07:30-15:00"
-website: "https://www.planity.com/tip-top-coiffure-25530-vercel-villedieu-le-camp"
+street: Rue de l'Étang
+housenumber: "6"
+phone: +33 3 81 58 30 45
+opening_hours: Tu-We 08:30-12:00, 13:30-18:30; Th 08:30-12:00; Fr 08:30-19:00; Sa
+    07:30-15:00
+website: https://www.planity.com/tip-top-coiffure-25530-vercel-villedieu-le-camp

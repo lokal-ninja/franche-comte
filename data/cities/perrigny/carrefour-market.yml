@@ -1,11 +1,11 @@
 id: 243362325
-type: way
+type: node
 latitude: 46.67033
 longitude: 5.57492
 postcode: "39570"
 city: Perrigny
-street: "Route de Champagnole"
-housenumber: 
-phone: "+33 3 84 43 35 31"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-perrigny"
+street: Route de Champagnole
+housenumber: ""
+phone: +33 3 84 43 35 31
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-perrigny

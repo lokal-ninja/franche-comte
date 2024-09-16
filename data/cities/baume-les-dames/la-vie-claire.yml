@@ -1,11 +1,11 @@
 id: 65740989
-type: way
+type: node
 latitude: 47.35017
 longitude: 6.35881
 postcode: "25110"
 city: Baume-les-Dames
-street: "Rue du Stade"
-housenumber: 5
-phone: "+33 3 81 47 13 17"
-opening_hours: "Tu-Sa 09:00-12:30,14:00-19:00"
-website: "https://magasins.lavieclaire.com/lavieclaire/fr/store/france/bourgogne-franche-comte/doubs/baume-les-dames/baumes-les-dames/"
+street: Rue du Stade
+housenumber: "5"
+phone: +33 3 81 47 13 17
+opening_hours: Tu-Sa 09:00-12:30,14:00-19:00
+website: https://magasins.lavieclaire.com/lavieclaire/fr/store/france/bourgogne-franche-comte/doubs/baume-les-dames/baumes-les-dames/

@@ -4,8 +4,8 @@ latitude: 47.35277
 longitude: 6.36126
 postcode: "25110"
 city: Baume-les-Dames
-street: "Rue Boiteux"
-housenumber: 8
-phone: "+33 3 81 84 12 99"
-opening_hours: "Mo-Tu 09:00-12:00,14:00-19:00; Th-Fr 09:00-12:00,14:00-19:00; Sa 09:00-17:00"
-website: "https://amarylis-beaute.com/"
+street: Rue Boiteux
+housenumber: "8"
+phone: +33 3 81 84 12 99
+opening_hours: Mo-Tu 09:00-12:00,14:00-19:00; Th-Fr 09:00-12:00,14:00-19:00; Sa 09:00-17:00
+website: https://amarylis-beaute.com/

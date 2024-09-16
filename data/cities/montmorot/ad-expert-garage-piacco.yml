@@ -1,11 +1,11 @@
 id: 252147691
-type: way
+type: node
 latitude: 46.67611
 longitude: 5.54099
 postcode: "39570"
 city: Montmorot
-street: "Chemin de l'Abattoir"
-housenumber: 5
-phone: "+33 3 84 43 23 08"
+street: Chemin de l'Abattoir
+housenumber: "5"
+phone: +33 3 84 43 23 08
 opening_hours: ""
-website: "https://www.ad.fr/garage/garage-ad-garage-piacco-pere-et-fils/"
+website: https://www.ad.fr/garage/garage-ad-garage-piacco-pere-et-fils/

@@ -1,11 +1,11 @@
 id: 584903982
-type: way
+type: node
 latitude: 47.13728
 longitude: 6.44004
 postcode: "25690"
 city: Avoudrey
-street: "Rue du Gymnase"
-housenumber: 12
+street: Rue du Gymnase
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

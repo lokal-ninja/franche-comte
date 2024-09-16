@@ -1,11 +1,11 @@
 id: 794556415
-type: way
+type: node
 latitude: 46.89396
 longitude: 6.22993
 postcode: "25560"
 city: Bulle
-street: "Rue des Hauts du Drugeon"
-housenumber: 8
-phone: "+33 3 81 38 80 99"
-opening_hours: "Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:00-13:00,14:00-19:00"
-website: "https://simplementchocolat.fr/"
+street: Rue des Hauts du Drugeon
+housenumber: "8"
+phone: +33 3 81 38 80 99
+opening_hours: Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:00-13:00,14:00-19:00
+website: https://simplementchocolat.fr/

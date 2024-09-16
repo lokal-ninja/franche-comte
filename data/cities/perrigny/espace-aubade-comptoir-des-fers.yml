@@ -1,11 +1,11 @@
 id: 243362434
-type: way
+type: node
 latitude: 46.6759
 longitude: 5.58225
 postcode: "39570"
 city: Perrigny
-street: "Route de Champagnole"
-housenumber: 960
-phone: "+33 3 84 87 14 70"
+street: Route de Champagnole
+housenumber: "960"
+phone: +33 3 84 87 14 70
 opening_hours: ""
-website: "https://www.espace-aubade.fr/magasins/lons-le-saunier-74.html"
+website: https://www.espace-aubade.fr/magasins/lons-le-saunier-74.html

@@ -4,8 +4,8 @@ latitude: 47.2371
 longitude: 6.02209
 postcode: "25000"
 city: Besançon
-street: "Rue Pasteur"
-housenumber: 23
+street: Rue Pasteur
+housenumber: "23"
 phone: "+33381821883"
-opening_hours: "Mo-Fr 07:00-19:30; Sa 07:30-19:30"
+opening_hours: Mo-Fr 07:00-19:30; Sa 07:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 356085459
-type: way
+type: node
 latitude: 46.45707
 longitude: 5.36214
 postcode: ""
 city: Balanod
-street: "Route de Véria"
-housenumber: 495
-phone: "+33 3 84 48 72 87"
-opening_hours: "Mo-Sa 08:30-12:00; Su 08:30-11:45"
-website: "https://www.fromageriesdurevermont.fr"
+street: Route de Véria
+housenumber: "495"
+phone: +33 3 84 48 72 87
+opening_hours: Mo-Sa 08:30-12:00; Su 08:30-11:45
+website: https://www.fromageriesdurevermont.fr

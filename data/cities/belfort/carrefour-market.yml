@@ -4,8 +4,8 @@ latitude: 47.64965
 longitude: 6.84611
 postcode: "90000"
 city: Belfort
-street: "Avenue Charles Bohn"
-housenumber: 9
-phone: "+33 3 84 21 02 42"
-opening_hours: "Mo-Sa 08:30-19:30, Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-belfort"
+street: Avenue Charles Bohn
+housenumber: "9"
+phone: +33 3 84 21 02 42
+opening_hours: Mo-Sa 08:30-19:30, Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-belfort

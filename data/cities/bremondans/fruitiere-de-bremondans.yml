@@ -4,8 +4,8 @@ latitude: 47.23291
 longitude: 6.39782
 postcode: "25530"
 city: Bremondans
-street: "Rue de la Fruitière"
-housenumber: 5
-phone: "+33 3 81 58 31 87"
-opening_hours: "Mo-Sa 09:00-12:30,13:30-19:00; Su 10:00-12:00; PH 09:00-11:00"
+street: Rue de la Fruitière
+housenumber: "5"
+phone: +33 3 81 58 31 87
+opening_hours: Mo-Sa 09:00-12:30,13:30-19:00; Su 10:00-12:00; PH 09:00-11:00
 website: ""

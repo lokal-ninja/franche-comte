@@ -1,11 +1,11 @@
 id: 87233688
-type: way
+type: node
 latitude: 47.15892
 longitude: 6.11243
 postcode: "25620"
 city: Tarcenay
-street: "Route de Besançon"
-housenumber: 
+street: Route de Besançon
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

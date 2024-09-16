@@ -4,8 +4,8 @@ latitude: 47.88671
 longitude: 6.40666
 postcode: "70220"
 city: Fougerolles
-street: "Rue de la Gare"
-housenumber: 12
-phone: "+33 3 84 49 13 66"
-opening_hours: "Tu 17:00-18:30; We-Fr 14:00-18:30; Sa 08:30-12:00,14:00-18:30"
-website: "https://www.distilleriespeureux.com/distilleriecoulin"
+street: Rue de la Gare
+housenumber: "12"
+phone: +33 3 84 49 13 66
+opening_hours: Tu 17:00-18:30; We-Fr 14:00-18:30; Sa 08:30-12:00,14:00-18:30
+website: https://www.distilleriespeureux.com/distilleriecoulin

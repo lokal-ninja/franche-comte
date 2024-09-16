@@ -1,11 +1,11 @@
 id: 124342463
-type: way
+type: node
 latitude: 46.53168
 longitude: 5.39112
 postcode: ""
 city: Cousance
-street: "Grande Rue"
-housenumber: 81
+street: Grande Rue
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

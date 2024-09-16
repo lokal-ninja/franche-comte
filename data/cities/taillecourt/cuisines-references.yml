@@ -4,8 +4,8 @@ latitude: 47.49765
 longitude: 6.84158
 postcode: "25400"
 city: Taillecourt
-street: "Rue des croisee"
-housenumber: 21
+street: Rue des croisee
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-19:00; Sa 09:00-18:00"
-website: "https://www.ideale-cuisine25.fr/"
+opening_hours: Mo-Fr 10:00-12:00, 14:00-19:00; Sa 09:00-18:00
+website: https://www.ideale-cuisine25.fr/

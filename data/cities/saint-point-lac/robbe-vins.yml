@@ -4,8 +4,8 @@ latitude: 46.81258
 longitude: 6.30224
 postcode: "25160"
 city: Saint-Point-Lac
-street: "Rue de Damvauthier"
-housenumber: 16
-phone: "+33 3 81 69 62 13"
-opening_hours: "Mo 13:30-18:30; Tu-Sa 09:00-12:00,13:30-18:30"
-website: "http://www.robbevins.fr"
+street: Rue de Damvauthier
+housenumber: "16"
+phone: +33 3 81 69 62 13
+opening_hours: Mo 13:30-18:30; Tu-Sa 09:00-12:00,13:30-18:30
+website: http://www.robbevins.fr

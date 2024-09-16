@@ -1,11 +1,11 @@
 id: 163141958
-type: way
+type: node
 latitude: 47.61906
 longitude: 6.13159
 postcode: "70000"
 city: Noidans-les-Vesoul
-street: "Impasse Tussilages"
-housenumber: 
+street: Impasse Tussilages
+housenumber: ""
 phone: "+33384762666"
-opening_hours: "Mo-Fr 07:30-12:00; Mo-Th 13:45-17:00; Fr 13:45-16:00"
-website: "https://sonepar.fr/"
+opening_hours: Mo-Fr 07:30-12:00; Mo-Th 13:45-17:00; Fr 13:45-16:00
+website: https://sonepar.fr/

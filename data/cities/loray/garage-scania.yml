@@ -1,11 +1,11 @@
 id: 522938772
-type: way
+type: node
 latitude: 47.14429
 longitude: 6.49584
 postcode: "25390"
 city: Loray
-street: "Rue des Ages de Loray"
-housenumber: 12
+street: Rue des Ages de Loray
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

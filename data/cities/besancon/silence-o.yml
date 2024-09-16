@@ -4,8 +4,8 @@ latitude: 47.23786
 longitude: 6.02624
 postcode: "25000"
 city: Besançon
-street: "Rue des Granges"
-housenumber: 52
+street: Rue des Granges
+housenumber: "52"
 phone: "+33381410190"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00"
-website: "https://www.groupechopard.com/silence/contact/silence-besancon/"
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
+website: https://www.groupechopard.com/silence/contact/silence-besancon/

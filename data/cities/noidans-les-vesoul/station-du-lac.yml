@@ -5,7 +5,7 @@ longitude: 6.13817
 postcode: "70000"
 city: Noidans-lès-Vesoul
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/fr_FR/NF040762"
+opening_hours: 24/7
+website: https://store.totalenergies.fr/fr_FR/NF040762

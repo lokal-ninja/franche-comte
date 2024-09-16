@@ -4,8 +4,9 @@ latitude: 47.04688
 longitude: 6.47998
 postcode: "25650"
 city: Gilley
-street: "Avenue De Lattre de Tassigny"
-housenumber: 6
-phone: "+33 3 81 43 37 14"
-opening_hours: "Mo-Fr 06:00-13:00,15:00-19:00; We 06:00-13:00; Sa 07:00-13:00,15:00-18:30; Su 07:00-12:30"
-website: "http://lefournilsaugeais.fr/"
+street: Avenue De Lattre de Tassigny
+housenumber: "6"
+phone: +33 3 81 43 37 14
+opening_hours: Mo-Fr 06:00-13:00,15:00-19:00; We 06:00-13:00; Sa 07:00-13:00,15:00-18:30;
+    Su 07:00-12:30
+website: http://lefournilsaugeais.fr/

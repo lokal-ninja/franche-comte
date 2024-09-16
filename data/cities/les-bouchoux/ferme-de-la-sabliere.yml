@@ -1,11 +1,11 @@
 id: 822652042
-type: way
+type: node
 latitude: 46.28604
 longitude: 5.78852
 postcode: "39370"
 city: Les Bouchoux
-street: "Désertin"
-housenumber: 
+street: Désertin
+housenumber: ""
 phone: ""
-opening_hours: "We,Fr,Sa 09:00-12:00,15:30-19:00; Th 15:30-19:00"
+opening_hours: We,Fr,Sa 09:00-12:00,15:30-19:00; Th 15:30-19:00
 website: ""

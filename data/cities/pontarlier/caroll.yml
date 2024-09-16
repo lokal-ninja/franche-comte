@@ -4,8 +4,8 @@ latitude: 46.9031
 longitude: 6.35596
 postcode: "25300"
 city: Pontarlier
-street: "Rue de la République"
-housenumber: 41
-phone: "+33 9 66 95 24 10"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.caroll.com/fr_fr/Details-Store/?StoreID=B864"
+street: Rue de la République
+housenumber: "41"
+phone: +33 9 66 95 24 10
+opening_hours: Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.caroll.com/fr_fr/Details-Store/?StoreID=B864

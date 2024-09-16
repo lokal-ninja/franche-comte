@@ -1,11 +1,11 @@
 id: 475631809
-type: way
+type: node
 latitude: 47.05616
 longitude: 6.61697
 postcode: "25500"
 city: Morteau
-street: "Rue Victor Hugo"
-housenumber: 36
-phone: "+33 3 81 67 22 55"
+street: Rue Victor Hugo
+housenumber: "36"
+phone: +33 3 81 67 22 55
 opening_hours: ""
-website: "https://www.joueclub.fr/magasin/joueclub-morteau.html"
+website: https://www.joueclub.fr/magasin/joueclub-morteau.html

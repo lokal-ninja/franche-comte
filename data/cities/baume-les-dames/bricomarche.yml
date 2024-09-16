@@ -1,11 +1,11 @@
 id: 369389222
-type: way
+type: node
 latitude: 47.34859
 longitude: 6.33567
 postcode: "25110"
 city: Baume-les-Dames
-street: "Rue Rosa Luxemburg"
-housenumber: 2
-phone: "+33 3 81 63 11 11"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 08:30-19:00"
-website: "https://www.bricomarche.com/magasin/baumes-les-dames/07644"
+street: Rue Rosa Luxemburg
+housenumber: "2"
+phone: +33 3 81 63 11 11
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 08:30-19:00
+website: https://www.bricomarche.com/magasin/baumes-les-dames/07644

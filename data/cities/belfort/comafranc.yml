@@ -4,8 +4,8 @@ latitude: 47.6431
 longitude: 6.8855
 postcode: "90000"
 city: Belfort
-street: "Rue Albert Camus"
-housenumber: 20
+street: Rue Albert Camus
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.comafranc.fr/"
+website: https://www.comafranc.fr/

@@ -4,8 +4,9 @@ latitude: 47.23479
 longitude: 6.0323
 postcode: "25000"
 city: Besançon
-street: "Rue Rivotte"
-housenumber: 22
+street: Rue Rivotte
+housenumber: "22"
 phone: "+33381821899"
-opening_hours: "We-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00 || Mo-Tu by appointment"
-website: "http://www.reno-music.net/"
+opening_hours: We-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00 || Mo-Tu
+    "by appointment"
+website: http://www.reno-music.net/

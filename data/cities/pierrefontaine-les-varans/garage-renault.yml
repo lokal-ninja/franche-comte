@@ -1,11 +1,11 @@
 id: 128174074
-type: way
+type: node
 latitude: 47.21224
 longitude: 6.53346
 postcode: "25510"
 city: Pierrefontaine-les-Varans
-street: "Rue du 18 Juin"
-housenumber: 2
+street: Rue du 18 Juin
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

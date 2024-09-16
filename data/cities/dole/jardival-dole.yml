@@ -1,11 +1,11 @@
 id: 81219388
-type: way
+type: node
 latitude: 47.08206
 longitude: 5.4902
 postcode: "39100"
 city: Dole
-street: "Rue Costes et Bellonte"
-housenumber: 
+street: Rue Costes et Bellonte
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

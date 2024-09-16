@@ -1,11 +1,11 @@
 id: 37436900
-type: way
+type: node
 latitude: 46.90835
 longitude: 6.35114
 postcode: "25300"
 city: Pontarlier
-street: "Rue de la Paix"
-housenumber: 1
-phone: "+33 3 81 46 54 66"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.colruyt.fr/colruytfr/static/magasins.shtml#/517"
+street: Rue de la Paix
+housenumber: "1"
+phone: +33 3 81 46 54 66
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.colruyt.fr/colruytfr/static/magasins.shtml#/517

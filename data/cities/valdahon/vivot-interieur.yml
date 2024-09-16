@@ -1,11 +1,11 @@
 id: 396771468
-type: way
+type: node
 latitude: 47.14704
 longitude: 6.32972
 postcode: "25800"
 city: Valdahon
-street: "Route de Vernierfontaine"
-housenumber: 11
+street: Route de Vernierfontaine
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

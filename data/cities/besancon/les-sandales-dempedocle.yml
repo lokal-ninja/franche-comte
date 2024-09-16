@@ -4,8 +4,8 @@ latitude: 47.23652
 longitude: 6.02584
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 95
+street: Grande Rue
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

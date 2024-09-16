@@ -1,11 +1,11 @@
 id: 119914828
-type: way
+type: node
 latitude: 47.42404
 longitude: 5.83865
 postcode: "70700"
 city: Bucey-lès-Gy
-street: "Chemin du Tranot"
-housenumber: 
+street: Chemin du Tranot
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
 website: ""

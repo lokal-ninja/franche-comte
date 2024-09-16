@@ -1,11 +1,11 @@
 id: 975045361
-type: way
+type: node
 latitude: 47.21438
 longitude: 5.94527
 postcode: "25000"
 city: Besançon
-street: "Rue Guillaume Apollinaire"
-housenumber: 
+street: Rue Guillaume Apollinaire
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; PH 10:00-18:00"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-besancon_besancon_25000/184.html"
+opening_hours: Mo-Sa 09:30-19:30; PH 10:00-18:00
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-besancon_besancon_25000/184.html

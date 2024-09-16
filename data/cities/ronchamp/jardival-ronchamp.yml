@@ -1,11 +1,11 @@
 id: 152210052
-type: way
+type: node
 latitude: 47.6977
 longitude: 6.64356
 postcode: "70250"
 city: Ronchamp
-street: "Rue du Plain"
-housenumber: 5
-phone: "+33 3 84 63 55 28"
+street: Rue du Plain
+housenumber: "5"
+phone: +33 3 84 63 55 28
 opening_hours: ""
 website: ""

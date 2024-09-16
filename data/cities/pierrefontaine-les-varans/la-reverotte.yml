@@ -1,11 +1,12 @@
 id: 584749280
-type: way
+type: node
 latitude: 47.21827
 longitude: 6.54182
 postcode: "25510"
 city: Pierrefontaine-les-Varans
-street: "Grande Rue"
-housenumber: 
+street: Grande Rue
+housenumber: ""
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo-Fr 07:00-12:15,14:30-19:00; Sa 08:30-12:15,14:30-19:00; PH,Su 09:00-12:00;
+    Dec 25 off
+website: https://www.facebook.com/lareverotte/

@@ -1,11 +1,11 @@
 id: 252460704
-type: way
+type: node
 latitude: 46.75929
 longitude: 5.55494
 postcode: "39210"
 city: Arlay
-street: "Chemin de Quintigny"
-housenumber: 60
-phone: "+33 3 84 44 60 78"
+street: Chemin de Quintigny
+housenumber: "60"
+phone: +33 3 84 44 60 78
 opening_hours: ""
 website: ""

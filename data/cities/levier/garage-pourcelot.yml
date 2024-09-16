@@ -1,11 +1,11 @@
 id: 166363156
-type: way
+type: node
 latitude: 46.95299
 longitude: 6.10321
 postcode: "25270"
 city: Levier
-street: "Rue de Salins"
-housenumber: 84
-phone: "+33 3 81 89 53 09"
+street: Rue de Salins
+housenumber: "84"
+phone: +33 3 81 89 53 09
 opening_hours: ""
 website: ""

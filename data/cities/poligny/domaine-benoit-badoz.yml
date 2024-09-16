@@ -1,11 +1,11 @@
 id: 80784712
-type: way
+type: node
 latitude: 46.83827
 longitude: 5.71028
 postcode: "39800"
 city: Poligny
-street: "Rue du Collège"
-housenumber: 15
-phone: "+33 3 84 37 11 85"
+street: Rue du Collège
+housenumber: "15"
+phone: +33 3 84 37 11 85
 opening_hours: ""
-website: "http://www.badoz.fr/"
+website: http://www.badoz.fr/

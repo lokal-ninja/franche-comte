@@ -1,11 +1,11 @@
 id: 208387506
-type: way
+type: node
 latitude: 47.13788
 longitude: 6.78942
 postcode: "25210"
 city: Grand'Combe-des-Bois
-street: "Rue des Peux"
-housenumber: 2
+street: Rue des Peux
+housenumber: "2"
 phone: "+33381437364"
-opening_hours: "Mo-Sa 09:00-12:00"
+opening_hours: Mo-Sa 09:00-12:00
 website: ""

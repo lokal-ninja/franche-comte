@@ -4,8 +4,8 @@ latitude: 47.1067
 longitude: 6.1464
 postcode: "25290"
 city: Ornans
-street: "Place Gustave Courbet"
-housenumber: 4
-phone: "+33 6 88 83 36 21"
-opening_hours: "Tu-Sa 14:00-18:00"
-website: "https://iza-bela.fr/"
+street: Place Gustave Courbet
+housenumber: "4"
+phone: +33 6 88 83 36 21
+opening_hours: Tu-Sa 14:00-18:00
+website: https://iza-bela.fr/

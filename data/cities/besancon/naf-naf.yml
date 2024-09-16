@@ -4,8 +4,8 @@ latitude: 47.23952
 longitude: 6.02346
 postcode: "25000"
 city: Besançon
-street: "Rue des Granges"
-housenumber: 2
+street: Rue des Granges
+housenumber: "2"
 phone: "+33381822261"
-opening_hours: "Mo 11:00-19:00; Tu-Fr 10:00-19:00; Sa 08:30-19:00"
+opening_hours: Mo 11:00-19:00; Tu-Fr 10:00-19:00; Sa 08:30-19:00
 website: ""

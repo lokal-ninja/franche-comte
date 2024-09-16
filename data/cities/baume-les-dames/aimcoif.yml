@@ -1,11 +1,11 @@
 id: 65743272
-type: way
+type: node
 latitude: 47.35165
 longitude: 6.36167
 postcode: "25110"
 city: Baume-les-Dames
-street: "Place de la Loi"
-housenumber: 3
-phone: "+33 3 81 84 05 80"
-opening_hours: "Tu-Th 08:00-12:00,13:30-19:00; Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://fr-fr.facebook.com/Aimcoif"
+street: Place de la Loi
+housenumber: "3"
+phone: +33 3 81 84 05 80
+opening_hours: Tu-Th 08:00-12:00,13:30-19:00; Fr 08:00-19:00; Sa 08:00-17:00
+website: https://fr-fr.facebook.com/Aimcoif

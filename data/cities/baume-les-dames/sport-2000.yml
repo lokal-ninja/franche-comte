@@ -4,8 +4,8 @@ latitude: 47.34752
 longitude: 6.33794
 postcode: "25110"
 city: Baume-les-Dames
-street: "Rue Rosa Luxemburg"
-housenumber: 1
-phone: "+33 3 81 84 28 61"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:30,14:00-19:00"
-website: "https://www.sport2000.fr/magasins/fiche/250810-sport-2000-baume-les-dames"
+street: Rue Rosa Luxemburg
+housenumber: "1"
+phone: +33 3 81 84 28 61
+opening_hours: Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:30,14:00-19:00
+website: https://www.sport2000.fr/magasins/fiche/250810-sport-2000-baume-les-dames

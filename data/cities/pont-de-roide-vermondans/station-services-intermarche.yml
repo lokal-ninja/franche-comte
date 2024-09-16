@@ -1,11 +1,11 @@
 id: 251979682
-type: way
+type: node
 latitude: 47.38858
 longitude: 6.76723
 postcode: "25150"
 city: Pont-de-Roide-Vermondans
-street: "Rue des Buis"
-housenumber: 
+street: Rue des Buis
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

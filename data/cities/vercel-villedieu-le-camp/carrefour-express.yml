@@ -1,11 +1,11 @@
 id: 127556810
-type: way
+type: node
 latitude: 47.1821
 longitude: 6.39538
 postcode: "25530"
 city: Vercel-Villedieu-le-Camp
-street: "Rue des Fourches"
-housenumber: 16
-phone: "+33 3 81 58 31 22"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/express-vercel"
+street: Rue des Fourches
+housenumber: "16"
+phone: +33 3 81 58 31 22
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/express-vercel

@@ -1,11 +1,12 @@
 id: 166361573
-type: way
+type: node
 latitude: 46.95437
 longitude: 6.11722
 postcode: "25270"
 city: Levier
-street: "Place Bugnet"
-housenumber: 7
-phone: "+33 3 81 89 52 54"
-opening_hours: "Tu,Th 10:00-12:15,17:00-19:00; We 09:00-12:15,17:00-19:00; Fr 10:00-12:15,16:00-19:00; Sa 09:30-12:15,16:00-19:00"
-website: "https://www.fromagerie-badoz.com/"
+street: Place Bugnet
+housenumber: "7"
+phone: +33 3 81 89 52 54
+opening_hours: Tu,Th 10:00-12:15,17:00-19:00; We 09:00-12:15,17:00-19:00; Fr 10:00-12:15,16:00-19:00;
+    Sa 09:30-12:15,16:00-19:00
+website: https://www.fromagerie-badoz.com/

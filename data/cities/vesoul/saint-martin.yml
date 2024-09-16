@@ -1,11 +1,11 @@
 id: 390999400
-type: way
+type: node
 latitude: 47.63723
 longitude: 6.14283
 postcode: "70000"
 city: Vesoul
-street: "Rue Claude Monnet"
-housenumber: 14
+street: Rue Claude Monnet
+housenumber: "14"
 phone: "+33384784916"
-opening_hours: "Mo-Sa 04:00-19:00"
-website: "https://boulangeriesaintmartin.fr/"
+opening_hours: Mo-Sa 04:00-19:00
+website: https://boulangeriesaintmartin.fr/

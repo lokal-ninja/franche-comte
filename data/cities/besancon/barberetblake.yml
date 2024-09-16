@@ -4,8 +4,8 @@ latitude: 47.23816
 longitude: 6.02282
 postcode: "25000"
 city: Besançon
-street: "Rue d'Anvers"
-housenumber: 6
+street: Rue d'Anvers
+housenumber: "6"
 phone: "+33381654336"
-opening_hours: "Tu-Fr 08:00-12:00,14:00-19:30; Sa 08:00-17:30"
-website: "https://www.barberandblake.fr/"
+opening_hours: Tu-Fr 08:00-12:00,14:00-19:30; Sa 08:00-17:30
+website: https://www.barberandblake.fr/

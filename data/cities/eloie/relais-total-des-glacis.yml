@@ -1,11 +1,11 @@
 id: 79173692
-type: way
+type: node
 latitude: 47.63854
 longitude: 6.87834
 postcode: "90300"
 city: Éloie
-street: "Avenue d'Altkirch"
-housenumber: 76
+street: Avenue d'Altkirch
+housenumber: "76"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

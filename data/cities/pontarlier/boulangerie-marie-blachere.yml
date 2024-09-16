@@ -1,11 +1,11 @@
 id: 671158936
-type: way
+type: node
 latitude: 46.90933
 longitude: 6.33914
 postcode: "25300"
 city: Pontarlier
-street: "Rue de la Libération"
-housenumber: 
+street: Rue de la Libération
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.2382
 longitude: 6.02364
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 53
+street: Grande Rue
+housenumber: "53"
 phone: "+33381813114"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://tamaris.com/fr-FR/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://tamaris.com/fr-FR/

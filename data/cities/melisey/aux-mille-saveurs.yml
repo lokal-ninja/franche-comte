@@ -1,11 +1,11 @@
 id: 191878361
-type: way
+type: node
 latitude: 47.75273
 longitude: 6.58232
 postcode: "70270"
 city: Mélisey
-street: "Route de Ronchamp"
-housenumber: 15
+street: Route de Ronchamp
+housenumber: "15"
 phone: "+33384630457"
 opening_hours: ""
 website: ""

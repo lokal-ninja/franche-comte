@@ -4,8 +4,8 @@ latitude: 47.66464
 longitude: 6.84545
 postcode: "90300"
 city: Valdoie
-street: "Avenue du Général de Gaulle"
-housenumber: 9
-phone: "+33 3 84 28 14 20"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.biocoop-legreniervert.fr"
+street: Avenue du Général de Gaulle
+housenumber: "9"
+phone: +33 3 84 28 14 20
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.biocoop-legreniervert.fr

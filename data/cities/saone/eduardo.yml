@@ -1,11 +1,11 @@
 id: 583977943
-type: way
+type: node
 latitude: 47.22406
 longitude: 6.11712
 postcode: "25660"
 city: Saône
-street: "Grande Rue"
-housenumber: 1
+street: Grande Rue
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

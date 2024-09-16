@@ -1,11 +1,11 @@
 id: 236140544
-type: way
+type: node
 latitude: 46.68783
 longitude: 5.64918
 postcode: "39570"
 city: Crançot
-street: "Route de Lons-le-Saunier"
-housenumber: 3957
+street: Route de Lons-le-Saunier
+housenumber: "3957"
 phone: ""
 opening_hours: ""
 website: ""

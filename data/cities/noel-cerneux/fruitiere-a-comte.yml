@@ -1,11 +1,11 @@
 id: 185328130
-type: way
+type: node
 latitude: 47.09924
 longitude: 6.65599
 postcode: "25500"
 city: Noël-Cerneux
-street: "Route de Saint-Claude"
-housenumber: 
+street: Route de Saint-Claude
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

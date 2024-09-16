@@ -4,8 +4,8 @@ latitude: 46.90849
 longitude: 6.34926
 postcode: "25300"
 city: Pontarlier
-street: "Rue de Besançon"
-housenumber: 35
-phone: "+33 6 24 89 31 22"
-opening_hours: "Mo,Th 12:00-20:00; Tu-Sa 10:00-20:00"
+street: Rue de Besançon
+housenumber: "35"
+phone: +33 6 24 89 31 22
+opening_hours: Mo,Th 12:00-20:00; Tu-Sa 10:00-20:00
 website: ""

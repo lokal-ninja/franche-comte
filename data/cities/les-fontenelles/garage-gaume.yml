@@ -1,11 +1,11 @@
 id: 91161358
-type: way
+type: node
 latitude: 47.19997
 longitude: 6.74518
 postcode: "25210"
 city: Les Fontenelles
-street: "Rue Principale"
-housenumber: 28
+street: Rue Principale
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.23965
 longitude: 6.02216
 postcode: "25000"
 city: Besançon
-street: "Place de la Révolution"
-housenumber: 8
+street: Place de la Révolution
+housenumber: "8"
 phone: "+33381658284"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.ecoutervoir.fr/trouver-un-magasin/besancon-revolution"
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.ecoutervoir.fr/trouver-un-magasin/besancon-revolution

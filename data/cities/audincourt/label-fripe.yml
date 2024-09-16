@@ -1,11 +1,11 @@
 id: 194633749
-type: way
+type: node
 latitude: 47.48167
 longitude: 6.84252
 postcode: "25400"
 city: Audincourt
-street: "Rue du Docteur Duvernoy"
-housenumber: 1
-phone: "+33 3 81 35 00 61"
-opening_hours: "9:00-18:30"
-website: "https://labelfripe.fr/label-fripe-audincourt/"
+street: Rue du Docteur Duvernoy
+housenumber: "1"
+phone: +33 3 81 35 00 61
+opening_hours: 9:00-18:30
+website: https://labelfripe.fr/label-fripe-audincourt/

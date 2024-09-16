@@ -1,11 +1,11 @@
 id: 505775747
-type: way
+type: node
 latitude: 47.14889
 longitude: 6.32746
 postcode: "25800"
 city: Valdahon
-street: "Rue Denis Papin"
-housenumber: 2
-phone: "+33 3 81 56 23 07"
+street: Rue Denis Papin
+housenumber: "2"
+phone: +33 3 81 56 23 07
 opening_hours: ""
-website: "https://www.bandelier-automobiles.fr/"
+website: https://www.bandelier-automobiles.fr/

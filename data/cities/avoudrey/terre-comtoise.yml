@@ -1,11 +1,11 @@
 id: 91313241
-type: way
+type: node
 latitude: 47.12992
 longitude: 6.43338
 postcode: "25690"
 city: Avoudrey
-street: "Rue de la Coudre"
-housenumber: 
+street: Rue de la Coudre
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

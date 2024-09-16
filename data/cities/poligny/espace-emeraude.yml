@@ -1,11 +1,11 @@
 id: 80780160
-type: way
+type: node
 latitude: 46.84905
 longitude: 5.69464
 postcode: "39800"
 city: Poligny
-street: "Rue Claude Nicolas Ledoux"
-housenumber: 
-phone: "+33 3 84 73 76 10"
+street: Rue Claude Nicolas Ledoux
+housenumber: ""
+phone: +33 3 84 73 76 10
 opening_hours: ""
-website: "https://www.espace-emeraude.com"
+website: https://www.espace-emeraude.com

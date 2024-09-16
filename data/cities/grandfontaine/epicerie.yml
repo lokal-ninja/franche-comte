@@ -1,11 +1,11 @@
 id: 88089895
-type: way
+type: node
 latitude: 47.19733
 longitude: 5.9008
 postcode: "25320"
 city: Grandfontaine
-street: "Grande Rue"
-housenumber: 12
+street: Grande Rue
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

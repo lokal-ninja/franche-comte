@@ -4,8 +4,8 @@ latitude: 46.90356
 longitude: 6.35543
 postcode: "25300"
 city: Pontarlier
-street: "Rue de la République"
-housenumber: 42
-phone: "+33 3 81 39 05 47"
-opening_hours: "Tu-Fr 07:00-12:15,14:00-19:15; Sa 09:00-12:15,14:00-19:15"
-website: "http://www.lefruitier.fr/fiche-adherents/?id=46"
+street: Rue de la République
+housenumber: "42"
+phone: +33 3 81 39 05 47
+opening_hours: Tu-Fr 07:00-12:15,14:00-19:15; Sa 09:00-12:15,14:00-19:15
+website: http://www.lefruitier.fr/fiche-adherents/?id=46

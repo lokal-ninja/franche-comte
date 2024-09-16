@@ -1,11 +1,11 @@
 id: 65736313
-type: way
+type: node
 latitude: 47.35206
 longitude: 6.35656
 postcode: "25110"
 city: Baume-les-Dames
-street: "Avenue du Général Leclerc"
-housenumber: 10
-phone: "+33 3 81 84 02 45"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00"
+street: Avenue du Général Leclerc
+housenumber: "10"
+phone: +33 3 81 84 02 45
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00
 website: ""

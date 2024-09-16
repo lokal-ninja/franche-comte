@@ -4,8 +4,8 @@ latitude: 46.90276
 longitude: 5.77266
 postcode: "39600"
 city: Arbois
-street: "Rue de l'Hôtel de Ville"
-housenumber: 7
-phone: "+33 3 84 66 07 71"
-opening_hours: "Tu-Su 07:00-19:00"
-website: "https://marcverdant.com/"
+street: Rue de l'Hôtel de Ville
+housenumber: "7"
+phone: +33 3 84 66 07 71
+opening_hours: Tu-Su 07:00-19:00
+website: https://marcverdant.com/

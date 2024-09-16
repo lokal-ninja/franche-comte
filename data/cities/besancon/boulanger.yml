@@ -1,11 +1,11 @@
 id: 975045359
-type: way
+type: node
 latitude: 47.2145
 longitude: 5.94477
 postcode: "25000"
 city: Besançon
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33800303011"
-opening_hours: "Mo-Sa 09:30-19:30; PH 10:00-18:00"
-website: "https://www.boulanger.com/magasins/bourgogne-franche-comte/doubs/besancon/rue-guillaume-apollinaire"
+opening_hours: Mo-Sa 09:30-19:30; PH 10:00-18:00
+website: https://www.boulanger.com/magasins/bourgogne-franche-comte/doubs/besancon/rue-guillaume-apollinaire

@@ -4,8 +4,8 @@ latitude: 47.24703
 longitude: 6.0272
 postcode: "25000"
 city: Besançon
-street: "Rue de Belfort"
-housenumber: 18
-phone: "+33 3 81 60 12 07"
-opening_hours: "Tu-Sa 09:30-12:30,15:00-19:00; Su 09:30-12:30"
-website: "https://www.larigotte.com/"
+street: Rue de Belfort
+housenumber: "18"
+phone: +33 3 81 60 12 07
+opening_hours: Tu-Sa 09:30-12:30,15:00-19:00; Su 09:30-12:30
+website: https://www.larigotte.com/

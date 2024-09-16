@@ -1,11 +1,11 @@
 id: 79173987
-type: way
+type: node
 latitude: 47.64028
 longitude: 6.87361
 postcode: "90000"
 city: Belfort
-street: "Rue Gustave Lang"
-housenumber: 5
+street: Rue Gustave Lang
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

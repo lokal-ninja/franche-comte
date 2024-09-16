@@ -1,11 +1,11 @@
 id: 618537474
-type: way
+type: node
 latitude: 46.90088
 longitude: 6.34422
 postcode: "25300"
 city: Pontarlier
-street: "Rocade Georges Pompidou"
-housenumber: 29
+street: Rocade Georges Pompidou
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

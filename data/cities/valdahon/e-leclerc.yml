@@ -1,11 +1,11 @@
 id: 90412737
-type: way
+type: node
 latitude: 47.14642
 longitude: 6.33423
 postcode: "25800"
 city: Valdahon
-street: "Grande Rue"
-housenumber: 
+street: Grande Rue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

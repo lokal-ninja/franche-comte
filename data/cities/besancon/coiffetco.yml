@@ -4,8 +4,8 @@ latitude: 47.23735
 longitude: 6.02687
 postcode: "25000"
 city: Besançon
-street: "Rue des Granges"
-housenumber: 62
+street: Rue des Granges
+housenumber: "62"
 phone: "+33381810966"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.coiffandco.com/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.coiffandco.com/

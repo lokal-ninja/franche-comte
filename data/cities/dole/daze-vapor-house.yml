@@ -4,8 +4,8 @@ latitude: 47.09369
 longitude: 5.49548
 postcode: "39100"
 city: Dole
-street: "Rue de Besançon"
-housenumber: 22
-phone: "+33 3 84 71 79 60"
-opening_hours: "Mo-Sa 09:30-19:00"
+street: Rue de Besançon
+housenumber: "22"
+phone: +33 3 84 71 79 60
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

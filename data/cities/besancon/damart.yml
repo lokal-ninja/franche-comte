@@ -4,8 +4,8 @@ latitude: 47.23962
 longitude: 6.02233
 postcode: "25000"
 city: Besançon
-street: "Place de la Révolution"
-housenumber: 10
+street: Place de la Révolution
+housenumber: "10"
 phone: "+33890707737"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://magasin.damart.fr/54-damart-besancon"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://magasin.damart.fr/54-damart-besancon

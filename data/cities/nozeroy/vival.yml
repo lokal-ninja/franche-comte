@@ -4,8 +4,8 @@ latitude: 46.7747
 longitude: 6.03712
 postcode: "39250"
 city: Nozeroy
-street: "Grande Rue"
-housenumber: 24
-phone: "+33 3 84 51 13 32"
-opening_hours: "Tu-Sa 08:30-12:30,14:45-19:00; Su 09:00-12:30"
-website: "https://magasins.vival.fr/fr/vival-nozeroy"
+street: Grande Rue
+housenumber: "24"
+phone: +33 3 84 51 13 32
+opening_hours: Tu-Sa 08:30-12:30,14:45-19:00; Su 09:00-12:30
+website: https://magasins.vival.fr/fr/vival-nozeroy

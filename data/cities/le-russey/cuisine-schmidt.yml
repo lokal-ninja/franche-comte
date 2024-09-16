@@ -1,11 +1,11 @@
 id: 90841102
-type: way
+type: node
 latitude: 47.16071
 longitude: 6.72631
 postcode: "25210"
 city: Le Russey
-street: "Avenue de Lattre de Tassigny"
-housenumber: 33
+street: Avenue de Lattre de Tassigny
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

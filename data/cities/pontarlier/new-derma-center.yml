@@ -4,8 +4,8 @@ latitude: 46.90769
 longitude: 6.35022
 postcode: "25300"
 city: Pontarlier
-street: "Rue de Besançon"
-housenumber: 38
-phone: "+33 3 81 69 18 24"
-opening_hours: "Mo 14:30-19:00; Tu-Fr 08:30-12:00,14:30-19:00; Th off; Sa 08:30-13:00"
-website: "https://newdermacenter.fr/"
+street: Rue de Besançon
+housenumber: "38"
+phone: +33 3 81 69 18 24
+opening_hours: Mo 14:30-19:00; Tu-Fr 08:30-12:00,14:30-19:00; Th off; Sa 08:30-13:00
+website: https://newdermacenter.fr/

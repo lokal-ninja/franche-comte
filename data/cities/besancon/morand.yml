@@ -4,8 +4,8 @@ latitude: 47.2385
 longitude: 6.02671
 postcode: "25000"
 city: Besançon
-street: "Rue Morand"
-housenumber: 8
+street: Rue Morand
+housenumber: "8"
 phone: "+33381820956"
-opening_hours: "Mo-Sa 07:30-18:30"
+opening_hours: Mo-Sa 07:30-18:30
 website: ""

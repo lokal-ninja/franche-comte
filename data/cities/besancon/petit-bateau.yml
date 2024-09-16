@@ -4,8 +4,8 @@ latitude: 47.23732
 longitude: 6.02467
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 64
-phone: "+33 3 81 81 37 09"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://stores.petit-bateau.com/fr/france/besancon/64-grande-rue"
+street: Grande Rue
+housenumber: "64"
+phone: +33 3 81 81 37 09
+opening_hours: Mo-Sa 10:00-19:00
+website: https://stores.petit-bateau.com/fr/france/besancon/64-grande-rue

@@ -1,11 +1,11 @@
 id: 128080756
-type: way
+type: node
 latitude: 46.79574
 longitude: 6.30224
 postcode: "25160"
 city: Malbuisson
-street: "Grande Rue"
-housenumber: 22
+street: Grande Rue
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-Fr 06:00-12:30,16:00-19:00; Sa 07:00-12:30,16:00-18:30; Su 07:00-12:30"
+opening_hours: Tu-Fr 06:00-12:30,16:00-19:00; Sa 07:00-12:30,16:00-18:30; Su 07:00-12:30
 website: ""

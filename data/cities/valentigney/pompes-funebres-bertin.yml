@@ -1,11 +1,11 @@
 id: 92102920
-type: way
+type: node
 latitude: 47.45625
 longitude: 6.83699
 postcode: "25700"
 city: Valentigney
-street: "Rue de Villedieu"
-housenumber: 70
+street: Rue de Villedieu
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

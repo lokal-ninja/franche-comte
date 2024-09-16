@@ -4,8 +4,8 @@ latitude: 47.05521
 longitude: 6.61095
 postcode: "25500"
 city: Morteau
-street: "Rue Victor Hugo"
-housenumber: 3
-phone: "+33 3 81 67 98 73"
-opening_hours: "Mo-Sa 09:30-13:00,13:30-19:00"
-website: "https://www.klaus.com/"
+street: Rue Victor Hugo
+housenumber: "3"
+phone: +33 3 81 67 98 73
+opening_hours: Mo-Sa 09:30-13:00,13:30-19:00
+website: https://www.klaus.com/

@@ -1,11 +1,11 @@
 id: 90796730
-type: way
+type: node
 latitude: 47.08763
 longitude: 6.63252
 postcode: "25500"
 city: Les Fins
-street: "Rue des Prés Mouchet"
-housenumber: 21
-phone: "+33 3 81 64 56 11"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00"
-website: "https://www.valconfortenergie.fr/"
+street: Rue des Prés Mouchet
+housenumber: "21"
+phone: +33 3 81 64 56 11
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00
+website: https://www.valconfortenergie.fr/

@@ -1,11 +1,11 @@
 id: 90840102
-type: way
+type: node
 latitude: 47.16368
 longitude: 6.73053
 postcode: "25210"
 city: Le Russey
-street: "Rue des Écoles"
-housenumber: 
+street: Rue des Écoles
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

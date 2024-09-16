@@ -1,11 +1,11 @@
 id: 124342308
-type: way
+type: node
 latitude: 46.53097
 longitude: 5.39058
 postcode: "39190"
 city: Cousance
-street: "Grande Rue"
-housenumber: 57
-phone: "+33 3 84 24 05 74"
+street: Grande Rue
+housenumber: "57"
+phone: +33 3 84 24 05 74
 opening_hours: ""
 website: ""

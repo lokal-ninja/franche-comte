@@ -4,8 +4,8 @@ latitude: 46.84615
 longitude: 5.69981
 postcode: "39800"
 city: Poligny
-street: "Rue Nicolas Appert"
-housenumber: 5
-phone: "+33 3 84 73 38 68"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
+street: Rue Nicolas Appert
+housenumber: "5"
+phone: +33 3 84 73 38 68
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

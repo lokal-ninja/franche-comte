@@ -1,11 +1,11 @@
 id: 166363310
-type: way
+type: node
 latitude: 46.95518
 longitude: 6.1368
 postcode: "25270"
 city: Levier
-street: "Rue de la Petite Côte"
-housenumber: 
-phone: "+33 3 81 38 87 29"
+street: Rue de la Petite Côte
+housenumber: ""
+phone: +33 3 81 38 87 29
 opening_hours: ""
-website: "http://www.garnier-ma.fr"
+website: http://www.garnier-ma.fr

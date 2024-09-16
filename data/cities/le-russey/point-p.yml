@@ -1,11 +1,11 @@
 id: 90841086
-type: way
+type: node
 latitude: 47.1579
 longitude: 6.73524
 postcode: "25210"
 city: Le Russey
-street: "Rue des Fuottes"
-housenumber: 4
-phone: "+33 3 81 43 85 40"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:30; Sa 08:30-12:00"
-website: "https://www.pointp.fr/infos-agence/le-russey-point-p-3165"
+street: Rue des Fuottes
+housenumber: "4"
+phone: +33 3 81 43 85 40
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:30; Sa 08:30-12:00
+website: https://www.pointp.fr/infos-agence/le-russey-point-p-3165

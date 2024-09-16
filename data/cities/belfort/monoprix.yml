@@ -4,8 +4,8 @@ latitude: 47.63772
 longitude: 6.85911
 postcode: "90000"
 city: Belfort
-street: "Avenue du Maréchal Foch"
-housenumber: 1
-phone: "+33 3 84 21 47 67"
-opening_hours: "Mo-Fr 08:00-19:45; Sa 09:00-12:45"
-website: "https://www.monoprix.fr/795.html"
+street: Avenue du Maréchal Foch
+housenumber: "1"
+phone: +33 3 84 21 47 67
+opening_hours: Mo-Fr 08:00-19:45; Sa 09:00-12:45
+website: https://www.monoprix.fr/795.html

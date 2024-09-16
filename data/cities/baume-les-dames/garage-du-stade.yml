@@ -1,11 +1,11 @@
 id: 66157640
-type: way
+type: node
 latitude: 47.34933
 longitude: 6.3564
 postcode: "25110"
 city: Baume-les-Dames
-street: "Rue du Stade"
-housenumber: 15
-phone: "+33 3 81 84 40 30"
-opening_hours: "Mo-Fr 08:00-12:00,13:45-17:30; Sa 08:00-12:00"
-website: "https://reseau.citroen.fr/reparateur-baume-les-dames"
+street: Rue du Stade
+housenumber: "15"
+phone: +33 3 81 84 40 30
+opening_hours: Mo-Fr 08:00-12:00,13:45-17:30; Sa 08:00-12:00
+website: https://reseau.citroen.fr/reparateur-baume-les-dames

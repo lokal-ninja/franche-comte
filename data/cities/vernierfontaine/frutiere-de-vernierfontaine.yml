@@ -1,11 +1,11 @@
 id: 184664817
-type: way
+type: node
 latitude: 47.11223
 longitude: 6.30222
 postcode: "25580"
 city: Vernierfontaine
-street: "Rue des Clos"
-housenumber: 2
-phone: "+33 3 81 60 01 41"
-opening_hours: "Mo-Fr 10:00-12:00, Mo-Fr 17:00-19:00, Sa 09:00-12:00, Sa 16:00-19:00"
-website: "https://www.comte.com/savourer/points-de-vente-de-comte-et-de-produits-regionaux-comtois/magasins-de-fruitieres/a-faire/fruitiere-de-vernierfontaine.html"
+street: Rue des Clos
+housenumber: "2"
+phone: +33 3 81 60 01 41
+opening_hours: Mo-Fr 10:00-12:00, Mo-Fr 17:00-19:00, Sa 09:00-12:00, Sa 16:00-19:00
+website: https://www.comte.com/savourer/points-de-vente-de-comte-et-de-produits-regionaux-comtois/magasins-de-fruitieres/a-faire/fruitiere-de-vernierfontaine.html

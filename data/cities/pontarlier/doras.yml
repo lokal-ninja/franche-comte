@@ -1,11 +1,12 @@
 id: 783480814
-type: way
+type: node
 latitude: 46.90147
 longitude: 6.34724
 postcode: "25300"
 city: Pontarlier
-street: "Rue Louis Pergaud"
-housenumber: 18
-phone: "+33 3 81 46 59 59"
-opening_hours: "Mar-Nov Mo-Fr 07:30-12:00,13:30-18:00; Dec-Feb Mo-Fr 07:30-12:00,13:30-17:30; Sa 08:00-12:00"
-website: "https://www.doras.fr/agences/doras-pontarlier-25300/"
+street: Rue Louis Pergaud
+housenumber: "18"
+phone: +33 3 81 46 59 59
+opening_hours: Mar-Nov Mo-Fr 07:30-12:00,13:30-18:00; Dec-Feb Mo-Fr 07:30-12:00,13:30-17:30;
+    Sa 08:00-12:00
+website: https://www.doras.fr/agences/doras-pontarlier-25300/

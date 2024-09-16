@@ -1,11 +1,11 @@
 id: 90419449
-type: way
+type: node
 latitude: 47.07957
 longitude: 6.05446
 postcode: "25330"
 city: Cléron
-street: "Lieu-dit Zone Artisanale"
-housenumber: 8
-phone: "+33 3 81 62 25 04"
+street: Lieu-dit Zone Artisanale
+housenumber: "8"
+phone: +33 3 81 62 25 04
 opening_hours: ""
 website: ""

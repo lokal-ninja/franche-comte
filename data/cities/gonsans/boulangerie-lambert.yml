@@ -1,11 +1,11 @@
 id: 591607458
-type: way
+type: node
 latitude: 47.23261
 longitude: 6.29888
 postcode: "25360"
 city: Gonsans
-street: "Rue de l'Église"
-housenumber: 6
+street: Rue de l'Église
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

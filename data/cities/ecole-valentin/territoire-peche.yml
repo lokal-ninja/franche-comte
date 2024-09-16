@@ -1,11 +1,11 @@
 id: 87257613
-type: way
+type: node
 latitude: 47.27831
 longitude: 5.97931
 postcode: "25480"
 city: École-Valentin
-street: "Rue des Salines"
-housenumber: 1
+street: Rue des Salines
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

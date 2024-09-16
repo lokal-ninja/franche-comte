@@ -1,11 +1,11 @@
 id: 85274230
-type: way
+type: node
 latitude: 47.43472
 longitude: 5.60111
 postcode: "70100"
 city: Gray
-street: "Rue Picard"
-housenumber: 
+street: Rue Picard
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

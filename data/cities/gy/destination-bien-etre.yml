@@ -1,11 +1,11 @@
 id: 118697058
-type: way
+type: node
 latitude: 47.41471
 longitude: 5.81046
 postcode: "70700"
 city: Gy
-street: "Rue des Saules"
-housenumber: 2
-phone: "+33 3 84 32 18 66"
+street: Rue des Saules
+housenumber: "2"
+phone: +33 3 84 32 18 66
 opening_hours: ""
 website: ""

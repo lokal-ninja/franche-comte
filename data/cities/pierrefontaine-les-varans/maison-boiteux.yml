@@ -1,11 +1,11 @@
 id: 128174045
-type: way
+type: node
 latitude: 47.21584
 longitude: 6.53995
 postcode: "25510"
 city: Pierrefontaine-les-Varans
-street: "Grande Rue"
-housenumber: 11
+street: Grande Rue
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

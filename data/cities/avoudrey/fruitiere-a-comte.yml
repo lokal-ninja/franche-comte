@@ -1,11 +1,11 @@
 id: 91314538
-type: way
+type: node
 latitude: 47.13855
 longitude: 6.43398
 postcode: "25690"
 city: Avoudrey
-street: "Grande Rue"
-housenumber: 11
+street: Grande Rue
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

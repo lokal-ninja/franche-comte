@@ -4,8 +4,8 @@ latitude: 47.2429
 longitude: 6.03312
 postcode: "25000"
 city: Besançon
-street: "Rue des Chalets"
-housenumber: 4
-phone: "+33.3 81 47 03 04"
+street: Rue des Chalets
+housenumber: "4"
+phone: +33.3 81 47 03 04
 opening_hours: ""
-website: "https://www.velosphere.fr/"
+website: https://www.velosphere.fr/

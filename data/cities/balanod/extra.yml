@@ -1,11 +1,11 @@
 id: 83043385
-type: way
+type: node
 latitude: 46.44803
 longitude: 5.34448
 postcode: "39160"
 city: Balanod
-street: "Avenue de Franche Comté"
-housenumber: 6
-phone: "+33 3 84 48 89 96"
+street: Avenue de Franche Comté
+housenumber: "6"
+phone: +33 3 84 48 89 96
 opening_hours: ""
-website: "http://www.extra-saintamour.fr/"
+website: http://www.extra-saintamour.fr/

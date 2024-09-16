@@ -4,8 +4,8 @@ latitude: 46.74889
 longitude: 5.91526
 postcode: "39300"
 city: Champagnole
-street: "Rue de Chevru"
-housenumber: 105
+street: Rue de Chevru
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-19:00"
-website: "https://www.biocoop-champagnole.fr"
+opening_hours: Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-19:00
+website: https://www.biocoop-champagnole.fr

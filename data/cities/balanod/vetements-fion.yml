@@ -1,11 +1,11 @@
 id: 83044967
-type: way
+type: node
 latitude: 46.44795
 longitude: 5.34443
 postcode: "39160"
 city: Balanod
-street: "Avenue de Franche Comté"
-housenumber: 2
-phone: "+33 3 84 48 86 89"
+street: Avenue de Franche Comté
+housenumber: "2"
+phone: +33 3 84 48 86 89
 opening_hours: ""
 website: ""

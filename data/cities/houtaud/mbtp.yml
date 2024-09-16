@@ -1,11 +1,11 @@
 id: 63634008
-type: way
+type: node
 latitude: 46.91734
 longitude: 6.30602
 postcode: "25300"
 city: Houtaud
-street: "Rue des Iris"
-housenumber: 8
+street: Rue des Iris
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

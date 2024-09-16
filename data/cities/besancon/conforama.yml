@@ -1,11 +1,11 @@
 id: 72367451
-type: way
+type: node
 latitude: 47.21512
 longitude: 5.95206
 postcode: "25000"
 city: Besançon
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.conforama.fr/magasins-conforama/besancon?lat=47.2162625&long=5.952851&name=BESANCON"
+website: https://www.conforama.fr/magasins-conforama/besancon?lat=47.2162625&long=5.952851&name=BESANCON

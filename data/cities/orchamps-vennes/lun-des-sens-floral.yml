@@ -1,11 +1,11 @@
 id: 634785963
-type: way
+type: node
 latitude: 47.1292
 longitude: 6.52455
 postcode: "25390"
 city: Orchamps-Vennes
-street: "Grande Rue"
-housenumber: 9
+street: Grande Rue
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

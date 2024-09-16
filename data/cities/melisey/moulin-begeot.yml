@@ -1,11 +1,11 @@
 id: 191878326
-type: way
+type: node
 latitude: 47.77876
 longitude: 6.57239
 postcode: "70270"
 city: Mélisey
-street: "Les Granges Baverey"
-housenumber: 11
-phone: "+33 3 84 63 25 76"
+street: Les Granges Baverey
+housenumber: "11"
+phone: +33 3 84 63 25 76
 opening_hours: ""
-website: "https://www.moulinbegeot.eu/"
+website: https://www.moulinbegeot.eu/

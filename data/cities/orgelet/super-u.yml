@@ -1,11 +1,11 @@
 id: 202657467
-type: way
+type: node
 latitude: 46.52799
 longitude: 5.60612
 postcode: "39270"
 city: Orgelet
-street: "Rue de l'Industrie"
-housenumber: 2
-phone: "+33 3 84 25 46 64"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.magasins-u.com/magasin/superu-orgelet.m66168"
+street: Rue de l'Industrie
+housenumber: "2"
+phone: +33 3 84 25 46 64
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.magasins-u.com/magasin/superu-orgelet.m66168

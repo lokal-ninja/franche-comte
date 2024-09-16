@@ -4,8 +4,8 @@ latitude: 47.23582
 longitude: 6.0259
 postcode: "25000"
 city: Besançon
-street: "Rue de la Préfecture"
-housenumber: 4
+street: Rue de la Préfecture
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-19:00"
-website: "https://www.levrac.store/"
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-19:00
+website: https://www.levrac.store/

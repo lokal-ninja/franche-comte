@@ -4,8 +4,8 @@ latitude: 47.23846
 longitude: 6.02316
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 43
+street: Grande Rue
+housenumber: "43"
 phone: "+33381832986"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.pimkie.fr/magasin-pimkie-00043"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.pimkie.fr/magasin-pimkie-00043

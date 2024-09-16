@@ -1,11 +1,11 @@
 id: 40059143
-type: way
+type: node
 latitude: 46.93448
 longitude: 6.33213
 postcode: "25300"
 city: Vuillecin
-street: "Rue Docteur Jean Michel"
-housenumber: 
-phone: "+33 3 81 39 65 68"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
-website: "https://www.fransbonhomme.fr/store-finder/25300-vuillecin-190"
+street: Rue Docteur Jean Michel
+housenumber: ""
+phone: +33 3 81 39 65 68
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
+website: https://www.fransbonhomme.fr/store-finder/25300-vuillecin-190

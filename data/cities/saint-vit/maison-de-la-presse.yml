@@ -1,11 +1,11 @@
 id: 90200300
-type: way
+type: node
 latitude: 47.18238
 longitude: 5.81357
 postcode: "25410"
 city: Saint-Vit
-street: "Rue Charles de Gaulle"
-housenumber: 1
+street: Rue Charles de Gaulle
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

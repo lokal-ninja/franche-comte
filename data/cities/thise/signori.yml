@@ -1,11 +1,11 @@
 id: 88139173
-type: way
+type: node
 latitude: 47.26966
 longitude: 6.06156
 postcode: "25220"
 city: Thise
-street: "Rue des Longues Raies"
-housenumber: 13
+street: Rue des Longues Raies
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

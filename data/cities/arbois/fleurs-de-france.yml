@@ -4,8 +4,8 @@ latitude: 46.90343
 longitude: 5.77248
 postcode: "39600"
 city: Arbois
-street: "Grande Rue"
-housenumber: 49
-phone: "+33 6 86 66 54 55"
+street: Grande Rue
+housenumber: "49"
+phone: +33 6 86 66 54 55
 opening_hours: ""
-website: "https://fleurs-defrance.com/"
+website: https://fleurs-defrance.com/

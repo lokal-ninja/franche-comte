@@ -4,8 +4,8 @@ latitude: 47.23805
 longitude: 6.02362
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 48
+street: Grande Rue
+housenumber: "48"
 phone: "+33381481277"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.devred.com/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.devred.com/

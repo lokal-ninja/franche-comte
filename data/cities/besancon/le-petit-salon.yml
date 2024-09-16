@@ -4,8 +4,8 @@ latitude: 47.23845
 longitude: 6.02529
 postcode: "25000"
 city: Besançon
-street: "Rue des Granges"
-housenumber: 34
+street: Rue des Granges
+housenumber: "34"
 phone: "+33381579383"
-opening_hours: "Tu-Sa 09:00-17:00"
-website: "https://www.planity.com/le-petit-salon-25000-besancon"
+opening_hours: Tu-Sa 09:00-17:00
+website: https://www.planity.com/le-petit-salon-25000-besancon

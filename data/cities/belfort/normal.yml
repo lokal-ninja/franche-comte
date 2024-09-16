@@ -4,8 +4,8 @@ latitude: 47.63712
 longitude: 6.85656
 postcode: "90000"
 city: Belfort
-street: "Faubourg de France"
-housenumber: 18
-phone: "06 15 17 69 25"
-opening_hours: "10:00-19:00"
+street: Faubourg de France
+housenumber: "18"
+phone: 06 15 17 69 25
+opening_hours: 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 71852510
-type: way
+type: node
 latitude: 47.2108
 longitude: 6.09796
 postcode: "25660"
 city: Saône
-street: "Rue de l'Industrie"
-housenumber: 15
+street: Rue de l'Industrie
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

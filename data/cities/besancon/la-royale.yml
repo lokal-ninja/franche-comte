@@ -4,8 +4,8 @@ latitude: 47.2472
 longitude: 6.02714
 postcode: "25000"
 city: Besançon
-street: "Rue de Belfort"
-housenumber: 25
+street: Rue de Belfort
+housenumber: "25"
 phone: "+33381804219"
-opening_hours: "Tu-Fr 08:30-13:00,15:00-19:00; Sa 07:30-13:00,15:00-19:00; Su 07:30-12:30"
+opening_hours: Tu-Fr 08:30-13:00,15:00-19:00; Sa 07:30-13:00,15:00-19:00; Su 07:30-12:30
 website: ""

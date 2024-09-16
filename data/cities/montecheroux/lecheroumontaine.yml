@@ -4,8 +4,9 @@ latitude: 47.34945
 longitude: 6.80545
 postcode: "25190"
 city: Montécheroux
-street: "Grande Rue"
-housenumber: 25
-phone: "03 81 97 54 33"
-opening_hours: "Mo,Th 08:00-12:00,16:00-19:00; Tu 08:00-16:00; Fr 08:00-12:00,14:00-19:00; Sa 08:00-16:30"
-website: "https://boucherie-lecheroumontaine.fr/"
+street: Grande Rue
+housenumber: "25"
+phone: 03 81 97 54 33
+opening_hours: Mo,Th 08:00-12:00,16:00-19:00; Tu 08:00-16:00; Fr 08:00-12:00,14:00-19:00;
+    Sa 08:00-16:30
+website: https://boucherie-lecheroumontaine.fr/

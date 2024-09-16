@@ -1,11 +1,11 @@
 id: 94536433
-type: way
+type: node
 latitude: 47.14873
 longitude: 6.27041
 postcode: "25580"
 city: Étalans
-street: "Grande Rue"
-housenumber: 41
+street: Grande Rue
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.fruitiere-etalans.fr/"
+website: https://www.fruitiere-etalans.fr/

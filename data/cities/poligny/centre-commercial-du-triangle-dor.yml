@@ -1,11 +1,11 @@
 id: 80779608
-type: way
+type: node
 latitude: 46.84743
 longitude: 5.69785
 postcode: "39800"
 city: Poligny
-street: "Rue Nicolas Appert"
-housenumber: 
+street: Rue Nicolas Appert
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centre-commercial-poligny.fr"
+website: https://centre-commercial-poligny.fr

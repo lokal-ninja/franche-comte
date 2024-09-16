@@ -4,8 +4,9 @@ latitude: 47.05636
 longitude: 6.61097
 postcode: "25500"
 city: Morteau
-street: "Rue Jean-Claude Bouquet"
-housenumber: 19
-phone: "+33 3 81 67 33 16"
-opening_hours: "Mo 14:00-19:00; Tu,Th 09:00-12:00,14:00-19:00; We 09:00-12:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.institut-lecocon.com/"
+street: Rue Jean-Claude Bouquet
+housenumber: "19"
+phone: +33 3 81 67 33 16
+opening_hours: Mo 14:00-19:00; Tu,Th 09:00-12:00,14:00-19:00; We 09:00-12:00; Fr 09:00-19:00;
+    Sa 09:00-16:00
+website: https://www.institut-lecocon.com/

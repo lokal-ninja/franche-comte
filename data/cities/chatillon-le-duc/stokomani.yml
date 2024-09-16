@@ -1,11 +1,11 @@
 id: 86997443
-type: way
+type: node
 latitude: 47.28554
 longitude: 5.9932
 postcode: "25870"
 city: Châtillon-le-Duc
-street: "Rue de Châtillon"
-housenumber: 
+street: Rue de Châtillon
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.stokomani.fr/magasins/ecole-valentin"
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.stokomani.fr/magasins/ecole-valentin

@@ -4,8 +4,8 @@ latitude: 46.81331
 longitude: 6.3025
 postcode: "25160"
 city: Saint-Point-Lac
-street: "Place de la Mairie"
-housenumber: 2
-phone: "+33 3 81 69 61 76"
-opening_hours: "Mo-Sa 09:00-12:00; Mo, Th, Fr 16:00-19:00; Sa 09:00-12:00, 15:00-18:30"
+street: Place de la Mairie
+housenumber: "2"
+phone: +33 3 81 69 61 76
+opening_hours: Mo-Sa 09:00-12:00; Mo, Th, Fr 16:00-19:00; Sa 09:00-12:00, 15:00-18:30
 website: ""

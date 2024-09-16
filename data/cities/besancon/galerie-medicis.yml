@@ -4,8 +4,8 @@ latitude: 47.23478
 longitude: 6.02964
 postcode: "25000"
 city: Besançon
-street: "Rue Victor Hugo"
-housenumber: 9
-phone: "+33 3 81 82 85 85"
+street: Rue Victor Hugo
+housenumber: "9"
+phone: +33 3 81 82 85 85
 opening_hours: ""
-website: "https://www.galeriemedicis.com"
+website: https://www.galeriemedicis.com

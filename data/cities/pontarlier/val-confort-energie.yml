@@ -1,11 +1,11 @@
 id: 430073239
-type: way
+type: node
 latitude: 46.90209
 longitude: 6.33219
 postcode: "25300"
 city: Pontarlier
-street: "Rue Jean Petite"
-housenumber: 1
-phone: "+33 3 81 64 56 11"
-opening_hours: "Tu-Sa 09:30-12:00,14:00-19:00"
-website: "https://www.valconfortenergie.fr/"
+street: Rue Jean Petite
+housenumber: "1"
+phone: +33 3 81 64 56 11
+opening_hours: Tu-Sa 09:30-12:00,14:00-19:00
+website: https://www.valconfortenergie.fr/

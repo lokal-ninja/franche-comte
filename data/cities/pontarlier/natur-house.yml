@@ -4,8 +4,8 @@ latitude: 46.90498
 longitude: 6.35383
 postcode: "25300"
 city: Pontarlier
-street: "Rue du Bastion"
-housenumber: 5
-phone: "+33 3 81 38 88 88"
-opening_hours: "Tu-Fr 09:00-13:00,14:00-19:00; Sa 08:00-13:00"
-website: "https://www.naturhouse.fr/liste-centres/415-pontarlier/"
+street: Rue du Bastion
+housenumber: "5"
+phone: +33 3 81 38 88 88
+opening_hours: Tu-Fr 09:00-13:00,14:00-19:00; Sa 08:00-13:00
+website: https://www.naturhouse.fr/liste-centres/415-pontarlier/

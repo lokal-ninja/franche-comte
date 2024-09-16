@@ -1,11 +1,11 @@
 id: 1220635057
-type: way
+type: node
 latitude: 47.64985
 longitude: 6.14064
 postcode: "70000"
 city: Pusey
-street: "Rue Pierre Martin"
-housenumber: 17
+street: Rue Pierre Martin
+housenumber: "17"
 phone: "+33363778126"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://jysk.fr/magasins?storeId=7181"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://jysk.fr/magasins?storeId=7181

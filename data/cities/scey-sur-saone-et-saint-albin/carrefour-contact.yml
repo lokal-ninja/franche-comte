@@ -4,8 +4,8 @@ latitude: 47.6645
 longitude: 5.9719
 postcode: "70360"
 city: Scey-sur-Saône-et-Saint-Albin
-street: "Grande Rue du Bourg"
-housenumber: 3
-phone: "+33 3 84 68 86 92"
-opening_hours: "Mo-Sa 08:00-20:00; Su 9:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-scey-sur-saone"
+street: Grande Rue du Bourg
+housenumber: "3"
+phone: +33 3 84 68 86 92
+opening_hours: Mo-Sa 08:00-20:00; Su 9:00-13:00
+website: https://www.carrefour.fr/magasin/contact-scey-sur-saone

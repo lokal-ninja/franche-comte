@@ -1,11 +1,11 @@
 id: 83839545
-type: way
+type: node
 latitude: 47.45383
 longitude: 5.59493
 postcode: "70100"
 city: Arc-lès-Gray
-street: "Rue des Giranaux"
-housenumber: 
+street: Rue des Giranaux
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

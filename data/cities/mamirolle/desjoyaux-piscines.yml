@@ -1,11 +1,11 @@
 id: 72674406
-type: way
+type: node
 latitude: 47.19812
 longitude: 6.14892
 postcode: "25620"
 city: Mamirolle
-street: "Rue de l'Industrie"
-housenumber: 4
+street: Rue de l'Industrie
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

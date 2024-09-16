@@ -1,11 +1,11 @@
 id: 695682953
-type: way
+type: node
 latitude: 47.28671
 longitude: 5.66126
 postcode: "70140"
 city: Montagney
-street: "Grande Rue"
-housenumber: 8
+street: Grande Rue
+housenumber: "8"
 phone: "+33676069612"
 opening_hours: ""
 website: ""

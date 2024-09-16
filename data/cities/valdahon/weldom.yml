@@ -1,11 +1,11 @@
 id: 396771467
-type: way
+type: node
 latitude: 47.14726
 longitude: 6.3301
 postcode: "25800"
 city: Valdahon
-street: "Route de Vernierfontaine"
-housenumber: 9
+street: Route de Vernierfontaine
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.weldom.fr/"
+website: https://www.weldom.fr/

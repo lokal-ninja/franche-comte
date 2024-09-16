@@ -4,8 +4,8 @@ latitude: 47.23815
 longitude: 6.02187
 postcode: "25000"
 city: Besançon
-street: "Rue Pasteur"
-housenumber: 8
+street: Rue Pasteur
+housenumber: "8"
 phone: "+33986378342"
-opening_hours: "Tu-Sa 10:30-12:30,13:30-18:30"
-website: "https://www.laboutiquecreateurs.com/"
+opening_hours: Tu-Sa 10:30-12:30,13:30-18:30
+website: https://www.laboutiquecreateurs.com/

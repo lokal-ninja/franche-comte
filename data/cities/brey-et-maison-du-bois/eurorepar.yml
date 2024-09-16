@@ -1,11 +1,11 @@
 id: 981037129
-type: way
+type: node
 latitude: 46.75005
 longitude: 6.25669
 postcode: "25240"
 city: Brey-et-Maison-du-Bois
-street: "Rue du Fuverat"
-housenumber: 7
-phone: "+33 3 81 69 23 31"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-19:00; Sa 07:30-12:00"
-website: "https://www.eurorepar.fr/garage-vuez-dany-brey-et-maison-du-bois-295.html"
+street: Rue du Fuverat
+housenumber: "7"
+phone: +33 3 81 69 23 31
+opening_hours: Mo-Fr 07:30-12:00,13:30-19:00; Sa 07:30-12:00
+website: https://www.eurorepar.fr/garage-vuez-dany-brey-et-maison-du-bois-295.html

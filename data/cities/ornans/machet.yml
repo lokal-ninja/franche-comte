@@ -1,11 +1,11 @@
 id: 974830993
-type: way
+type: node
 latitude: 47.11112
 longitude: 6.12478
 postcode: "25290"
 city: Ornans
-street: "Rue du colonel Oudot"
-housenumber: 2
-phone: "+33 3 81 62 02 67"
-opening_hours: "Mo 14:00-18:30; Tu-Sa 09:30-12:00,14:00-18:30"
-website: "https://www.machet-agencement.com"
+street: Rue du colonel Oudot
+housenumber: "2"
+phone: +33 3 81 62 02 67
+opening_hours: Mo 14:00-18:30; Tu-Sa 09:30-12:00,14:00-18:30
+website: https://www.machet-agencement.com

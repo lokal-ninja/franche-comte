@@ -1,11 +1,11 @@
 id: 83807416
-type: way
+type: node
 latitude: 47.47396
 longitude: 5.62713
 postcode: "70100"
 city: Rigny
-street: "Rue du Moulin"
-housenumber: 16
+street: Rue du Moulin
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://cafiot.fr"
+website: https://cafiot.fr

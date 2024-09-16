@@ -1,11 +1,11 @@
 id: 236039246
-type: way
+type: node
 latitude: 46.67403
 longitude: 5.53598
 postcode: "39570"
 city: Montmorot
-street: "Rue du Pré des Dames"
-housenumber: 11
+street: Rue du Pré des Dames
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

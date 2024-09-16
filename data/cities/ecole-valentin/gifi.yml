@@ -1,11 +1,11 @@
 id: 87258032
-type: way
+type: node
 latitude: 47.2779
 longitude: 5.99144
 postcode: "25480"
 city: École-Valentin
-street: "Rue de l'If"
-housenumber: 
+street: Rue de l'If
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

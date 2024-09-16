@@ -1,11 +1,11 @@
 id: 124342546
-type: way
+type: node
 latitude: 46.53083
 longitude: 5.39053
 postcode: "39190"
 city: Cousance
-street: "Grande Rue"
-housenumber: 51
-phone: "+33 9 84 51 86 07"
+street: Grande Rue
+housenumber: "51"
+phone: +33 9 84 51 86 07
 opening_hours: ""
-website: "https://optiquepierrekuhni.fr/magasins/cousance/"
+website: https://optiquepierrekuhni.fr/magasins/cousance/

@@ -1,11 +1,11 @@
 id: 224235447
-type: way
+type: node
 latitude: 47.21643
 longitude: 5.73773
 postcode: "25410"
 city: Mercey-le-Grand
-street: "Rue de Romain"
-housenumber: 2
+street: Rue de Romain
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 37144856
-type: way
+type: node
 latitude: 46.91071
 longitude: 6.33561
 postcode: "25300"
 city: Pontarlier
-street: "Rue Denis Papin"
-housenumber: 23
+street: Rue Denis Papin
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.action.com/fr-fr/points-de-vente/pontarlier-23-rue-denis-papin/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.action.com/fr-fr/points-de-vente/pontarlier-23-rue-denis-papin/

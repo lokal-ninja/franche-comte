@@ -1,11 +1,11 @@
 id: 77509024
-type: way
+type: node
 latitude: 47.38882
 longitude: 6.7675
 postcode: "25150"
 city: Pont-de-Roide-Vermondans
-street: "Rue des Bouleaux"
+street: Rue des Bouleaux
 housenumber: 26 Pont de Roide
-phone: "+33 3 81 92 24 77"
-opening_hours: "Mo-We 08:30-13:00,14:00-19:00; Th,Fr 08:30-19:00; Sa 08:30-18:30"
+phone: +33 3 81 92 24 77
+opening_hours: Mo-We 08:30-13:00,14:00-19:00; Th,Fr 08:30-19:00; Sa 08:30-18:30
 website: ""

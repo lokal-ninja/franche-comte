@@ -1,11 +1,11 @@
 id: 510009336
-type: way
+type: node
 latitude: 47.28107
 longitude: 5.99151
 postcode: "25480"
 city: École-Valentin
-street: "Rue de Châtillon"
-housenumber: 43
+street: Rue de Châtillon
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

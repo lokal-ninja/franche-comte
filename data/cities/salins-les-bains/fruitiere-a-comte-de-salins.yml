@@ -1,11 +1,11 @@
 id: 151949310
-type: way
+type: node
 latitude: 46.9278
 longitude: 5.88698
 postcode: "39110"
 city: Salins-les-Bains
-street: "Route de Champagnole"
-housenumber: 1
-phone: "+33 3 84 73 18 52"
+street: Route de Champagnole
+housenumber: "1"
+phone: +33 3 84 73 18 52
 opening_hours: ""
-website: "http://www.comtefruitieresalins.com"
+website: http://www.comtefruitieresalins.com

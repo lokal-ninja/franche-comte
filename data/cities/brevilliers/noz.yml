@@ -1,11 +1,11 @@
 id: 210955040
-type: way
+type: node
 latitude: 47.59011
 longitude: 6.79292
 postcode: "70400"
 city: Brevilliers
-street: "ZAC de La Preusse"
-housenumber: 
+street: ZAC de La Preusse
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/brevilliers/"
+website: https://www.nozarrivages.com/magasin/brevilliers/

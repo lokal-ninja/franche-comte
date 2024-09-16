@@ -4,8 +4,8 @@ latitude: 47.23494
 longitude: 6.03198
 postcode: "25000"
 city: Besançon
-street: "Rue Rivotte"
-housenumber: 12
+street: Rue Rivotte
+housenumber: "12"
 phone: "+33381813704"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00"
-website: "https://www.luthier-deloffre.fr/"
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00
+website: https://www.luthier-deloffre.fr/

@@ -1,11 +1,11 @@
 id: 975045349
-type: way
+type: node
 latitude: 47.21549
 longitude: 5.94589
 postcode: "25000"
 city: Besançon
-street: "Rue Guillaume Apollinaire"
-housenumber: 
+street: Rue Guillaume Apollinaire
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00"
-website: "https://www.la-galerie.com/chateaufarine"
+opening_hours: Mo-Sa 08:30-21:00
+website: https://www.la-galerie.com/chateaufarine

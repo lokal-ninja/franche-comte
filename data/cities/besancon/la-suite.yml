@@ -4,8 +4,8 @@ latitude: 47.23919
 longitude: 6.02753
 postcode: "25000"
 city: Besançon
-street: "Rue du Clos Saint-Amour"
-housenumber: 6
+street: Rue du Clos Saint-Amour
+housenumber: "6"
 phone: "+33381816177"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00"
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
 website: ""

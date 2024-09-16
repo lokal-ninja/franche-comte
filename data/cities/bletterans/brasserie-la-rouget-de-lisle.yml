@@ -1,11 +1,11 @@
 id: 480687423
-type: way
+type: node
 latitude: 46.75022
 longitude: 5.44367
 postcode: "39140"
 city: Bletterans
-street: "Rue de la Verne"
-housenumber: 5
-phone: "+33 3 84 85 09 18"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-18:00"
-website: "http://www.brasserie-rouget-lisle.com/"
+street: Rue de la Verne
+housenumber: "5"
+phone: +33 3 84 85 09 18
+opening_hours: Tu-Sa 09:00-12:00,14:00-18:00
+website: http://www.brasserie-rouget-lisle.com/

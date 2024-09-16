@@ -4,8 +4,8 @@ latitude: 47.63874
 longitude: 6.87759
 postcode: "90000"
 city: Belfort
-street: "Avenue d'Altkirch"
-housenumber: 71
-phone: "+33 3 84 22 45 54"
+street: Avenue d'Altkirch
+housenumber: "71"
+phone: +33 3 84 22 45 54
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

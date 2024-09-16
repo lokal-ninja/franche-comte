@@ -1,11 +1,11 @@
 id: 587938091
-type: way
+type: node
 latitude: 46.83763
 longitude: 5.68899
 postcode: "39800"
 city: Poligny
-street: "Rue des Salines"
-housenumber: 2
+street: Rue des Salines
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,01:30-18:30; Sa 09:00-12:00,02:00-17:00"
-website: "https://www.points.fr/centre/chevassu-accord-poligny"
+opening_hours: Mo-Fr 09:00-12:00,01:30-18:30; Sa 09:00-12:00,02:00-17:00
+website: https://www.points.fr/centre/chevassu-accord-poligny

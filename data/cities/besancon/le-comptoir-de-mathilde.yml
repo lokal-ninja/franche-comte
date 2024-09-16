@@ -4,8 +4,8 @@ latitude: 47.23816
 longitude: 6.0237
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 55
+street: Grande Rue
+housenumber: "55"
 phone: "+33381850431"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.ocito.net/chateaufarine/le-comptoir-de-mathilde-besancon"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.ocito.net/chateaufarine/le-comptoir-de-mathilde-besancon

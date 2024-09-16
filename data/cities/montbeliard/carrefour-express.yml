@@ -4,8 +4,8 @@ latitude: 47.51098
 longitude: 6.79973
 postcode: "25200"
 city: Montbéliard
-street: "Rue de la Souaberie"
-housenumber: 9
+street: Rue de la Souaberie
+housenumber: "9"
 phone: "+33381945272"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-montbeliard"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-montbeliard

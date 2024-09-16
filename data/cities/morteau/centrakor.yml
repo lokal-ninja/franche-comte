@@ -4,8 +4,8 @@ latitude: 47.05709
 longitude: 6.61444
 postcode: "25500"
 city: Morteau
-street: "Chemin des Pierres"
-housenumber: 9
-phone: "+33 3 81 43 44 65"
-opening_hours: "Mo-Sa 09:30-12:00,14:00-19:00"
-website: "https://www.centrakor.com/magasin-centrakor/ctkmorteau/centrakor-morteau-25500.html"
+street: Chemin des Pierres
+housenumber: "9"
+phone: +33 3 81 43 44 65
+opening_hours: Mo-Sa 09:30-12:00,14:00-19:00
+website: https://www.centrakor.com/magasin-centrakor/ctkmorteau/centrakor-morteau-25500.html

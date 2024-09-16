@@ -1,11 +1,11 @@
 id: 121753646
-type: way
+type: node
 latitude: 46.91482
 longitude: 5.75725
 postcode: "39600"
 city: Arbois
-street: "Route de Dole"
-housenumber: 
-phone: "+33 3 84 66 27 85"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/superu-arbois"
+street: Route de Dole
+housenumber: ""
+phone: +33 3 84 66 27 85
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/superu-arbois

@@ -4,8 +4,8 @@ latitude: 47.2216
 longitude: 5.96672
 postcode: "25000"
 city: Besançon
-street: "Avenue de l'Île-de-France"
-housenumber: 18
+street: Avenue de l'Île-de-France
+housenumber: "18"
 phone: "+33381269699"
-opening_hours: "Mo-Sa 08:45-19:00; Su 09:00-19:00"
-website: "https://www.euromarketbesancon.com/"
+opening_hours: Mo-Sa 08:45-19:00; Su 09:00-19:00
+website: https://www.euromarketbesancon.com/

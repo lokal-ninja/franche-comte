@@ -1,11 +1,11 @@
 id: 151949371
-type: way
+type: node
 latitude: 46.94778
 longitude: 5.8747
 postcode: "39110"
 city: Salins-les-Bains
-street: "Avenue Aristide Briand"
-housenumber: 
-phone: "+33.3 84 37 98 98"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-12:30"
-website: "https://magasins.bi1.fr/bi1-supermarches/fr/store/france/bourgogne-franche-comte/jura/salins-les-bains/salins-les-bains/70119"
+street: Avenue Aristide Briand
+housenumber: ""
+phone: +33.3 84 37 98 98
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-12:30
+website: https://magasins.bi1.fr/bi1-supermarches/fr/store/france/bourgogne-franche-comte/jura/salins-les-bains/salins-les-bains/70119

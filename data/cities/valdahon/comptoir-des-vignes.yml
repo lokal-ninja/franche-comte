@@ -1,11 +1,11 @@
 id: 90409599
-type: way
+type: node
 latitude: 47.14706
 longitude: 6.3482
 postcode: "25800"
 city: Valdahon
-street: "Grande Rue"
-housenumber: 57
+street: Grande Rue
+housenumber: "57"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://maisonpernet.com/"
+opening_hours: Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://maisonpernet.com/

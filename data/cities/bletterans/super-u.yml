@@ -1,11 +1,11 @@
 id: 128729965
-type: way
+type: node
 latitude: 46.7452
 longitude: 5.45025
 postcode: "39140"
 city: Bletterans
-street: "Faubourg d'Aval"
-housenumber: 4
-phone: "+33 3 84 48 16 89"
-opening_hours: "Mo-Fr 08:30-19:30; Sa 08:30-19:00"
-website: "https://www.magasins-u.com/magasin/superu-bletterans"
+street: Faubourg d'Aval
+housenumber: "4"
+phone: +33 3 84 48 16 89
+opening_hours: Mo-Fr 08:30-19:30; Sa 08:30-19:00
+website: https://www.magasins-u.com/magasin/superu-bletterans

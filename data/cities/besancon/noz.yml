@@ -1,11 +1,11 @@
 id: 72031758
-type: way
+type: node
 latitude: 47.23745
 longitude: 5.98898
 postcode: "25000"
 city: Besançon
-street: "Rue Auguste Jouchoux"
-housenumber: 8
+street: Rue Auguste Jouchoux
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/besancon/"
+website: https://nozarrivages.com/magasin/besancon/

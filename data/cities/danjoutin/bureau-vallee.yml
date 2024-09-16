@@ -4,8 +4,8 @@ latitude: 47.62509
 longitude: 6.8597
 postcode: "90400"
 city: Danjoutin
-street: "avenue de la République"
-housenumber: 6
+street: avenue de la République
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:30-19:00; Sa 09:00-12:00,13:30-18:00"
+opening_hours: Mo-Fr 09:00-12:00,13:30-19:00; Sa 09:00-12:00,13:30-18:00
 website: ""

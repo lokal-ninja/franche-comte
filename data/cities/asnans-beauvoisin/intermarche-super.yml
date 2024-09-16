@@ -1,11 +1,11 @@
 id: 256300297
-type: way
+type: node
 latitude: 46.95644
 longitude: 5.40415
 postcode: "39120"
 city: Asnans-Beauvoisin
-street: "Route de Longwy"
-housenumber: 41
+street: Route de Longwy
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.23812
 longitude: 6.02376
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 57
+street: Grande Rue
+housenumber: "57"
 phone: "0381619369"
-opening_hours: "Tu-Fr 10:30-13:00,14:00-18:30; Sa 10:00-13:00,14:00-19:00"
-website: "https://www.princessetamtam.com/"
+opening_hours: Tu-Fr 10:30-13:00,14:00-18:30; Sa 10:00-13:00,14:00-19:00
+website: https://www.princessetamtam.com/

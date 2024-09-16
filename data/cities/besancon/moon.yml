@@ -4,8 +4,8 @@ latitude: 47.23651
 longitude: 6.02885
 postcode: "25000"
 city: Besançon
-street: "Rue des Granges"
-housenumber: 105
+street: Rue des Granges
+housenumber: "105"
 phone: "+33745049921"
-opening_hours: "Mo-Sa 12:00-20:00"
-website: "https://moon-massage.fr/"
+opening_hours: Mo-Sa 12:00-20:00
+website: https://moon-massage.fr/

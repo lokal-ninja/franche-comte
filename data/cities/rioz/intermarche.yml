@@ -1,11 +1,11 @@
 id: 736987836
-type: way
+type: node
 latitude: 47.43173
 longitude: 6.06794
 postcode: "70190"
 city: Rioz
-street: "Rue du Tacot"
-housenumber: 
+street: Rue du Tacot
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

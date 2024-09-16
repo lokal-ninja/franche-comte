@@ -4,8 +4,8 @@ latitude: 47.23852
 longitude: 6.02306
 postcode: "25000"
 city: Besançon
-street: "Grande Rue"
-housenumber: 41
+street: Grande Rue
+housenumber: "41"
 phone: "+33381538277"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.etam.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.etam.com/

@@ -4,8 +4,8 @@ latitude: 47.21501
 longitude: 6.82116
 postcode: "25140"
 city: Charquemont
-street: "Grande Rue"
-housenumber: 5
-phone: "+33 3 81 68 20 00"
-opening_hours: "Mo-Fr 07:15-12:00,13:15-19:00; Sa 07:30-12:00,13:30-17:00; Su 09:30-12:00"
+street: Grande Rue
+housenumber: "5"
+phone: +33 3 81 68 20 00
+opening_hours: Mo-Fr 07:15-12:00,13:15-19:00; Sa 07:30-12:00,13:30-17:00; Su 09:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 72367873
-type: way
+type: node
 latitude: 47.21624
 longitude: 5.95041
 postcode: "25000"
 city: Besançon
-street: "Rue André Breton"
-housenumber: 
+street: Rue André Breton
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/

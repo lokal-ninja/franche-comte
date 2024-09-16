@@ -4,8 +4,8 @@ latitude: 46.67326
 longitude: 5.49629
 postcode: "39570"
 city: Courlans
-street: "Rue Robert Morland"
-housenumber: 110
-phone: "+33 3 84 35 69 24"
-opening_hours: "Mo-We 08:30-12:00,14:00-19:00; Fr 08:30-19:00; Sa 08:00-16:00"
+street: Rue Robert Morland
+housenumber: "110"
+phone: +33 3 84 35 69 24
+opening_hours: Mo-We 08:30-12:00,14:00-19:00; Fr 08:30-19:00; Sa 08:00-16:00
 website: ""

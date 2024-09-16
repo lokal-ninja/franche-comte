@@ -1,11 +1,11 @@
 id: 243362387
-type: way
+type: node
 latitude: 46.67551
 longitude: 5.58024
 postcode: "39570"
 city: Perrigny
-street: "Rue des Grangettes"
-housenumber: 
-phone: "+33 3 84 86 11 11"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-17:00"
-website: "http://www.groupe-pernet.com/"
+street: Rue des Grangettes
+housenumber: ""
+phone: +33 3 84 86 11 11
+opening_hours: Mo-Fr 08:30-12:00,14:00-17:00
+website: http://www.groupe-pernet.com/

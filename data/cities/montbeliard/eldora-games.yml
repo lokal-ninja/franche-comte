@@ -4,8 +4,8 @@ latitude: 47.51082
 longitude: 6.79972
 postcode: "25200"
 city: Montbéliard
-street: "Rue de la Souaberie"
-housenumber: 8
-phone: "+33 3 81 95 43 37"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.eldora.fr"
+street: Rue de la Souaberie
+housenumber: "8"
+phone: +33 3 81 95 43 37
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:00,14:00-19:00
+website: https://www.eldora.fr

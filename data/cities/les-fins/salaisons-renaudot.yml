@@ -1,11 +1,11 @@
 id: 90796825
-type: way
+type: node
 latitude: 47.08629
 longitude: 6.63861
 postcode: "25500"
 city: Les Fins
-street: "Route de Maîche"
-housenumber: 20
-phone: "+33 3 81 67 46 85"
+street: Route de Maîche
+housenumber: "20"
+phone: +33 3 81 67 46 85
 opening_hours: ""
-website: "https://www.renaudot-traiteur.com/"
+website: https://www.renaudot-traiteur.com/

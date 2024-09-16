@@ -4,8 +4,8 @@ latitude: 46.9036
 longitude: 6.35471
 postcode: "25300"
 city: Pontarlier
-street: "Rue de la République"
-housenumber: 65
+street: Rue de la République
+housenumber: "65"
 phone: "3900"
-opening_hours: "Mo 10:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://agence.orange.fr/5615-boutique-orange-pontarlier"
+opening_hours: Mo 10:00-19:00; Tu-Sa 09:30-19:00
+website: https://agence.orange.fr/5615-boutique-orange-pontarlier

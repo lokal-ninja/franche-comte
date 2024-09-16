@@ -1,11 +1,11 @@
 id: 127557411
-type: way
+type: node
 latitude: 47.19091
 longitude: 6.39469
 postcode: "25530"
 city: Vercel-Villedieu-le-Camp
-street: "Rue du Chanois"
-housenumber: 2
+street: Rue du Chanois
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""
