@@ -1,5 +1,5 @@
 ---
-title: "Coccimarket"
+title: "CocciMarket"
 url: /charquemont/coccimarket/
-shop: supermarché
+shop: commodité
 ---
