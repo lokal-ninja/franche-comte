@@ -1,5 +1,5 @@
 ---
-title: "Biocoop"
+title: "BioCoop"
 url: /besancon/biocoop/
 shop: supermarché
 ---

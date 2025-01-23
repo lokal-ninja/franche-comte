@@ -1,6 +1,6 @@
 ---
 title: Pontarlier
 url: /pontarlier/
-latitude: 46.903
+latitude: 46.91
 longitude: 6.355
 ---
