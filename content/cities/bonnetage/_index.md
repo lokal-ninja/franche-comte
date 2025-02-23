@@ -1,6 +1,6 @@
 ---
 title: Bonnétage
 url: /bonnetage/
-latitude: 47.186
-longitude: 6.72
+latitude: 47.182
+longitude: 6.727
 ---
