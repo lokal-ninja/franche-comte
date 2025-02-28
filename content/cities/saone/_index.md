@@ -1,6 +1,6 @@
 ---
 title: Saône
 url: /saone/
-latitude: 47.208
-longitude: 6.102
+latitude: 47.21
+longitude: 6.1
 ---
