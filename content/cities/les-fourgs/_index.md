@@ -1,6 +1,6 @@
 ---
 title: Les Fourgs
 url: /les-fourgs/
-latitude: 46.835
-longitude: 6.402
+latitude: 46.836
+longitude: 6.4
 ---
