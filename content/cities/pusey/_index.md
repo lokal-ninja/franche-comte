@@ -1,6 +1,6 @@
 ---
 title: Pusey
 url: /pusey/
-latitude: 47.647
-longitude: 6.141
+latitude: 47.649
+longitude: 6.142
 ---
