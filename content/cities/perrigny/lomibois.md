@@ -1,5 +1,5 @@
 ---
-title: "LOMIBOIS"
+title: "Lomibois"
 url: /perrigny/lomibois/
-shop: artisanat
+shop: matériel informatique
 ---
