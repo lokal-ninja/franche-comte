@@ -1,6 +1,6 @@
 ---
 title: Montlebon
 url: /montlebon/
-latitude: 47.044
+latitude: 47.043
 longitude: 6.607
 ---
