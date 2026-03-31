@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie"
-url: /charquemont/boulangerie-patisserie-rue-du-chalet/
+url: /charquemont/boulangerie-patisserie-rue-de-la-gare/
 shop: boulangerie
 ---

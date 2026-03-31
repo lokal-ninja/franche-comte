@@ -1,6 +1,6 @@
 ---
 title: Cour-Saint-Maurice
 url: /cour-saint-maurice/
-latitude: 47.262
-longitude: 6.703
+latitude: 47.263
+longitude: 6.702
 ---
