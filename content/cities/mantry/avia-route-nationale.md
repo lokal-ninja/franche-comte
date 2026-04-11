@@ -1,5 +1,5 @@
 ---
 title: "Avia"
-url: /mantry/avia-2/
+url: /mantry/avia-route-nationale/
 shop: commodité
 ---

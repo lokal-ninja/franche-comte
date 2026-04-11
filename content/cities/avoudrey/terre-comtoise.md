@@ -1,5 +1,5 @@
 ---
 title: "Terre Comtoise"
 url: /avoudrey/terre-comtoise/
-shop: réparation de voitures
+shop: à faire soi-même
 ---

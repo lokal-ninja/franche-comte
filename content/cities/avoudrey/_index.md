@@ -1,6 +1,6 @@
 ---
 title: Avoudrey
 url: /avoudrey/
-latitude: 47.142
-longitude: 6.443
+latitude: 47.13
+longitude: 6.433
 ---
