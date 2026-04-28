@@ -1,6 +1,6 @@
 ---
 title: Choisey
 url: /choisey/
-latitude: 47.067
-longitude: 5.456
+latitude: 47.068
+longitude: 5.457
 ---
