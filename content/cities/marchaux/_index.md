@@ -1,6 +1,6 @@
 ---
 title: Marchaux
 url: /marchaux/
-latitude: 47.324
-longitude: 6.133
+latitude: 47.323
+longitude: 6.134
 ---
