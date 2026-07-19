@@ -1,5 +1,5 @@
 ---
 title: "Extra - Dms"
-url: /balanod/extra-dms/
+url: /st-amour/extra-dms/
 shop: électronique
 ---
