@@ -7,5 +7,5 @@ city: Montagney
 street: Grande Rue
 housenumber: "5"
 phone: "+33384322153"
-opening_hours: mo-sa 07:30-12:30 mo-sa 16:00-19:30 su 07:30-12:30
+opening_hours: Mo-Sa 07:30-12:30,16:00-19:30; Su 07:30-12:30
 website: https://epicerie-de-montagney.eatbu.com/?lang=fr

@@ -2,5 +2,5 @@
 title: Crançot
 url: /crancot/
 latitude: 46.688
-longitude: 5.649
+longitude: 5.669
 ---

@@ -7,6 +7,5 @@ city: Baume-les-Dames
 street: Esplanade du Breuil
 housenumber: "3"
 phone: +33 3 81 84 08 33
-opening_hours: Mo-Tu 09:00-12:00,14:00-18:00; We 09:00-12:00; Th 09:00-1200,1400-18:00;
-    Fr 09:00-12:00
+opening_hours: Mo,Tu,Th 09:00-12:00,14:00-18:00; We,Fr 09:00-12:00
 website: ""

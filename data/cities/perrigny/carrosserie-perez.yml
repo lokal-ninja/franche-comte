@@ -7,5 +7,5 @@ city: Perrigny
 street: Rue de la Lième
 housenumber: "1450"
 phone: ""
-opening_hours: Mo-Sa 08:00-12:00 14:00-18:00
+opening_hours: Mo-Sa 08:00-12:00,14:00-18:00
 website: https://www.garage-perez.fr/
