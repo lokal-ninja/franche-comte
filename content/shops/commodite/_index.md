@@ -1,5 +1,5 @@
 ---
 title: commodité
 url: /commodite/
-icon: convenience
+icon: other
 ---
