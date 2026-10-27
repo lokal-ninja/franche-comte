@@ -1,6 +1,6 @@
 ---
 title: Châtillon-le-Duc
 url: /chatillon-le-duc/
-latitude: 47.284
-longitude: 5.995
+latitude: 47.286
+longitude: 5.993
 ---
