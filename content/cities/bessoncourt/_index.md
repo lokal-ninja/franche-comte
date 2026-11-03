@@ -1,6 +1,6 @@
 ---
 title: Bessoncourt
 url: /bessoncourt/
-latitude: 47.647
-longitude: 6.936
+latitude: 47.644
+longitude: 6.914
 ---
