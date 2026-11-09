@@ -1,5 +1,5 @@
 ---
 title: "BH Atelier"
 url: /audincourt/bh-atelier/
-shop: shop
+shop: réparation de voitures
 ---
