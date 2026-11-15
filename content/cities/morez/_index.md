@@ -1,6 +1,6 @@
 ---
 title: Morez
 url: /morez/
-latitude: 46.518
-longitude: 6.023
+latitude: 46.521
+longitude: 6.021
 ---
