@@ -1,6 +1,6 @@
 ---
 title: Arinthod
 url: /arinthod/
-latitude: 46.403
-longitude: 5.564
+latitude: 46.402
+longitude: 5.578
 ---
